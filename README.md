@@ -30,11 +30,10 @@ We are building the web/mobile applications that we wish existed.
 
 - Card App
 - ideaQ
+- Your Idea?
 
 
 ### Scratching Your Own Itch
-
-
 
 
 Scratching your own itch means solving a problem you *personally* have.
@@ -45,6 +44,25 @@ https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
 
 ## Web
 
+### Which Client MVC Framework?
+
+- Angular.js
+- Backbone.js
+- Riot.js
+
+Right now I'm toying with the idea of using either Angular or Riot.
+
+Ultimately we want to wrap our JS as PhoneGap app (see mobile below)
+so that the app can be run as a semi-native app (download from app store,
+local/offline storage, etc.) and it makes sense to keep it as small as possible.
+
+
+
+### Which Datbase?
+
+- Postgres
+- MongoDB
+- CouchDB
 
 
 ## Mobile
