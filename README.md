@@ -5,21 +5,22 @@ A Quick-start Guide for New People.
 
 ## Why?
 
+The world is not perfect.
 We have all worked somewhere we *didn't* ***love***. <br />
 We have all experienced using products that had flaws.
 
-Rather than waiting for someone else to solve our "problems" do it ourselves.
-
-
+Rather than waiting for someone else to solve our "problems" we are taking on the challenge ourselves.
 
 
 ## Who?
 
 Who is "We"?
 
-For now we are just two people: 
-[@iteles](https://twitter.com/iteles) and 
+For now we are just three people: 
+[@iteles](https://twitter.com/iteles),  [@mmendes](https://github.com/mmendes)
+and 
 [@nelsonic](https://twitter.com/nelsonic)
+
 
 We hope that you join us in finding something you ***love*** working on.
 
@@ -28,15 +29,15 @@ We hope that you join us in finding something you ***love*** working on.
 
 We are building the web/mobile applications that we wish existed.
 
-- Card App
+- Card App [working title]
 - ideaQ
-- Your Idea?
+- *Your Idea Here*?
 
 
 ### Scratching Your Own Itch
 
 
-Scratching your own itch means solving a problem you *personally* have.
+Scratching your own itch means solving a problem you (or someone *close* to you) *personally* have.
 
 Read:
 https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
@@ -63,6 +64,11 @@ local/offline storage, etc.) and it makes sense to keep it as small as possible.
 - Postgres
 - MongoDB
 - CouchDB
+
+Having recently used MongoDB for a client project I'm swaying towards using it
+for my next app. But I'm a huge fan of CouchDB.
+I will need to spend a bit of time investigating a few features tomorrow...
+
 
 
 ## Mobile
