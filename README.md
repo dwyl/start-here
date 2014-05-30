@@ -1,7 +1,7 @@
-Start Here
+Start where you are. Use what you have. Do what you can. ~ Arthur Ashe
 ==========
 
-A Quick-start Guide for New People.
+A Quick-start Guide for People who want to build awesome apps.
 
 ## Why?
 
