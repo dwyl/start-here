@@ -45,6 +45,12 @@ https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
 
 ## Web
 
+### JavaScript
+
+[Ines](http://github.com/iteles) has prepared a great notes on
+[JavaScript The Good Parts](https://github.com/iteles/Javascript-the-Good-Parts/blob/master/Notes-on-Javascript-the-Good-Parts.md)
+
+
 ### Which Client MVC Framework?
 
 - Angular.js
