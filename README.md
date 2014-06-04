@@ -17,7 +17,7 @@ Rather than waiting for someone else to solve our "problems" we are taking on th
 Who is "We"?
 
 For now we are just three people: 
-[@iteles](https://twitter.com/iteles),  [@mmendes](https://github.com/mmendes)
+[@iteles](https://twitter.com/iteles),  [@mmendes](https://github.com/mmendes999)
 and 
 [@nelsonic](https://twitter.com/nelsonic)
 
