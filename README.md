@@ -46,12 +46,21 @@ Read:
 https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
 
 
-## Web
+## Web Fundamentals
+
+### HTML5
+
+### CSS
 
 ### JavaScript
 
+Love it or hate it, JavaScript is Ubiquitous. Learning it well is *essential*.
 [Ines](http://github.com/iteles) has prepared a great notes on
 [JavaScript The Good Parts](https://github.com/iteles/Javascript-the-Good-Parts/blob/master/Notes-on-Javascript-the-Good-Parts.md)
+
+### Testing
+
+### (REST) APIs
 
 
 ### Which Client MVC Framework?
