@@ -1,28 +1,29 @@
-Start where you are. Use what you have. Do what you can. ~ Arthur Ashe
+Start Here
 ==========
+
+> Start where you are. Use what you have. Do what you can. 
+> ~ [Arthur Ashe](http://en.wikipedia.org/wiki/Arthur_Ashe)
 
 A Quick-start Guide for People who want to build awesome apps.
 
-## Why?
+## (Start with) Why?
 
-The world is not perfect.
+The world is not perfect. <br />
 We have all worked somewhere we *didn't* ***love***. <br />
-We have all experienced using products that had flaws.
-
-Rather than waiting for someone else to solve our "problems" we are taking on the challenge ourselves.
+We have all experienced using products that had flaws. <br/>
+Rather than waiting for someone else to solve our "problems" 
+we are taking on the challenge ourselves.
 
 
 ## Who?
 
-Who is "We"?
-
+Who is "We"? <br />
 For now we are just three people: 
 [@iteles](https://twitter.com/iteles),  [@mmendes](https://github.com/mmendes999)
 and 
 [@nelsonic](https://twitter.com/nelsonic)
 
-
-We hope that you join us in finding something you ***love*** working on.
+Join us in finding something you ***love*** working on.
 
 
 ## What?
@@ -30,14 +31,16 @@ We hope that you join us in finding something you ***love*** working on.
 We are building the web/mobile applications that we wish existed.
 
 - Card App [working title]
-- ideaQ
+- ideaQ [record, prioritise, share & collaborate on your ideas]
 - *Your Idea Here*?
 
 
 ### Scratching Your Own Itch
 
-
+We believe in scratching our own itches.
 Scratching your own itch means solving a problem you (or someone *close* to you) *personally* have.
+If you (or someone close to you) don't have any personal experience in a field 
+you aren't going to do a good job of spotting/solving a problem in that area.
 
 Read:
 https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
@@ -53,9 +56,9 @@ https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
 
 ### Which Client MVC Framework?
 
-- Angular.js
-- Backbone.js
-- Riot.js
+- Angular.js - Mature and full-featured. 
+- ~~Backbone.js~~ 
+- Riot.js - Minimalist (learn it in 2h)
 
 Right now I'm toying with the idea of using either Angular or Riot.
 
@@ -67,13 +70,13 @@ local/offline storage, etc.) and it makes sense to keep it as small as possible.
 
 ### Which Datbase?
 
-- Postgres
-- MongoDB
-- CouchDB
+- Postgres - The best relational dabase for 
+- MongoDB  - Good balance of features, performance and ease of use.
+- CouchDB  - Great reliability, master-master replication and simplicity.
 
 Having recently used MongoDB for a client project I'm swaying towards using it
 for my next app. But I'm a huge fan of CouchDB.
-I will need to spend a bit of time investigating a few features tomorrow...
+We need to spend a bit of time investigating features before deciding...
 
 
 
