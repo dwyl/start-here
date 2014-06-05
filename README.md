@@ -60,6 +60,10 @@ Love it or hate it, JavaScript is Ubiquitous. Learning it well is *essential*.
 
 ### Testing
 
+Testing is often left as an afterthought or ommitted completely from 
+"beginner" tutorials or books. That will not be the case here.
+You will learn *why* testing is not just a "nice-to-have".
+
 ### (REST) APIs
 
 
