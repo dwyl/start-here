@@ -66,6 +66,22 @@ You will learn *why* testing is not just a "nice-to-have".
 
 ### (REST) APIs
 
+We will be building our apps with RESTful 
+[Service Oriented Architecture](http://en.wikipedia.org/wiki/Service-oriented_architecture)
+Backend. This has *several* advantages:
+
+1. Each piece of functionality is run as a service (so its easy to isolate, test and scale)
+2. The client we build (web app or mobile app) both (independently) "consume" the same service via REST API 
+(which means that the font-end is completely decoupled from the backend of the app - easier to change/itterate)
+3. If our app/product gets popular we already have an API built and can allow 3rd party integration/extensions.
+
+
+I'm busy preparing a *detailed* tutorial for doing exactly this using Hapi.js
+at: https://github.com/nelsonic/learn-hapi
+You can already get started reading it and the supporting links
+And watch as the tutorial progresses.
+
+
 
 ### Which Client MVC Framework?
 
