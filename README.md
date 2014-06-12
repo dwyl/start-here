@@ -64,7 +64,7 @@ Testing is often left as an afterthought or ommitted completely from
 "beginner" tutorials or books. That will not be the case here.
 You will learn *why* testing is not just a "nice-to-have".
 
-### (REST) APIs
+### Service Oriented Architecture with (REST) APIs
 
 We will be building our apps with RESTful 
 [Service Oriented Architecture](http://en.wikipedia.org/wiki/Service-oriented_architecture)
@@ -81,6 +81,8 @@ at: https://github.com/nelsonic/learn-hapi
 You can already get started reading it and the supporting links
 And watch as the tutorial progresses.
 
+
+>> Watch: https://www.youtube.com/watch?v=uDzME15UxVM (Share.js)
 
 
 ### Which Client MVC Framework?
