@@ -58,6 +58,14 @@ Love it or hate it, JavaScript is Ubiquitous. Learning it well is *essential*.
 [Ines](http://github.com/iteles) has prepared a great notes on
 [JavaScript The Good Parts](https://github.com/iteles/Javascript-the-Good-Parts/blob/master/Notes-on-Javascript-the-Good-Parts.md)
 
+#### Server Side = Node.js
+
+- Download: http://nodejs.org/download/ (all platforms)
+- Node.js (books): https://github.com/Pana/node-books 
+- Node.js style guide: https://github.com/felixge/node-style-guide
+
+
+
 ### Testing
 
 Testing is often left as an afterthought or ommitted completely from 
