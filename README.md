@@ -61,10 +61,12 @@ Love it or hate it, JavaScript is Ubiquitous. Learning it well is *essential*.
 #### Server Side = Node.js
 
 - Download: http://nodejs.org/download/ (all platforms)
+- Beginners guide: http://www.nodebeginner.org/
+- Udemy Tutorial: https://www.udemy.com/nodejs-tutorial-from-scratch-by-examples
 - Node.js (books): https://github.com/Pana/node-books 
 - Node.js style guide: https://github.com/felixge/node-style-guide
 
-
+> Investigate: http://tableflip.io/building-a-dnode-rpc-server-in-50-lines-of-code/
 
 ### Testing
 
