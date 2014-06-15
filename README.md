@@ -127,6 +127,8 @@ We need to spend a bit of time investigating features before deciding...
 
 We are using PhoneGap to *rapidly prototype* "hybrid" mobile applications.
 
+- PhoneGap Tutorial: http://www.smashingmagazine.com/2014/02/11/four-ways-to-build-a-mobile-app-part3-phonegap/
+
 #### What is the Difference between Native and Hybrid Apps?
 
 - Jacob Nielson explains Native vs Hybrid: 
