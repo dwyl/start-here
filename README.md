@@ -1,7 +1,7 @@
 Start Here
 ==========
 
-> Start where you are. Use what you have. Do what you can. 
+> Start where you are. Use what you have. Do what you can.
 > ~ [Arthur Ashe](http://en.wikipedia.org/wiki/Arthur_Ashe)
 
 A Quick-start Guide for People who want to build awesome apps.
@@ -11,16 +11,16 @@ A Quick-start Guide for People who want to build awesome apps.
 The world is not perfect. <br />
 We have all worked somewhere we *didn't* ***love***. <br />
 We have all experienced using products that had flaws. <br/>
-Rather than waiting for someone else to solve our "problems" 
+Rather than waiting for someone else to solve our "problems"
 we are taking on the challenge ourselves.
 
 
 ## Who?
 
 Who is "We"? <br />
-For now we are just three people: 
+For now we are just three people:
 [@iteles](https://twitter.com/iteles),  [@mmendes](https://github.com/mmendes999)
-and 
+and
 [@nelsonic](https://twitter.com/nelsonic)
 
 Join us in finding something you ***love*** working on.
@@ -39,11 +39,17 @@ We are building the web/mobile applications that we wish existed.
 
 We believe in scratching our own itches.
 Scratching your own itch means solving a problem you (or someone *close* to you) *personally* have.
-If you (or someone close to you) don't have any personal experience in a field 
+If you (or someone close to you) don't have any personal experience in a field
 you aren't going to do a good job of spotting/solving a problem in that area.
 
 Read:
 https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
+
+## What do I need?
+
+- [x] A computer
+- [x] A text editor. We prefer [Atom](https://atom.io/)
+- [x] [Node.js](http://nodejs.org/download/)
 
 
 ## Web Fundamentals
@@ -63,25 +69,25 @@ Love it or hate it, JavaScript is Ubiquitous. Learning it well is *essential*.
 - Download: http://nodejs.org/download/ (all platforms)
 - Beginners guide: http://www.nodebeginner.org/
 - Udemy Tutorial: https://www.udemy.com/nodejs-tutorial-from-scratch-by-examples
-- Node.js (books): https://github.com/Pana/node-books 
+- Node.js (books): https://github.com/Pana/node-books
 - Node.js style guide: https://github.com/felixge/node-style-guide
 
 > Investigate: http://tableflip.io/building-a-dnode-rpc-server-in-50-lines-of-code/
 
 ### Testing
 
-Testing is often left as an afterthought or ommitted completely from 
+Testing is often left as an afterthought or ommitted completely from
 "beginner" tutorials or books. That will not be the case here.
 You will learn *why* testing is not just a "nice-to-have".
 
 ### Service Oriented Architecture with (REST) APIs
 
-We will be building our apps with RESTful 
+We will be building our apps with RESTful
 [Service Oriented Architecture](http://en.wikipedia.org/wiki/Service-oriented_architecture)
 Backend. This has *several* advantages:
 
 1. Each piece of functionality is run as a service (so its easy to isolate, test and scale)
-2. The client we build (web app or mobile app) both (independently) "consume" the same service via REST API 
+2. The client we build (web app or mobile app) both (independently) "consume" the same service via REST API
 (which means that the font-end is completely decoupled from the backend of the app - easier to change/itterate)
 3. If our app/product gets popular we already have an API built and can allow 3rd party integration/extensions.
 
@@ -97,8 +103,8 @@ And watch as the tutorial progresses.
 
 ### Which Client MVC Framework?
 
-- Angular.js - Mature and full-featured. 
-- ~~Backbone.js~~ 
+- Angular.js - Mature and full-featured.
+- ~~Backbone.js~~
 - Riot.js - Minimalist (learn it in 2h)
 
 Right now I'm toying with the idea of using either Angular or Riot.
@@ -111,7 +117,7 @@ local/offline storage, etc.) and it makes sense to keep it as small as possible.
 
 ### Which Datbase?
 
-- Postgres - The best relational dabase for 
+- Postgres - The best relational dabase for
 - MongoDB  - Good balance of features, performance and ease of use.
 - CouchDB  - Great reliability, master-master replication and simplicity.
 
@@ -131,12 +137,10 @@ We are using PhoneGap to *rapidly prototype* "hybrid" mobile applications.
 
 #### What is the Difference between Native and Hybrid Apps?
 
-- Jacob Nielson explains Native vs Hybrid: 
+- Jacob Nielson explains Native vs Hybrid:
 http://www.nngroup.com/articles/mobile-native-apps
 - Is Hybrid ready? http://venturebeat.com/2013/11/20/html5-vs-native-vs-hybrid-mobile-apps-3500-developers-say-all-three-please/ (the short answer is ***Yes***!)
 
-A good (but *long*) intro tutorial to PhoneGap V.3 was recorded 
-[@LXJS](http://2013.lxjs.org/guide) in October 2013: 
+A good (but *long*) intro tutorial to PhoneGap V.3 was recorded
+[@LXJS](http://2013.lxjs.org/guide) in October 2013:
 http://phonegap.com/blog/2013/11/12/lxjs-workshop/
-
-
