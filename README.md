@@ -47,10 +47,12 @@ https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
 
 ## What do I need?
 
-- [x] A computer
+- [x] A computer (preferably a recent one)
 - [x] A text editor. We prefer [Atom](https://atom.io/)
 - [x] [Node.js](http://nodejs.org/download/)
-
+- [x] Curiosity
+- [x] Enthusiasm
+- [ ] Time?
 
 ## Web Fundamentals
 
