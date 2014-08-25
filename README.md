@@ -10,18 +10,18 @@ A Quick-start Guide for People who want to build awesome apps.
 
 The world is not perfect. <br />
 We have all worked somewhere we *didn't* ***love***. <br />
-We have all experienced using products that had flaws. <br/>
-Rather than waiting for someone else to solve our "problems"
+We have all experienced using products that had/have flaws. <br/>
+Rather than *waiting* for someone else to solve our "problems"
 we are taking on the challenge ourselves.
 
 
 ## Who?
 
 Who is "We"? <br />
-For now we are just three people:
+For now we are just four people:
 [@iteles](https://twitter.com/iteles),  
-[@mmendes](https://github.com/mmendes999)
-
+[@mmendes](https://github.com/mmendes999),
+[@edwardcodes](https://github.com/edwardcodes)
 and
 [@nelsonic](https://twitter.com/nelsonic)
 
