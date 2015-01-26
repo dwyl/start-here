@@ -1,6 +1,8 @@
 Start Here
 ==========
 
+![sho+shin](http://i.imgur.com/p538Ld2.jpg)
+
 > Start where you are. Use what you have. Do what you can.
 > ~ [Arthur Ashe](http://en.wikipedia.org/wiki/Arthur_Ashe)
 
@@ -25,7 +27,8 @@ For now we are just four people:
 and
 [@nelsonic](https://twitter.com/nelsonic)
 
-Join us in finding something you ***love*** working on.
+***Join us*** in finding something you want to ***solve*** and will
+***love*** working on.
 
 
 ## What?
@@ -51,7 +54,9 @@ https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
 
 - [x] ***Curiosity*** - "I have no special talent. I am only passionately curious." ~ Albert Einstein
 - [x] ***Enthusiasm*** - "Enthusiasm spells the difference between mediocrity and accomplishment." ~ Norman Vincent Peale
-- [ ] Time?
+- [x] [***Shoshin***](http://en.wikipedia.org/wiki/Shoshin) (**Beginner's Mind**) -
+- [x] ***Persistance*** - “If you wish to be out front, then act as if you were behind.” ~ Lao Tzu
+- [ ] Time (work [**super hard** ... ***every waking hour***](https://www.youtube.com/watch?v=NU7W7qe2R0A))
 
 ### What tools will I need?
 
