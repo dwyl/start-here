@@ -57,6 +57,8 @@ https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
 - [x] [***Shoshin***](http://en.wikipedia.org/wiki/Shoshin) (**Beginner's Mind**) -
 - [x] ***Persistance*** - “If you wish to be out front, then act as if you were behind.” ~ Lao Tzu
 - [ ] Time (work [**super hard** ... ***every waking hour***](https://www.youtube.com/watch?v=NU7W7qe2R0A))
+- [x] **Awareness** of how you're spending your time and learning to work to your productive hours and habits
+- [ ] Knowing when to ask for help and when to persevere through to find the answer yourself
 
 ### What tools will I need?
 
