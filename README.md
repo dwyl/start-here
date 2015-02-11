@@ -16,6 +16,7 @@ We have all experienced using products that had/have flaws. <br/>
 Rather than *waiting* for someone else to solve our "problems"
 we are taking on the challenge ourselves.
 
+**We simplify. We enable people to get through their _need-tos_ efficiently so they can get to their _want-tos_.**
 
 ## Who?
 
