@@ -16,17 +16,16 @@ We have all experienced using products that had/have flaws. <br/>
 Rather than *waiting* for someone else to solve our "problems"
 we are taking on the challenge ourselves.
 
-**We simplify. We enable people to get through their _need-tos_ efficiently so they can get to their _want-tos_.**
+**We simplify. We enable people to get through their _need-tos_ efficiently so they can get to their _want-tos_.** If you'd like to know more, take a look at **our [manifesto](/manifesto.md)**.
 
 ## Who?
 
 Who is "We"? <br />
 For now we are just four people:
-[@iteles](https://twitter.com/iteles),  
-[@mmendes](https://github.com/mmendes999),
+[@iteles](https://twitter.com/iteles), [@nelsonic](https://twitter.com/nelsonic),
 [@edwardcodes](https://github.com/edwardcodes)
 and
-[@nelsonic](https://twitter.com/nelsonic)
+[@hyprstack](https://github.com/hyprstack)
 
 ***Join us*** in finding something you want to ***solve*** and will
 ***love*** working on.
@@ -38,6 +37,7 @@ We are building the web/mobile applications that we wish existed.
 
 - Card App [working title]
 - ideaQ [record, prioritise, share & collaborate on your ideas]
+- time [time tracking]
 - *What question do* ***you*** *want to answer...*?
 
 
