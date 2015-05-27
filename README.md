@@ -130,7 +130,7 @@ local/offline storage, etc.) and it makes sense to keep it as small as possible.
 
 
 
-### Which Datbase?
+### Which Database?
 
 - Postgres - The best relational dabase for
 - MongoDB  - Good balance of features, performance and ease of use.
