@@ -55,7 +55,9 @@ https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
 
 - [x] ***Curiosity*** - "I have no special talent. I am only passionately curious." ~ Albert Einstein
 - [x] ***Enthusiasm*** - "Enthusiasm spells the difference between mediocrity and accomplishment." ~ Norman Vincent Peale
-- [x] [***Shoshin***](http://en.wikipedia.org/wiki/Shoshin) (**Beginner's Mind**) -
+- [x] [***Shoshin***](http://en.wikipedia.org/wiki/Shoshin) (**Beginner's Mind**)
+  + "*I'm not young enough to know everything*" ~ [J. M. Barrie](http://en.wikiquote.org/wiki/J._M._Barrie)
+  + “*Your mind is like a parachute; it only works when it is open*.”  ~ Anthony D'Angelo
 - [x] ***Persistance*** - “If you wish to be out front, then act as if you were behind.” ~ Lao Tzu
 - [ ] Time (work [**super hard** ... ***every waking hour***](https://www.youtube.com/watch?v=NU7W7qe2R0A))
 - [x] **Awareness** of how you're spending your time and learning to work to your productive hours and habits
@@ -67,20 +69,47 @@ https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
 - [x] A text editor. e.g. [Atom](https://atom.io/)
 - [x] [Node.js](http://nodejs.org/download/) for building server-side apps.
 
-## Web Fundamentals
+
+## Web Development *Fun*damentals
+
+
+### Touch Typing
+
+***Before*** you dive into programming, learning how to touch-type on your
+computer is the *single* ***best investment*** you can make.
+All this means is *practicing* typing with the "*correct* fingers" until you don't have to think about where the keys are. Some of the best programmers we know can type faster than *most* people can *think* ... take a moment for that to settle in.
+
+[![playing piano blindfolded](http://i.imgur.com/4dzAeSz.jpg)](https://www.youtube.com/watch?v=Z-iyiWHI2nA "playing piano blindfolded")
+
+You need to be able to type ***blindfolded*** to become a true maestro.
+
 
 ### HTML5
 
+You can learn 90% of what you need to know in HTML in a couple of hours (*from scratch*):
+
++ HTML Tutorial for Beginners in 1 Hour: https://www.youtube.com/watch?v=5TBU_jLZuG4
++ Learn HTML**5** from Scratch in 1 Hour: Learn HTML5 in 1 Hour: https://www.youtube.com/watch?v=s37GTK6JFcI
+
+
 ### CSS
+
+**C**ascading **S**tyle **S**heets (***CSS***) is what makes the web attractive. If you want to see the power of CSS, visit ZenGarden:  http://www.mezzoblue.com/zengarden/alldesigns/
+
++ CSS Tutorial for Beginners in 1 Hour: https://youtu.be/hChVrWENonE?t=9s
 
 ### JavaScript
 
-Love it or hate it, JavaScript is Ubiquitous. Learning it well is *essential*.
+Love it or hate it, **JavaScript is** ***Ubiquitous***. Becoming a ***JS Ninja*** is ***essential***.
 [Ines](http://github.com/iteles) has prepared a great notes on
 [JavaScript The Good Parts](https://github.com/iteles/Javascript-the-Good-Parts/blob/master/Notes-on-Javascript-the-Good-Parts.md)
+Keep "**The Good Parts**" in mind while you are *writing* (*and reading*) JS.
+
+Watch this 1h intro tutorial: https://www.youtube.com/watch?v=fCa7yTZV4tQ
 
 #### Server-Side = Node.js
 
++ What is Node.js and why is it useful? https://www.youtube.com/watch?v=pU9Q6oiQNd0
 - Download: http://nodejs.org/download/ (all platforms)
 - Beginners guide: http://www.nodebeginner.org/
 - Udemy Tutorial: https://www.udemy.com/nodejs-tutorial-from-scratch-by-examples
