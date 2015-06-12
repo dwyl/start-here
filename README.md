@@ -1,7 +1,7 @@
 Start Here
 ==========
 
-![sho+shin](http://i.imgur.com/p538Ld2.jpg)
+![dwyl-logo-wide](https://cloud.githubusercontent.com/assets/194400/8125617/08381538-10df-11e5-928d-075cb6193004.png)
 
 > Start where you are. Use what you have. Do what you can.
 > ~ [Arthur Ashe](http://en.wikipedia.org/wiki/Arthur_Ashe)
@@ -15,8 +15,12 @@ We have all worked somewhere we *didn't* ***love***. <br />
 We have all experienced using products that had/have flaws. <br/>
 Rather than *waiting* for someone else to solve our "problems"
 we are taking on the challenge ourselves.
+And we are making ***Everything Open Source*** along the way,
+so that you too can **D**o **W**hat **Y**ou **L**ove!
 
-**We simplify. We enable people to get through their _need-tos_ efficiently so they can get to their _want-tos_.** If you'd like to know more, take a look at **our [manifesto](/manifesto.md)**.
+**We simplify. We enable people to get through their _need-tos_ efficiently so they can get to their _want-tos_.**
+
+If you'd like to know more, *please read* ***our [manifesto](/manifesto.md)***.
 
 ## Who?
 
@@ -33,15 +37,17 @@ and
 
 ## What?
 
-We are building the web/mobile applications that we wish existed.
+We are building the tools we need to help us (and the people we care about) get things (*they love*) ***done***.
 
-- Card App [working title]
-- ideaQ [record, prioritise, share & collaborate on your ideas]
-- time [time tracking]
+- Time [track any time based activity]
++ Doing [track what you are working on ...]
+- Next [record, prioritise, share & collaborate on your ideas]
+- When? [sync, calendars and selectively share availability with your work colleagues, friends & family to discover when the best time for an activity/event is]
+- Birthday/Special Event Reminder [*AKA* The Card & Gift App]
 - *What question do* ***you*** *want to answer...*?
 
 
-### Scratching Your Own Itch
+### Scratching Your *Own* Itch
 
 We believe in scratching our own itches.
 Scratching your own itch means solving a problem you (or someone *close* to you) *personally* have.
@@ -61,16 +67,35 @@ https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
 - [x] ***Persistance*** - “If you wish to be out front, then act as if you were behind.” ~ Lao Tzu
 - [ ] Time (work [**super hard** ... ***every waking hour***](https://www.youtube.com/watch?v=NU7W7qe2R0A))
 - [x] **Awareness** of how you're spending your time and learning to work to your productive hours and habits
-- [ ] Knowing when to ask for help and when to persevere through to find the answer yourself
++ [ ] ***Great Google Skills*** - the ability to formulate a good question
+(*so you can get a useful answer from Google*) is (*more than*) half the challenge in any coding task.
+- [ ] ***Self-reliance***: when you get stuck on a task, knowing when to ***ask for help*** and when to persevere through to find the answer yourself.
 
-### What tools will I need?
+### What *tools* will I need?
 
-- [x] ***A computer*** (preferably a *recent* one)
+- [x] ***A computer*** (preferably a *recent* one ... *Chromebooks are Perfect!*)
+
+#### Software
+
+*Installing* software is 100% optional. You can use Cloud9 to develop completely online: https://c9.io/
+
+If you prefer to develop offline or have a faster response, you will need:
+
 - [x] A text editor. e.g. [Atom](https://atom.io/)
 - [x] [Node.js](http://nodejs.org/download/) for building server-side apps.
 
 
-## Web Development *Fun*damentals
+## Web Development _Fun_damentals
+
+We have listed the skills you need to know in the order you need to learn them:
+
+### Basic Computer Skills
+
+![have_you_tried_turning_it_off_and_on_again_tshirt-r15b877ba3b4142bba14c938377e7fed7_v9uic_1024](https://cloud.githubusercontent.com/assets/194400/8126653/74557e82-10e8-11e5-8e5d-4fe33d734d8f.jpg)
+
+If you don't feel confident using a computer, don't dispair!
+We've all been there. There's no "*secret*" to be coming an expert, just *experiment*! If you get *stuck*, ***Google***, if you're still stuck after an hour, ***ask for help***!
+
 
 
 ### Touch Typing
@@ -81,7 +106,11 @@ All this means is *practicing* typing with the "*correct* fingers" until you don
 
 [![playing piano blindfolded](http://i.imgur.com/4dzAeSz.jpg)](https://www.youtube.com/watch?v=Z-iyiWHI2nA "playing piano blindfolded")
 
-You need to be able to type ***blindfolded*** to become a true maestro.
+You need to be able to *type* ***blindfolded*** to become a true maestro (*at anything computer-related*)
+
+### Markdown
+
+If you've never heard of Markdown, get started now: http://markdowntutorial.com/
 
 
 ### HTML5
@@ -107,7 +136,13 @@ Keep "**The Good Parts**" in mind while you are *writing* (*and reading*) JS.
 
 Watch this 1h intro tutorial: https://www.youtube.com/watch?v=fCa7yTZV4tQ
 
-#### Server-Side = Node.js
+### Git + GitHub
+
+If you are completely new to Git (*Version Control*) and/or GitHub,
+we suggest you checkout [@NataliaLKB](https://github.com/NataliaLKB)'s Tutorial: https://github.com/NataliaLKB/learn-git-basics
+
+
+### Server-Side = Node.js
 
 + What is Node.js and why is it useful? https://www.youtube.com/watch?v=pU9Q6oiQNd0
 - Download: http://nodejs.org/download/ (all platforms)
