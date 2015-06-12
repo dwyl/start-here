@@ -87,7 +87,8 @@ If you prefer to develop offline or have a faster response, you will need:
 
 ## Web Development _Fun_damentals
 
-We have listed the skills you need to know in the order you need to learn them:
+We have listed the skills you need to know in the order you need to learn them.
+Here is a checklist: https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md
 
 ### Basic Computer Skills
 
