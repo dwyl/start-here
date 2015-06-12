@@ -1,7 +1,7 @@
 Start Here
 ==========
 
-![dwyl-logo-wide](https://cloud.githubusercontent.com/assets/194400/8125617/08381538-10df-11e5-928d-075cb6193004.png)
+![dwyl-logo-wide](https://cloud.githubusercontent.com/assets/194400/8141150/f4b4c854-115a-11e5-8c13-dc96a5f1e928.png)
 
 > Start where you are. Use what you have. Do what you can.
 > ~ [Arthur Ashe](http://en.wikipedia.org/wiki/Arthur_Ashe)
