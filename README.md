@@ -94,8 +94,8 @@ Here is a checklist: https://github.com/dwyl/start-here/blob/master/new-develope
 
 ![have_you_tried_turning_it_off_and_on_again_tshirt-r15b877ba3b4142bba14c938377e7fed7_v9uic_1024](https://cloud.githubusercontent.com/assets/194400/8126653/74557e82-10e8-11e5-8e5d-4fe33d734d8f.jpg)
 
-If you don't feel confident using a computer, don't dispair!
-We've all been there. There's no "*secret*" to be coming an expert, just *experiment*! If you get *stuck*, ***Google***, if you're still stuck after an hour, ***ask for help***!
+If you don't feel *confident* using a computer, don't dispair!
+We've all been there. There's no "*secret*" to be coming an expert, just *experiment*! If you get *stuck*, ***Google***, if you're still stuck after an hour, ***ask for help***! If all else fails, *restart* your PC and try again! (*that's what* ***everyone does***)
 
 
 
@@ -121,12 +121,20 @@ You can learn 90% of what you need to know in HTML in a couple of hours (*from s
 + HTML Tutorial for Beginners in 1 Hour: https://www.youtube.com/watch?v=5TBU_jLZuG4
 + Learn HTML**5** from Scratch in 1 Hour: Learn HTML5 in 1 Hour: https://www.youtube.com/watch?v=s37GTK6JFcI
 
+The *rest* of HTML5 you will learn [*just-in-time*](https://en.wikipedia.org/wiki/Just_in_Time_Teaching)
+(*as & when you need to know it*).
+
 
 ### CSS
 
-**C**ascading **S**tyle **S**heets (***CSS***) is what makes the web attractive. If you want to see the power of CSS, visit ZenGarden:  http://www.mezzoblue.com/zengarden/alldesigns/
+**C**ascading **S**tyle **S**heets (***CSS***) is what makes the web attractive. If you want to see the power of CSS, visit ZenGarden:
+http://www.csszengarden.com/
+
+Complete Beginner (*or refresher*) Tutorial:
 
 + CSS Tutorial for Beginners in 1 Hour: https://youtu.be/hChVrWENonE?t=9s
++ CSS3 Tutorial (*in one hour*):
+https://www.youtube.com/watch?v=CUxH_rWSI1k
 
 ### JavaScript
 
@@ -135,7 +143,8 @@ Love it or hate it, **JavaScript is** ***Ubiquitous***. Becoming a ***JS Ninja**
 [JavaScript The Good Parts](https://github.com/iteles/Javascript-the-Good-Parts/blob/master/Notes-on-Javascript-the-Good-Parts.md)
 Keep "**The Good Parts**" in mind while you are *writing* (*and reading*) JS.
 
-Watch this 1h intro tutorial: https://www.youtube.com/watch?v=fCa7yTZV4tQ
+Watch this 1 hour intro tutorial:
+https://www.youtube.com/watch?v=fCa7yTZV4tQ
 
 ### Git + GitHub
 
