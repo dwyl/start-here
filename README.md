@@ -42,7 +42,7 @@ We are building the tools we need to help us (and the people we care about) get 
 - Time [track any time based activity]
 + Doing [track what you are working on ...]
 - Next [record, prioritise, share & collaborate on your ideas]
-- When? [sync, calendars and selectively share availability with your work colleagues, friends & family to discover when the best time for an activity/event is]
+- When? [sync calendars and selectively share availability with your work colleagues, friends & family to discover when the best time for an activity/event is]
 - Birthday/Special Event Reminder [*AKA* The Card & Gift App]
 - *What question do* ***you*** *want to answer...*?
 
@@ -67,13 +67,12 @@ https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
 - [x] ***Persistance*** - “If you wish to be out front, then act as if you were behind.” ~ Lao Tzu
 - [ ] Time (work [**super hard** ... ***every waking hour***](https://www.youtube.com/watch?v=NU7W7qe2R0A))
 - [x] **Awareness** of how you're spending your time and learning to work to your productive hours and habits
-+ [ ] ***Great Google Skills*** - the ability to formulate a good question
-(*so you can get a useful answer from Google*) is (*more than*) half the challenge in any coding task.
++ [ ] ***Great Google Skills*** - the ability to formulate a good question (*so you can get a useful answer from Google*) is (*more than*) half the challenge in any coding task.
 - [ ] ***Self-reliance***: when you get stuck on a task, knowing when to ***ask for help*** and when to persevere through to find the answer yourself.
 
 ### What *tools* will I need?
 
-- [x] ***A computer*** (preferably a *recent* one ... *Chromebooks are Perfect!*)
+- [x] ***A computer*** (preferably a *recent* one ... *Chromebooks are Great!*)
 
 #### Software
 
@@ -94,8 +93,8 @@ Here is a checklist: https://github.com/dwyl/start-here/blob/master/new-develope
 
 ![have_you_tried_turning_it_off_and_on_again_tshirt-r15b877ba3b4142bba14c938377e7fed7_v9uic_1024](https://cloud.githubusercontent.com/assets/194400/8126653/74557e82-10e8-11e5-8e5d-4fe33d734d8f.jpg)
 
-If you don't feel *confident* using a computer, don't dispair!
-We've all been there. There's no "*secret*" to be coming an expert, just *experiment*! If you get *stuck*, ***Google***, if you're still stuck after an hour, ***ask for help***! If all else fails, *restart* your PC and try again! (*that's what* ***everyone does***)
+If you don't feel *confident* using a computer, don't despair!
+We've all been there. There's no "*secret*" to becoming an expert, just *experiment*! If you get *stuck*, ***Google***, if you're still stuck after an hour, ***ask for help***! If all else fails, *restart* your PC and try again! (*that's what* ***everyone does***)
 
 
 
@@ -103,11 +102,11 @@ We've all been there. There's no "*secret*" to be coming an expert, just *experi
 
 ***Before*** you dive into programming, learning how to touch-type on your
 computer is the *single* ***best investment*** you can make.
-All this means is *practicing* typing with the "*correct* fingers" until you don't have to think about where the keys are. Some of the best programmers we know can type faster than *most* people can *think* ... take a moment for that to settle in.
+All this means is *practising* typing with the "*correct* fingers" until you don't have to think about where the keys are. Some of the best programmers we know can type faster than *most* people can *think* ... take a moment for that to settle in.
 
 [![playing piano blindfolded](http://i.imgur.com/4dzAeSz.jpg)](https://www.youtube.com/watch?v=Z-iyiWHI2nA "playing piano blindfolded")
 
-You need to be able to *type* ***blindfolded*** to become a true maestro (*at anything computer-related*)
+You need to be able to *type* ***blindfolded*** to become a true maestro (*at anything computer-related*).
 
 ### Markdown
 
@@ -139,7 +138,7 @@ https://www.youtube.com/watch?v=CUxH_rWSI1k
 ### JavaScript
 
 Love it or hate it, **JavaScript is** ***Ubiquitous***. Becoming a ***JS Ninja*** is ***essential***.
-[Ines](http://github.com/iteles) has prepared a great notes on
+[Ines](http://github.com/iteles) has prepared some great notes on
 [JavaScript The Good Parts](https://github.com/iteles/Javascript-the-Good-Parts/blob/master/Notes-on-Javascript-the-Good-Parts.md)
 Keep "**The Good Parts**" in mind while you are *writing* (*and reading*) JS.
 
