@@ -192,11 +192,13 @@ And watch as the tutorial progresses.
 
 ### Which Client MVC Framework?
 
-- Angular.js - Mature and full-featured.
-- ~~Backbone.js~~
-- Riot.js - Minimalist (learn it in 2h)
+- ~~Angular.js - Mature and full-featured~~
+- ~~Backbone.js - Well-structured and minimalist~~
+- Riot.js - Minimalist and Reactive (learn it in 2h)
 
-Right now I'm toying with the idea of using either Angular or Riot.
+We are using Riot.js because its ***Tiny***
+and compares favorably to Polymer and React:
+https://muut.com/riotjs/compare.html
 
 Ultimately we want to wrap our JS as PhoneGap app (see mobile below)
 so that the app can be run as a semi-native app (download from app store,
@@ -206,13 +208,11 @@ local/offline storage, etc.) and it makes sense to keep it as small as possible.
 
 ### Which Database?
 
+In the past we have used:
+
 - Postgres - The best relational dabase for
 - MongoDB  - Good balance of features, performance and ease of use.
 - CouchDB  - Great reliability, master-master replication and simplicity.
-
-Having recently used MongoDB for a client project I'm swaying towards using it
-for my next app. But I'm a huge fan of CouchDB.
-We need to spend a bit of time investigating features before deciding...
 
 
 
