@@ -213,7 +213,17 @@ In the past we have used:
 - Postgres - The best relational dabase for
 - MongoDB  - Good balance of features, performance and ease of use.
 - CouchDB  - Great reliability, master-master replication and simplicity.
++ RethinkDB - we *love* RethinkDB, but sadly there's no "free tier" on heroku...
 
+But for this project we are going to be using:
+
++ ***Redis*** for its speed, flexibility and pub-sub
++ ***ElasticSearch*** for full-text near-real-time search.
+
+If you are new to either of these please checkout our tutorials:
+
++ Redis: https://github.com/docdis/learn-redis
++ ElasticSearch: https://github.com/docdis/learn-elasticsearch
 
 
 ## Mobile
