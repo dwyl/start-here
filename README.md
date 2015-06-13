@@ -8,7 +8,7 @@ Start Here
 
 A Quick-start Guide for People who want to build awesome apps.
 
-## (Start with) Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
 The world is not perfect. <br />
 We have all worked somewhere we *didn't* ***love***. <br />
@@ -23,14 +23,15 @@ so that you too can **D**o **W**hat **Y**ou **L**ove!
 If you'd like to know more, *please read* ***our [manifesto](/manifesto.md)***.
 
 And if you haven't read Simon Sinek's book,
-watch his Ted Talk on ***Start with Why***:  
+we *highly recommend* you watch his Ted Talk on ***Start with Why***:  
 http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
 
 
 ## Who?
 
-Who is "We"? <br />
-For now we are just four people:
+***Everyone*** should be doing on something they *love*.
+
+For now the people working on dwyl are just four people:
 [@iteles](https://twitter.com/iteles), [@nelsonic](https://twitter.com/nelsonic),
 [@edwardcodes](https://github.com/edwardcodes)
 and
@@ -203,6 +204,10 @@ And watch as the tutorial progresses.
 We are using Riot.js because its ***Tiny***
 and compares favorably to Polymer and React:
 https://muut.com/riotjs/compare.html
+
+Also it does ***server-side rendering*** out-of-the-box:
+https://muut.com/riotjs/guide/#server-side which we need
+for *progressive enhancement*.
 
 Ultimately we want to wrap our JS as PhoneGap app (see mobile below)
 so that the app can be run as a semi-native app (download from app store,
