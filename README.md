@@ -8,7 +8,7 @@ Start Here
 
 A Quick-start Guide for People who want to build awesome apps.
 
-## (Start with) Why?
+## (Start with) Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
 The world is not perfect. <br />
 We have all worked somewhere we *didn't* ***love***. <br />
@@ -21,6 +21,11 @@ so that you too can **D**o **W**hat **Y**ou **L**ove!
 **We simplify. We enable people to get through their _need-tos_ efficiently so they can get to their _want-tos_.**
 
 If you'd like to know more, *please read* ***our [manifesto](/manifesto.md)***.
+
+And if you haven't read Simon Sinek's book,
+watch his Ted Talk on ***Start with Why***:  
+http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
+
 
 ## Who?
 
