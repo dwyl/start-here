@@ -1,27 +1,37 @@
 Start Here
 ==========
 
-![sho+shin](http://i.imgur.com/p538Ld2.jpg)
+![dwyl-logo-wide](https://cloud.githubusercontent.com/assets/194400/8141150/f4b4c854-115a-11e5-8c13-dc96a5f1e928.png)
 
 > Start where you are. Use what you have. Do what you can.
 > ~ [Arthur Ashe](http://en.wikipedia.org/wiki/Arthur_Ashe)
 
 A Quick-start Guide for People who want to build awesome apps.
 
-## (Start with) Why?
+## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
 The world is not perfect. <br />
 We have all worked somewhere we *didn't* ***love***. <br />
 We have all experienced using products that had/have flaws. <br/>
 Rather than *waiting* for someone else to solve our "problems"
 we are taking on the challenge ourselves.
+And we are making ***Everything Open Source*** along the way,
+so that you too can **D**o **W**hat **Y**ou **L**ove!
 
-**We simplify. We enable people to get through their _need-tos_ efficiently so they can get to their _want-tos_.** If you'd like to know more, take a look at **our [manifesto](/manifesto.md)**.
+**We simplify. We enable people to get through their _need-tos_ efficiently so they can get to their _want-tos_.**
+
+If you'd like to know more, *please read* ***our [manifesto](/manifesto.md)***.
+
+And if you haven't read Simon Sinek's book,
+we *highly recommend* you watch his Ted Talk on ***Start with Why***:  
+http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
+
 
 ## Who?
 
-Who is "We"? <br />
-For now we are just four people:
+***Everyone*** should be doing on something they *love*.
+
+For now the people working on dwyl are just four people:
 [@iteles](https://twitter.com/iteles), [@nelsonic](https://twitter.com/nelsonic),
 [@edwardcodes](https://github.com/edwardcodes)
 and
@@ -33,15 +43,17 @@ and
 
 ## What?
 
-We are building the web/mobile applications that we wish existed.
+We are building the tools we need to help us (and the people we care about) get things (*they love*) ***done***.
 
-- Card App [working title]
-- ideaQ [record, prioritise, share & collaborate on your ideas]
-- time [time tracking]
+- Time [track any time based activity]
++ Doing [track what you are working on ...]
+- Next [record, prioritise, share & collaborate on your ideas]
+- When? [sync calendars and selectively share availability with your work colleagues, friends & family to discover when the best time for an activity/event is]
+- Birthday/Special Event Reminder [*AKA* The Card & Gift App]
 - *What question do* ***you*** *want to answer...*?
 
 
-### Scratching Your Own Itch
+### Scratching Your *Own* Itch
 
 We believe in scratching our own itches.
 Scratching your own itch means solving a problem you (or someone *close* to you) *personally* have.
@@ -55,32 +67,99 @@ https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
 
 - [x] ***Curiosity*** - "I have no special talent. I am only passionately curious." ~ Albert Einstein
 - [x] ***Enthusiasm*** - "Enthusiasm spells the difference between mediocrity and accomplishment." ~ Norman Vincent Peale
-- [x] [***Shoshin***](http://en.wikipedia.org/wiki/Shoshin) (**Beginner's Mind**) -
+- [x] [***Shoshin***](http://en.wikipedia.org/wiki/Shoshin) (**Beginner's Mind**)
+  + "*I'm not young enough to know everything*" ~ [J. M. Barrie](http://en.wikiquote.org/wiki/J._M._Barrie)
+  + “*Your mind is like a parachute; it only works when it is open*.”  ~ Anthony D'Angelo
 - [x] ***Persistance*** - “If you wish to be out front, then act as if you were behind.” ~ Lao Tzu
 - [ ] Time (work [**super hard** ... ***every waking hour***](https://www.youtube.com/watch?v=NU7W7qe2R0A))
 - [x] **Awareness** of how you're spending your time and learning to work to your productive hours and habits
-- [ ] Knowing when to ask for help and when to persevere through to find the answer yourself
++ [ ] ***Great Google Skills*** - the ability to formulate a good question (*so you can get a useful answer from Google*) is (*more than*) half the challenge in any coding task.
+- [ ] ***Self-reliance***: when you get stuck on a task, knowing when to ***ask for help*** and when to persevere through to find the answer yourself.
 
-### What tools will I need?
+### What *tools* will I need?
 
-- [x] ***A computer*** (preferably a *recent* one)
+- [x] ***A computer*** (preferably a *recent* one ... *Chromebooks are Great!*)
+
+#### Software
+
+*Installing* software is 100% optional. You can use Cloud9 to develop completely online: https://c9.io/
+
+If you prefer to develop offline or have a faster response, you will need:
+
 - [x] A text editor. e.g. [Atom](https://atom.io/)
 - [x] [Node.js](http://nodejs.org/download/) for building server-side apps.
 
-## Web Fundamentals
+
+## Web Development _Fun_damentals
+
+We have listed the skills you need to know in the order you need to learn them.
+Here is a checklist: https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md
+
+### Basic Computer Skills
+
+![have_you_tried_turning_it_off_and_on_again_tshirt-r15b877ba3b4142bba14c938377e7fed7_v9uic_1024](https://cloud.githubusercontent.com/assets/194400/8126653/74557e82-10e8-11e5-8e5d-4fe33d734d8f.jpg)
+
+If you don't feel *confident* using a computer, don't despair!
+We've all been there. There's no "*secret*" to becoming an expert, just *experiment*! If you get *stuck*, ***Google***, if you're still stuck after an hour, ***ask for help***! If all else fails, *restart* your PC and try again! (*that's what* ***everyone does***)
+
+
+
+### Touch Typing
+
+***Before*** you dive into programming, learning how to touch-type on your
+computer is the *single* ***best investment*** you can make.
+All this means is *practising* typing with the "*correct* fingers" until you don't have to think about where the keys are. Some of the best programmers we know can type faster than *most* people can *think* ... take a moment for that to settle in.
+
+[![playing piano blindfolded](http://i.imgur.com/4dzAeSz.jpg)](https://www.youtube.com/watch?v=Z-iyiWHI2nA "playing piano blindfolded")
+
+You need to be able to *type* ***blindfolded*** to become a true maestro (*at anything computer-related*).
+
+### Markdown
+
+If you've never heard of Markdown, get started now: http://markdowntutorial.com/
+
 
 ### HTML5
 
+You can learn 90% of what you need to know in HTML in a couple of hours (*from scratch*):
+
++ HTML Tutorial for Beginners in 1 Hour: https://www.youtube.com/watch?v=5TBU_jLZuG4
++ Learn HTML**5** from Scratch in 1 Hour: Learn HTML5 in 1 Hour: https://www.youtube.com/watch?v=s37GTK6JFcI
+
+The *rest* of HTML5 you will learn [*just-in-time*](https://en.wikipedia.org/wiki/Just_in_Time_Teaching)
+(*as & when you need to know it*).
+
+
 ### CSS
+
+**C**ascading **S**tyle **S**heets (***CSS***) is what makes the web attractive. If you want to see the power of CSS, visit ZenGarden:
+http://www.csszengarden.com/
+
+Complete Beginner (*or refresher*) Tutorial:
+
++ CSS Tutorial for Beginners in 1 Hour: https://youtu.be/hChVrWENonE?t=9s
++ CSS3 Tutorial (*in one hour*):
+https://www.youtube.com/watch?v=CUxH_rWSI1k
 
 ### JavaScript
 
-Love it or hate it, JavaScript is Ubiquitous. Learning it well is *essential*.
-[Ines](http://github.com/iteles) has prepared a great notes on
+Love it or hate it, **JavaScript is** ***Ubiquitous***. Becoming a ***JS Ninja*** is ***essential***.
+[Ines](http://github.com/iteles) has prepared some great notes on
 [JavaScript The Good Parts](https://github.com/iteles/Javascript-the-Good-Parts/blob/master/Notes-on-Javascript-the-Good-Parts.md)
+Keep "**The Good Parts**" in mind while you are *writing* (*and reading*) JS.
 
-#### Server-Side = Node.js
+Watch this 1 hour intro tutorial:
+https://www.youtube.com/watch?v=fCa7yTZV4tQ
 
+### Git + GitHub
+
+If you are completely new to Git (*Version Control*) and/or GitHub,
+we suggest you checkout [@NataliaLKB](https://github.com/NataliaLKB)'s Tutorial: https://github.com/NataliaLKB/learn-git-basics
+
+
+### Server-Side = Node.js
+
++ What is Node.js and why is it useful? https://www.youtube.com/watch?v=pU9Q6oiQNd0
 - Download: http://nodejs.org/download/ (all platforms)
 - Beginners guide: http://www.nodebeginner.org/
 - Udemy Tutorial: https://www.udemy.com/nodejs-tutorial-from-scratch-by-examples
@@ -118,11 +197,17 @@ And watch as the tutorial progresses.
 
 ### Which Client MVC Framework?
 
-- Angular.js - Mature and full-featured.
-- ~~Backbone.js~~
-- Riot.js - Minimalist (learn it in 2h)
+- ~~Angular.js - Mature and full-featured~~
+- ~~Backbone.js - Well-structured and minimalist~~
+- Riot.js - Minimalist and Reactive (learn it in 2h)
 
-Right now I'm toying with the idea of using either Angular or Riot.
+We are using Riot.js because its ***Tiny***
+and compares favorably to Polymer and React:
+https://muut.com/riotjs/compare.html
+
+Also it does ***server-side rendering*** out-of-the-box:
+https://muut.com/riotjs/guide/#server-side which we need
+for *progressive enhancement*.
 
 Ultimately we want to wrap our JS as PhoneGap app (see mobile below)
 so that the app can be run as a semi-native app (download from app store,
@@ -132,14 +217,22 @@ local/offline storage, etc.) and it makes sense to keep it as small as possible.
 
 ### Which Database?
 
+In the past we have used:
+
 - Postgres - The best relational dabase for
 - MongoDB  - Good balance of features, performance and ease of use.
 - CouchDB  - Great reliability, master-master replication and simplicity.
++ RethinkDB - we *love* RethinkDB, but sadly there's no "free tier" on heroku...
 
-Having recently used MongoDB for a client project I'm swaying towards using it
-for my next app. But I'm a huge fan of CouchDB.
-We need to spend a bit of time investigating features before deciding...
+But for this project we are going to be using:
 
++ ***Redis*** for its speed, flexibility and pub-sub
++ ***ElasticSearch*** for full-text near-real-time search.
+
+If you are new to either of these please checkout our tutorials:
+
++ Redis: https://github.com/docdis/learn-redis
++ ElasticSearch: https://github.com/docdis/learn-elasticsearch
 
 
 ## Mobile
