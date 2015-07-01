@@ -2,7 +2,7 @@
 
 > Please List Alphabetically by Title Name Thanks!
 
-Format:
+Please submit in JSON (see example below) so that we can make data searchable at a later date! _Thanks_!
 
 #### {Book Name} 
 Please _validate_ your JSON!
@@ -23,6 +23,7 @@ Please _validate_ your JSON!
 ```
 
 #### The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you
+```js
 {
     "Title": "The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you",
     "Author": "Rob Fitzpatrick",
@@ -37,4 +38,4 @@ Please _validate_ your JSON!
     "Link": "http://www.amazon.co.uk/The-Mom-Test-customers-business/dp/1492180742"
     "VideoSummary":"https://www.youtube.com/watch?v=vqHR7CUPVbA"
 }
- 
+```
