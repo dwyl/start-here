@@ -114,6 +114,12 @@ All this means is *practising* typing with the "*correct* fingers" until you don
 
 You need to be able to *type* ***blindfolded*** to become a true maestro (*at anything computer-related*).
 
+A few touch-typing tutorials:
+
++ Keybr: http://www.keybr.com/
++ Typing Club: http://www.typingclub.com/typing-qwerty-en.html
++ BBC: http://www.bbc.co.uk/guides/z3c6tfr#zg8nsbk
+
 ### Markdown
 
 If you've never heard of Markdown, get started now: http://markdowntutorial.com/
