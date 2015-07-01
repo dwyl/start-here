@@ -4,7 +4,7 @@
 
 Please submit your entries as _**Valid JSON**_  (see example below) so that we can make data searchable at a later date! _Thanks_!
 
-#### {Book Name} 
+#### {Book Name}
 Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
 ```js
 {
@@ -19,6 +19,57 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
     "WhyOthersShouldReadIt": "Sell it to them!",
     "WhatILearned": "After you have finished reading it, note down what you learned",
     "Link": "Link to Amazon or other place where its available to buy/rent"
+}
+```
+
+#### Lean UX
+```js
+{
+    "Title": "Lean UX",
+    "Author": "Jeff Gothelf with Josh Seiden",
+    "Date": "July 2015",
+    "ISBN": "9781449311650",
+    "SuggestdBy": "Rafe",
+    "GitHubId": "rjmk",
+    "Subject": "User Experience",
+    "WhyIChoseIt": "User experience complements and informs great software and is fun problem solving",
+    "WhyOthersShouldReadIt": "TBC",
+    "WhatILearned": "TBC",
+    "Link": "http://www.amazon.co.uk/dp/1449311652/"
+}
+```
+
+#### Start Small, Stay Small: A Developer's Guide to Launching a Startup
+```js
+{
+    "Title": "Start Small, Stay Small: A Developer's Guide to Launching a Startup",
+    "Author": "Rob Walling",
+    "Date": "July 2015",
+    "ISBN": "9780615373966",
+    "SuggestdBy": "Rafe",
+    "GitHubId": "rjmk",
+    "Subject": "Startup starting",
+    "WhyIChoseIt": "Unappealing design suggested I was underestimating the quality of the content #OutsideView",
+    "WhyOthersShouldReadIt": "TBC",
+    "WhatILearned": "TBC",
+    "Link": "http://www.amazon.co.uk/dp/0615373968"
+}
+```
+
+#### The Elements of Typographic Style
+```js
+{
+    "Title": "The Elements of Typographic Style",
+    "Author": "Robert Bringhurst",
+    "Date": "July 2015",
+    "ISBN": "9780881792126",
+    "SuggestdBy": "Rafe",
+    "GitHubId": "rjmk",
+    "Subject": "Typography",
+    "WhyIChoseIt": "Fonts are pretty. Also, font choice is a nice subtle element of UI and UX design",
+    "WhyOthersShouldReadIt": "TBC",
+    "WhatILearned": "TBC",
+    "Link": "http://www.amazon.co.uk/dp/0881791326"
 }
 ```
 
