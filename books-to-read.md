@@ -22,6 +22,25 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
 }
 ```
 
+#### Code, The Hidden Language of Computer Hardware and Software
+```js
+{
+  "Title": "Code, The Hidden Language of Computer Hardware and Software",
+  "Author": "Charles Petzold",
+  "Date": "2000",
+  "ISBN": "073560505X",
+  "SuggestdBy": "Neats",
+  "GitHubId": "Neats29",
+  "Subject": "How computers work and more",
+  "WhyIChoseIt": "I heard good things about it and wanted to learn more about the hardware in computers",
+  "WhyOthersShouldReadIt": "TBC",
+  "WhatILearned": "TBC",
+  "Link": "http://www.amazon.co.uk/Code-Language-Computer-Hardware-Software/dp/0735611319",
+  "VideoSummary": ""
+}
+```
+
+
 #### Developing Web Components
 ```js
 {
@@ -39,6 +58,24 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
   "VideoSummary": ""
 }
 ```
+
+#### Extreme Programming
+```js
+{
+  "Title": "Extreme Programming, pocket guide",
+  "Author": "Ward Cunningham",
+  "Date": "2003",
+  "ISBN": "0596004850",
+  "SuggestdBy": "Neats",
+  "GitHubId": "Neats29",
+  "Subject": "Team-based software development method",
+  "WhyIChoseIt": "Seemed interesting and it's small, which is handy",
+  "WhyOthersShouldReadIt": "TBC",
+  "WhatILearned": "TBC",
+  "Link": "http://shop.oreilly.com/product/9780596004859.do",
+  "VideoSummary": ""
+}
+
 
 #### HTML5 For Web Designers
 ```js
