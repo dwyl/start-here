@@ -194,3 +194,52 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
     "WhatILearned": "TBC",
     "Link": "http://http://www.amazon.co.uk/How-Productivity-Ninja-Worry-Achieve/dp/1848316836/"
 }
+```
+#### Thinking, fast and slow
+```js
+{
+    "Title": "Thinking, fast and slow",
+    "Author": "Daniel Kahneman",
+    "Date": "2011",
+    "ISBN": "978-0-141-03357-0",
+    "SuggestedBy": "Simon",
+    "GitHubId": "@SimonLab",
+    "Subject": "Psychology",
+    "WhyIChoseIt": "Heard a lot of good things about this book",
+    "WhyOthersShouldReadIt": "TBC",
+    "WhatILearned": "TBC",
+    "Link": "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow"
+}
+```
+#### Professor Stewart's Hoard of Mathematical Treasures
+```js
+{
+    "Title": "Professor Stewart's Hoard of Mathematical Treasures",
+    "Author": "Ian Stewart",
+    "Date": "2010",
+    "ISBN": "978-1846683466",
+    "SuggestedBy": "Simon",
+    "GitHubId": "@SimonLab",
+    "Subject": "Mathematic",
+    "WhyIChoseIt": "I like maths",
+    "WhyOthersShouldReadIt": "TBC",
+    "WhatILearned": "TBC",
+    "Link": "http://www.amazon.co.uk/372/dp/1846683467"
+}
+```
+#### High Performance JavaScript
+```js
+{
+    "Title": "High Performance JavaScript",
+    "Author": "Nicholas C. Zakas",
+    "Date": "2010",
+    "ISBN": "978-0-596-80279-0",
+    "SuggestedBy": "Simon",
+    "GitHubId": "@SimonLab",
+    "Subject": "JavaScript",
+    "WhyIChoseIt": "I want to be better with javascript",
+    "WhyOthersShouldReadIt": "TBC",
+    "WhatILearned": "TBC",
+    "Link": "http://shop.oreilly.com/product/9780596802806.do"
+}
+```
