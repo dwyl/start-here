@@ -40,6 +40,23 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
 }
 ```
 
+#### The Elements of Typographic Style
+```js
+{
+    "Title": "The Elements of Typographic Style",
+    "Author": "Robert Bringhurst",
+    "Date": "July 2015",
+    "ISBN": "9780881792126",
+    "SuggestedBy": "Rafe",
+    "GitHubId": "rjmk",
+    "Subject": "Typography",
+    "WhyIChoseIt": "Fonts are pretty. Also, font choice is a nice subtle element of UI and UX design",
+    "WhyOthersShouldReadIt": "TBC",
+    "WhatILearned": "TBC",
+    "Link": "http://www.amazon.co.uk/dp/0881791326"
+}
+```
+
 #### Happiness By Design
 ```js
 {
@@ -54,6 +71,40 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
     "WhyOthersShouldReadIt": "TBC",
     "WhatILearned": "TBC",
     "Link": "http://www.amazon.co.uk/Happiness-Design-Finding-Pleasure-Everyday/dp/0141977531/ref=sr_1_1?s=books&ie=UTF8&qid=1436548697&sr=1-1&keywords=happiness+by+design"
+}
+```
+
+#### High Performance JavaScript
+```js
+{
+    "Title": "High Performance JavaScript",
+    "Author": "Nicholas C. Zakas",
+    "Date": "2010",
+    "ISBN": "978-0-596-80279-0",
+    "SuggestedBy": "Simon",
+    "GitHubId": "@SimonLab",
+    "Subject": "JavaScript",
+    "WhyIChoseIt": "I want to be better with javascript",
+    "WhyOthersShouldReadIt": "TBC",
+    "WhatILearned": "TBC",
+    "Link": "http://shop.oreilly.com/product/9780596802806.do"
+}
+```
+
+#### How to be a Productivity Ninja
+```js
+{
+    "Title": "How to be a Productivity Ninja",
+    "Author": "Graham Allcott",
+    "Date": "2014",
+    "ISBN": "978-184831-683-6",
+    "SuggestedBy": "Jack",
+    "GitHubId": "@jackpandas",
+    "Subject": "Productivity",
+    "WhyIChoseIt": "I am a sucker for productivity books, which may be a factor in my lack of productivity",
+    "WhyOthersShouldReadIt": "TBC",
+    "WhatILearned": "TBC",
+    "Link": "http://http://www.amazon.co.uk/How-Productivity-Ninja-Worry-Achieve/dp/1848316836/"
 }
 ```
 
@@ -90,6 +141,23 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
   "WhatILearned": "TBC",
   "Link": "http://shop.oreilly.com/product/9780596517748.do",
   "VideoSummary": "www.youtube.com/watch?v=hQVTIJBZook"
+}
+```
+
+#### Javascript Web Applications
+```js
+{
+    "Title": "Javascript Web Applications",
+    "Author": "Alex MacCaw",
+    "Date": "2011",
+    "ISBN": "978-1-449-30351-8",
+    "SuggestedBy": "Jack",
+    "GitHubId": "@jackpandas",
+    "Subject": "...javascript web applications?",
+    "WhyIChoseIt": "I think I need to firm up on basics and would like to read an cohesive text on ajax etc.",
+    "WhyOthersShouldReadIt": "TBC",
+    "WhatILearned": "TBC",
+    "Link": "http://www.amazon.co.uk/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X"
 }
 ```
 
@@ -143,40 +211,6 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
 }
 ```
 
-#### Start Small, Stay Small: A Developer's Guide to Launching a Startup
-```js
-{
-    "Title": "Start Small, Stay Small: A Developer's Guide to Launching a Startup",
-    "Author": "Rob Walling",
-    "Date": "July 2015",
-    "ISBN": "9780615373966",
-    "SuggestedBy": "Rafe",
-    "GitHubId": "rjmk",
-    "Subject": "Startup starting",
-    "WhyIChoseIt": "Unappealing design suggested I was underestimating the quality of the content #OutsideView",
-    "WhyOthersShouldReadIt": "TBC",
-    "WhatILearned": "TBC",
-    "Link": "http://www.amazon.co.uk/dp/0615373968"
-}
-```
-
-#### The Elements of Typographic Style
-```js
-{
-    "Title": "The Elements of Typographic Style",
-    "Author": "Robert Bringhurst",
-    "Date": "July 2015",
-    "ISBN": "9780881792126",
-    "SuggestedBy": "Rafe",
-    "GitHubId": "rjmk",
-    "Subject": "Typography",
-    "WhyIChoseIt": "Fonts are pretty. Also, font choice is a nice subtle element of UI and UX design",
-    "WhyOthersShouldReadIt": "TBC",
-    "WhatILearned": "TBC",
-    "Link": "http://www.amazon.co.uk/dp/0881791326"
-}
-```
-
 #### The Mom Test: How to talk to customers & learn if your business is a good idea when everyone is lying to you
 ```js
 {
@@ -192,23 +226,6 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
     "WhatILearned": "I was doing (_potential_) customer interviews all wrong!",
     "Link": "http://www.amazon.co.uk/The-Mom-Test-customers-business/dp/1492180742",
     "VideoSummary": "https://www.youtube.com/watch?v=vqHR7CUPVbA"
-}
-```
-
-#### Javascript Web Applications
-```js
-{
-    "Title": "Javascript Web Applications",
-    "Author": "Alex MacCaw",
-    "Date": "2011",
-    "ISBN": "978-1-449-30351-8",
-    "SuggestedBy": "Jack",
-    "GitHubId": "@jackpandas",
-    "Subject": "...javascript web applications?",
-    "WhyIChoseIt": "I think I need to firm up on basics and would like to read an cohesive text on ajax etc.",
-    "WhyOthersShouldReadIt": "TBC",
-    "WhatILearned": "TBC",
-    "Link": "http://www.amazon.co.uk/JavaScript-Web-Applications-Alex-MacCaw/dp/144930351X"
 }
 ```
 
@@ -229,20 +246,37 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
 }
 ```
 
-#### How to be a Productivity Ninja
+#### Professor Stewart's Hoard of Mathematical Treasures
 ```js
 {
-    "Title": "How to be a Productivity Ninja",
-    "Author": "Graham Allcott",
-    "Date": "2014",
-    "ISBN": "978-184831-683-6",
-    "SuggestedBy": "Jack",
-    "GitHubId": "@jackpandas",
-    "Subject": "Productivity",
-    "WhyIChoseIt": "I am a sucker for productivity books, which may be a factor in my lack of productivity",
+    "Title": "Professor Stewart's Hoard of Mathematical Treasures",
+    "Author": "Ian Stewart",
+    "Date": "2010",
+    "ISBN": "978-1846683466",
+    "SuggestedBy": "Simon",
+    "GitHubId": "@SimonLab",
+    "Subject": "Mathematic",
+    "WhyIChoseIt": "I like maths",
     "WhyOthersShouldReadIt": "TBC",
     "WhatILearned": "TBC",
-    "Link": "http://http://www.amazon.co.uk/How-Productivity-Ninja-Worry-Achieve/dp/1848316836/"
+    "Link": "http://www.amazon.co.uk/372/dp/1846683467"
+}
+```
+
+#### Start Small, Stay Small: A Developer's Guide to Launching a Startup
+```js
+{
+    "Title": "Start Small, Stay Small: A Developer's Guide to Launching a Startup",
+    "Author": "Rob Walling",
+    "Date": "July 2015",
+    "ISBN": "9780615373966",
+    "SuggestedBy": "Rafe",
+    "GitHubId": "rjmk",
+    "Subject": "Startup starting",
+    "WhyIChoseIt": "Unappealing design suggested I was underestimating the quality of the content #OutsideView",
+    "WhyOthersShouldReadIt": "TBC",
+    "WhatILearned": "TBC",
+    "Link": "http://www.amazon.co.uk/dp/0615373968"
 }
 ```
 
@@ -262,35 +296,5 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
     "Link": "https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow"
 }
 ```
-#### Professor Stewart's Hoard of Mathematical Treasures
-```js
-{
-    "Title": "Professor Stewart's Hoard of Mathematical Treasures",
-    "Author": "Ian Stewart",
-    "Date": "2010",
-    "ISBN": "978-1846683466",
-    "SuggestedBy": "Simon",
-    "GitHubId": "@SimonLab",
-    "Subject": "Mathematic",
-    "WhyIChoseIt": "I like maths",
-    "WhyOthersShouldReadIt": "TBC",
-    "WhatILearned": "TBC",
-    "Link": "http://www.amazon.co.uk/372/dp/1846683467"
-}
-```
-#### High Performance JavaScript
-```js
-{
-    "Title": "High Performance JavaScript",
-    "Author": "Nicholas C. Zakas",
-    "Date": "2010",
-    "ISBN": "978-0-596-80279-0",
-    "SuggestedBy": "Simon",
-    "GitHubId": "@SimonLab",
-    "Subject": "JavaScript",
-    "WhyIChoseIt": "I want to be better with javascript",
-    "WhyOthersShouldReadIt": "TBC",
-    "WhatILearned": "TBC",
-    "Link": "http://shop.oreilly.com/product/9780596802806.do"
-}
-```
+
+
