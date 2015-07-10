@@ -40,6 +40,23 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
 }
 ```
 
+#### Happiness By Design
+```js
+{
+    "Title": "Happiness by Design: Finding Pleasure and Purpose in Everyday Life",
+    "Author": "Paul Dolan",
+    "Date": "July 2015",
+    "ISBN": "978-0141977539",
+    "SuggestedBy": "Emma",
+    "GitHubId": "tsop14",
+    "Subject": "Psychology",
+    "WhyIChoseIt": "What can an Economist teach us about happiness? Want to see how convincing his central argument is that happiness is not a direct product of what happens to us but rather of how we attend to things.",
+    "WhyOthersShouldReadIt": "TBC",
+    "WhatILearned": "TBC",
+    "Link": "http://www.amazon.co.uk/Happiness-Design-Finding-Pleasure-Everyday/dp/0141977531/ref=sr_1_1?s=books&ie=UTF8&qid=1436548697&sr=1-1&keywords=happiness+by+design"
+}
+```
+
 #### HTML5 For Web Designers
 ```js
 {
@@ -90,6 +107,39 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
     "WhyOthersShouldReadIt": "TBC",
     "WhatILearned": "TBC",
     "Link": "http://www.amazon.co.uk/dp/1449311652/"
+}
+```
+#### The Life-Changing Magic of Tidying
+```js
+{
+    "Title": "The Life-Changing Magic of Tidying: A simple, effective way to banish clutter forever",
+    "Author": "Marie Kondo",
+    "Date": "July 2015",
+    "ISBN": "978-0091955106",
+    "SuggestedBy": "Emma",
+    "GitHubId": "tsop14",
+    "Subject": "Self help / Home & Garden",
+    "WhyIChoseIt": "Must sort life out...",
+    "WhyOthersShouldReadIt": "Effective tidying will make you happier, focused and more productive.",
+    "WhatILearned": "Live in the present! If objects don't bring you joy when you hold them / serve a functional purpose, thank them for the role they played in your life and recycle them. Tidy in one big go, not a little everyday. Never fold socks.",
+    "Link": "http://www.amazon.co.uk/The-Life-Changing-Magic-Tidying-effective/dp/0091955106"
+}
+```
+
+#### Maintainable Javascript
+```js
+{
+    "Title": "Maintainable Javascript",
+    "Author": "Nicholas C. Zakas",
+    "Date": "July 2015",
+    "ISBN": "978-1-4493-2768-2",
+    "SuggestedBy": "Emma",
+    "GitHubId": "tsop14",
+    "Subject": "Javascript",
+    "WhyIChoseIt": "To learn how to write code my team can easily understand and extend.",
+    "WhyOthersShouldReadIt": "TBC",
+    "WhatILearned": "TBC",
+    "Link": "http://shop.oreilly.com/product/0636920025245.do"
 }
 ```
 
@@ -195,6 +245,7 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
     "Link": "http://http://www.amazon.co.uk/How-Productivity-Ninja-Worry-Achieve/dp/1848316836/"
 }
 ```
+
 #### Thinking, fast and slow
 ```js
 {
