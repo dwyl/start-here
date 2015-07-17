@@ -29,8 +29,8 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
   "Author": "Jarrod Overson & Jason Strimpel",
   "Date": "2015",
   "ISBN": "9781491949023",
-  "SuggestedBy": "Nelson",
-  "GitHubId": "nelsonic",
+  "SuggestdBy": "Rory",
+  "GitHubId": "rorysedgwick",
   "Subject": "Front-end Javascript, UI concepts & patterns",
   "WhyIChoseIt": "Have heard Web Components referred to as the future of front end UIs and the direction some libraries are already moving towards e.g. React, Polymer, so I am intrigued to find out more",
   "WhyOthersShouldReadIt": "TBC",
@@ -119,8 +119,8 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
   "GitHubId": "rorysedgwick",
   "Subject": "HTML",
   "WhyIChoseIt": "I am starting a new job that will be very HTML heavy and wanted a more in-depth look at the subject overall",
-  "WhyOthersShouldReadIt": "TBC",
-  "WhatILearned": "TBC",
+  "WhyOthersShouldReadIt": "Any web developer should have a solid understanding of what HTML is, how it has evolved and what is available in the language",
+  "WhatILearned": "HTML5 offers much in-built functionality than I realised in the form of various <tags>, such as <audio> & <video>. In order to write semantically correct HTML a wide array of tags such as <section> and <article> should be used instead of <div>s for each section of the document.",
   "Link": "http://html5forwebdesigners.com/",
   "VideoSummary": "http://code.tutsplus.com/articles/html5-for-web-designers-book-review--net-13474"
 }
