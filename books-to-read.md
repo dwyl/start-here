@@ -22,6 +22,25 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
 }
 ```
 
+
+#### Alex's Adventures in Numberland
+```js
+{
+  "Title": "Alex's Adventures in Numberland",
+  "Author": "Alex Bellos",
+  "Date": "2010",
+  "ISBN": "9781408809594",
+  "SuggestdBy": "Claire",
+  "GitHubId": "nofootnotes",
+  "Subject": "Dispatches from the wonderful world of mathematics",
+  "WhyIChoseIt": "The Daily Telegraph said it would leave me hooked on numbers",
+  "WhyOthersShouldReadIt": "TBC",
+  "WhatILearned": "TBC",
+  "Link": "http://www.amazon.co.uk/Alexs-Adventures-Numberland-Alex-Bellos/dp/1408809591",
+  "VideoSummary": ""
+}
+```
+
 #### Code, The Hidden Language of Computer Hardware and Software
 ```js
 {
@@ -335,4 +354,21 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
 }
 ```
 
+
+#### Zero to One
+```js
+{
+    "Title": "Zero to One",
+    "Author": "Peter Thiel",
+    "Date": "2014",
+    "ISBN": "978-0-75-355518-7",
+    "SuggestedBy": "Claire",
+    "GitHubId": "nofootnotes",
+    "Subject": "Notes on startups or how to build the future",
+    "WhyIChoseIt": "Peter Thiel is a cool guy",
+    "WhyOthersShouldReadIt": "TBC",
+    "WhatILearned": "TBC",
+    "Link": "http://www.amazon.co.uk/Zero-One-Notes-Start-Future-ebook/dp/B00KHX0II4/ref=sr_1_1?s=books&ie=UTF8&qid=1437730924&sr=1-1&keywords=zero+to+one"
+}
+```
 
