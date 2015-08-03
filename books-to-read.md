@@ -95,7 +95,7 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
   "Link": "http://shop.oreilly.com/product/9780596004859.do",
   "VideoSummary": ""
 }
-
+```
 
 #### The Elements of Typographic Style
 ```js
