@@ -1,20 +1,22 @@
-Start Here
+Start Here [![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)  
 ==========
+
+A Quick-start Guide for people that want to build ***apps we all love*** using!
 
 ![dwyl-logo-wide](https://cloud.githubusercontent.com/assets/194400/8141150/f4b4c854-115a-11e5-8c13-dc96a5f1e928.png)
 
 > Start where you are. Use what you have. Do what you can.
 > ~ [Arthur Ashe](http://en.wikipedia.org/wiki/Arthur_Ashe)
 
-[![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)    
-A Quick-start Guide for People who want to build awesome apps.
-
 
 ## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
 
 The world is not perfect. <br />
 We have all worked somewhere we *didn't* ***love***. <br />
-We have all experienced using products that had/have flaws. <br/>
+
+We have all felt the *frustration* of using products that had/have flaws
+(*and been unable to fix them*) <br/>
+
 Rather than *waiting* for someone else to solve our "problems"
 we are taking on the challenge ourselves.
 And we are making ***Everything Open Source*** along the way,
@@ -33,11 +35,10 @@ http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
 
 ***Everyone*** should be doing on something they *love*.
 
-For now the people working on dwyl are just four people:
-[@iteles](https://twitter.com/iteles), [@nelsonic](https://twitter.com/nelsonic),
-[@edwardcodes](https://github.com/edwardcodes)
-and
-[@hyprstack](https://github.com/hyprstack)
+**dwyl** is a ***rapidly expanding community*** ... here are a few
+of the familiar faces contributing to the projects:
+
+[![dwyl-people](https://cloud.githubusercontent.com/assets/194400/9907174/b4a9202c-5c85-11e5-95b6-e070ce484920.jpg)](https://github.com/orgs/dwyl/people)
 
 ***Join us*** in finding something you want to ***solve*** and will
 ***love*** working on.
@@ -45,19 +46,24 @@ and
 
 ## What?
 
-We are building the tools we need to help us (and the people we care about) get things (*they love*) ***done***.
+**Q**: What is dwyl?  
+**A**: dwyl (*pronounced like the name "[Will](https://www.youtube.com/watch?v=0sxnonO3FXw)" but with a "D" at the start*) is a *community* of people who want to change the world using code.
 
-- Time [track any time based activity]
-+ Doing [track what you are working on ...]
-- Next [record, prioritise, share & collaborate on your ideas]
-- When? [sync calendars and selectively share availability with your work colleagues, friends & family to discover when the best time for an activity/event is]
+We are building the tools *we* need to help us (and the people we care about) get things (*they love*) ***done***.
+
+Our first App is [***Time***](https://github.com/dwyl/time) which helps people ***track any time based activity***.
+
+But we have plans to build *many* other features and we'd *love* you to join us!
+
++ [Tudo](https://github.com/dwyl/tudo) (*pronounced todo*) helps you and your team track what you are working on.
++ When? [sync calendars and selectively share availability with your work colleagues, friends & family to discover when the best time for an activity/event is]
 - Birthday/Special Event Reminder [*AKA* The Card & Gift App]
 - *What question do* ***you*** *want to answer...*?
 
 
 ### Scratching Your *Own* Itch
 
-We believe in scratching our own itches.
+We believe in scratching our own itch.
 Scratching your own itch means solving a problem you (or someone *close* to you) *personally* have.
 If you (or someone close to you) don't have any personal experience in a field
 you aren't going to do a good job of spotting/solving a problem in that area.
