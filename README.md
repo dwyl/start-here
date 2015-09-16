@@ -31,7 +31,7 @@ If you'd like to know more, *please read* ***our [manifesto](/manifesto.md)***.
 **dwyl** is a ***rapidly expanding community*** ... here are a few
 of the familiar faces contributing to the projects:
 
-[![dwyl-people](https://cloud.githubusercontent.com/assets/194400/9907174/b4a9202c-5c85-11e5-95b6-e070ce484920.jpg)](https://github.com/orgs/dwyl/people)
+[![dwyl-people](https://cloud.githubusercontent.com/assets/194400/9920000/97649832-5cc8-11e5-972e-bb06f2abc237.png)](https://github.com/orgs/dwyl/people)
 
 ***Join us*** in finding something you want to ***solve*** and will
 ***love*** working on.
@@ -40,7 +40,9 @@ of the familiar faces contributing to the projects:
 ## What?
 
 **Q**: What is dwyl?  
-**A**: dwyl (*pronounced like the name "[Will](https://www.youtube.com/watch?v=0sxnonO3FXw)" but with a "D" at the start*) is a *community* of people who want to change the world using code.
+**A**: dwyl (*pronounced like the name "[Will](https://www.youtube.com/watch?v=0sxnonO3FXw)"
+but with a "D" at the start*) is a *community* of people on a
+***mission to change the world using code***.
 
 We are building the tools *we* need to help us (and the people we care about) get things (*they love*) ***done***.
 
@@ -93,7 +95,7 @@ https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
 
 ## Web Development *Fun*damentals
 
-We have listed the skills you need to know in the order you need to learn them.
+We have listed the skills you need to know in the *order* you need to learn them.
 Here is a checklist: https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md
 
 ### Basic Computer Skills
