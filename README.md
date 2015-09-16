@@ -9,31 +9,24 @@ A Quick-start Guide for people that want to build ***apps we all love*** using!
 > ~ [Arthur Ashe](http://en.wikipedia.org/wiki/Arthur_Ashe)
 
 
-## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+## Why?
 
-The world is not perfect. <br />
-We have all worked somewhere we *didn't* ***love***. <br />
-
-We have all felt the *frustration* of using products that had/have flaws
-(*and been unable to fix them*) <br/>
-
-Rather than *waiting* for someone else to solve our "problems"
-we are taking on the challenge ourselves.
-And we are making ***Everything Open Source*** along the way,
-so that you too can **D**o **W**hat **Y**ou **L**ove!
-
-**We simplify. We enable people to get through their _need-tos_ efficiently so they can get to their _want-tos_.**
-
-If you'd like to know more, *please read* ***our [manifesto](/manifesto.md)***.
-
-And if you haven't read Simon Sinek's book,
-we *highly recommend* you watch his Ted Talk on ***Start with Why***:  
+> If you haven't read **Simon Sinek**'s book "***Start with Why***",
+we *highly recommend* taking a few minutes to watch his **Ted Talk**:
 http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
 
 
-## Who?
+The world is not perfect.  
+We have all worked somewhere we *didn't* ***love***. <br />
+We have *all* felt the *frustration* of using products that had/have flaws
+(*and been unable to fix them*) <br/>
+The aim of dwyl is to address *both* of these "*bugs*" *symultaneously*.
 
-***Everyone*** should be doing on something they *love*.
+If you'd like to know more, *please read* ***our [manifesto](/manifesto.md)***.
+
+*If* you want to be part of the solution, join us: http://www.dwyl.io/
+
+## Who?
 
 **dwyl** is a ***rapidly expanding community*** ... here are a few
 of the familiar faces contributing to the projects:
@@ -53,7 +46,10 @@ We are building the tools *we* need to help us (and the people we care about) ge
 
 Our first App is [***Time***](https://github.com/dwyl/time) which helps people ***track any time based activity***.
 
-But we have plans to build *many* other features and we'd *love* you to join us!
+And we are making ***Everything Open Source*** along the way,
+so that you *too* can **D**o **W**hat **Y**ou **L**ove!
+
+We have plans to build *many* other features and we'd *love* you to join us!
 
 + [Tudo](https://github.com/dwyl/tudo) (*pronounced todo*) helps you and your team track what you are working on.
 + When? [sync calendars and selectively share availability with your work colleagues, friends & family to discover when the best time for an activity/event is]
@@ -68,37 +64,34 @@ Scratching your own itch means solving a problem you (or someone *close* to you)
 If you (or someone close to you) don't have any personal experience in a field
 you aren't going to do a good job of spotting/solving a problem in that area.
 
-Read:
+Taking the "*Business School*" approach of finding a "*Big Market*" and then identifying a problem to solve works for *some* companies,
+but we prefer the approach of solving something we are *personally passionate* about regardless of the (*size of the*) "*market*".
+
+> Read:
 https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
 
 ## What do I need?
 
-- [x] ***Curiosity*** - "I have no special talent. I am only passionately curious." ~ Albert Einstein
-- [x] ***Enthusiasm*** - "Enthusiasm spells the difference between mediocrity and accomplishment." ~ Norman Vincent Peale
-- [x] [***Shoshin***](http://en.wikipedia.org/wiki/Shoshin) (**Beginner's Mind**)
-  + "*I'm not young enough to know everything*" ~ [J. M. Barrie](http://en.wikiquote.org/wiki/J._M._Barrie)
-  + “*Your mind is like a parachute; it only works when it is open*.”  ~ Anthony D'Angelo
+- [x] ***Curiosity*** - "I have **no special talent**. I am only ***passionately curious***." ~ Albert Einstein
+- [x] ***Enthusiasm*** - "Enthusiasm spells the ***difference between mediocrity and accomplishment***." ~ Norman Vincent Peale
+- [x] [***Shoshin***](http://en.wikipedia.org/wiki/Shoshin) (**Beginner's Mind**) - "*I'm not young enough to know everything*" ~ [J. M. Barrie](http://en.wikiquote.org/wiki/J._M._Barrie)
 - [x] ***Persistance*** - “If you wish to be out front, then act as if you were behind.” ~ Lao Tzu
-- [ ] Time (work [**super hard** ... ***every waking hour***](https://www.youtube.com/watch?v=NU7W7qe2R0A))
-- [x] **Awareness** of how you're spending your time and learning to work to your productive hours and habits
-+ [ ] ***Great Google Skills*** - the ability to formulate a good question (*so you can get a useful answer from Google*) is (*more than*) half the challenge in any coding task.
-- [ ] ***Self-reliance***: when you get stuck on a task, knowing when to ***ask for help*** and when to persevere through to find the answer yourself.
+- [x] ***Work Ethic*** - ["**work super hard** ... ***every waking hour***"](https://www.youtube.com/watch?v=NU7W7qe2R0A) ~ Elon Musk
+- [ ] Time - if you only have ***1 minute*** there's *something* you can do *now*!
+<!-- - [x] **Awareness** of how you're spending your time and learning to work to your productive hours and habits -->
++ [ ] ***Great Google Skills*** - the ability to formulate a good question (*so you can get a useful answer from Google*) is (*more than*) half the challenge in any ~~coding~~ task.
+- [ ] ***Self-reliance***: when you get stuck on a task, knowing when to ***ask for help*** and when to *persevere* through to find the answer yourself ... don't worry though, we're here to help [![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)
 
 ### What *tools* will I need?
 
 - [x] ***A computer*** (preferably a *recent* one ... *Chromebooks are Great!*)
 
-#### Software
+#### Setup
 
-*Installing* software is 100% optional. You can use Cloud9 to develop completely online: https://c9.io/
-
-If you prefer to develop offline or have a faster response, you will need:
-
-- [x] A text editor. e.g. [Atom](https://atom.io/)
-- [x] [Node.js](http://nodejs.org/download/) for building server-side apps.
+> If you want to get started writing `code` *now* and don't already have your machine set up see: https://github.com/dwyl/setup
 
 
-## Web Development _Fun_damentals
+## Web Development *Fun*damentals
 
 We have listed the skills you need to know in the order you need to learn them.
 Here is a checklist: https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md
@@ -266,3 +259,5 @@ http://www.nngroup.com/articles/mobile-native-apps
 A good (but *long*) intro tutorial to PhoneGap V.3 was recorded
 [@LXJS](http://2013.lxjs.org/guide) in October 2013:
 http://phonegap.com/blog/2013/11/12/lxjs-workshop/
+
+[![HitCount](https://hitt.herokuapp.com/dwyl/start-here.svg)](https://github.com/dwyl/start-here)
