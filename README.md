@@ -44,7 +44,8 @@ of the familiar faces contributing to the projects:
 but with a "D" at the start*) is a *community* of people on a
 ***mission to change the world using code***.
 
-We are building the tools *we* need to help us (and the people we care about) get things (*they love*) ***done***.
+We are *making* the tools *we* need to help us
+(and the people we care about) get things (*they love*) ***done***.
 
 Our first App is [***Time***](https://github.com/dwyl/time) which helps people ***track any time based activity***.
 
@@ -166,100 +167,8 @@ If you are completely new to Git (*Version Control*) and/or GitHub,
 we suggest you checkout [@NataliaLKB](https://github.com/NataliaLKB)'s Tutorial: https://github.com/NataliaLKB/learn-git-basics
 
 
-### Server-Side = Node.js
+## Ready to Get Involved?
 
-+ What is Node.js and why is it useful? https://www.youtube.com/watch?v=pU9Q6oiQNd0
-- Download: http://nodejs.org/download/ (all platforms)
-- Beginners guide: http://www.nodebeginner.org/
-- Udemy Tutorial: https://www.udemy.com/nodejs-tutorial-from-scratch-by-examples
-- Node.js (books): https://github.com/Pana/node-books
-- Node.js style guide: https://github.com/felixge/node-style-guide
-
-> Investigate: http://tableflip.io/building-a-dnode-rpc-server-in-50-lines-of-code/
-
-### Testing
-
-Testing is often left as an afterthought or ommitted completely from
-"beginner" tutorials or books. That will not be the case here.
-You will learn *why* testing is not just a "nice-to-have".
-
-### Service Oriented Architecture with (REST) APIs
-
-We will be building our apps with RESTful
-[Service Oriented Architecture](http://en.wikipedia.org/wiki/Service-oriented_architecture)
-Backend. This has *several* advantages:
-
-1. Each piece of functionality is run as a service (so its easy to isolate, test and scale)
-2. The client we build (web app or mobile app) both (independently) "consume" the same service via REST API
-(which means that the font-end is completely decoupled from the backend of the app - easier to change/itterate)
-3. If our app/product gets popular we already have an API built and can allow 3rd party integration/extensions.
-
-
-I'm busy preparing a *detailed* tutorial for doing exactly this using Hapi.js
-at: https://github.com/nelsonic/learn-hapi
-You can already get started reading it and the supporting links
-And watch as the tutorial progresses.
-
-
-> Watch: https://www.youtube.com/watch?v=uDzME15UxVM (Share.js)
-
-
-### Which Client MVC Framework?
-
-- ~~Angular.js - Mature and full-featured~~
-- ~~Backbone.js - Well-structured and minimalist~~
-- Riot.js - Minimalist and Reactive (learn it in 2h)
-
-We are using Riot.js because its ***Tiny***
-and compares favorably to Polymer and React:
-https://muut.com/riotjs/compare.html
-
-Also it does ***server-side rendering*** out-of-the-box:
-https://muut.com/riotjs/guide/#server-side which we need
-for *progressive enhancement*.
-
-Ultimately we want to wrap our JS as PhoneGap app (see mobile below)
-so that the app can be run as a semi-native app (download from app store,
-local/offline storage, etc.) and it makes sense to keep it as small as possible.
-
-
-
-### Which Database?
-
-In the past we have used:
-
-- Postgres - The best relational dabase for
-- MongoDB  - Good balance of features, performance and ease of use.
-- CouchDB  - Great reliability, master-master replication and simplicity.
-+ RethinkDB - we *love* RethinkDB, but sadly there's no "free tier" on heroku...
-
-But for this project we are going to be using:
-
-+ ***Redis*** for its speed, flexibility and pub-sub
-+ ***ElasticSearch*** for full-text near-real-time search.
-
-If you are new to either of these please checkout our tutorials:
-
-+ Redis: https://github.com/docdis/learn-redis
-+ ElasticSearch: https://github.com/docdis/learn-elasticsearch
-
-
-## Mobile
-
-### Phonegap
-
-We are using PhoneGap to *rapidly prototype* "hybrid" mobile applications.
-
-- PhoneGap Tutorial: http://www.smashingmagazine.com/2014/02/11/four-ways-to-build-a-mobile-app-part3-phonegap/
-
-#### What is the Difference between Native and Hybrid Apps?
-
-- Jacob Nielson explains Native vs Hybrid:
-http://www.nngroup.com/articles/mobile-native-apps
-- Is Hybrid ready? http://venturebeat.com/2013/11/20/html5-vs-native-vs-hybrid-mobile-apps-3500-developers-say-all-three-please/ (the short answer is ***Yes***!)
-
-A good (but *long*) intro tutorial to PhoneGap V.3 was recorded
-[@LXJS](http://2013.lxjs.org/guide) in October 2013:
-http://phonegap.com/blog/2013/11/12/lxjs-workshop/
+Tweet us! https://twitter.com/dwylhq
 
 [![HitCount](https://hitt.herokuapp.com/dwyl/start-here.svg)](https://github.com/dwyl/start-here)
