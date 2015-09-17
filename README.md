@@ -198,4 +198,9 @@ If you want to help improve any aspect of the code
 Star this repo on GitHub if you want to get started with writing code
 (*we will add you to the organisation*)
 
+## *Curious* about what Technology we are using?
+
+If you want to know more about the **Technology** "***Stack***" we are using  
+see: https://github.com/dwyl/technology-stack
+
 [![HitCount](https://hitt.herokuapp.com/dwyl/start-here.svg)](https://github.com/dwyl/start-here)
