@@ -1,122 +1,144 @@
-Start Here
+Start Here [![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)  
 ==========
+
+A Quick-start Guide for people that want to **D**o **W**hat **Y**ou **L**ove!
 
 ![dwyl-logo-wide](https://cloud.githubusercontent.com/assets/194400/8141150/f4b4c854-115a-11e5-8c13-dc96a5f1e928.png)
 
-> Start where you are. Use what you have. Do what you can.
-> ~ [Arthur Ashe](http://en.wikipedia.org/wiki/Arthur_Ashe)
-
-[![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)    
-A Quick-start Guide for People who want to build awesome apps.
+> ***Start where you are. Use what you have. Do what you can***.
+> ~ [*Arthur Ashe*](http://en.wikipedia.org/wiki/Arthur_Ashe)
 
 
-## Why? [![start with why](https://img.shields.io/badge/start%20with-why%3F-brightgreen.svg?style=flat)](http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action)
+## Why?
+The world is not perfect.  
+We have all worked somewhere we _didn't **love**_. <br />
+We have _all_ felt the _frustration_ of using products that have flaws
+(and been unable to fix them).   
+**The aim of _dwyl_ is to address *both* of these issues _simultaneously_.**
 
-The world is not perfect. <br />
-We have all worked somewhere we *didn't* ***love***. <br />
-We have all experienced using products that had/have flaws. <br/>
-Rather than *waiting* for someone else to solve our "problems"
-we are taking on the challenge ourselves.
-And we are making ***Everything Open Source*** along the way,
-so that you too can **D**o **W**hat **Y**ou **L**ove!
+If you'd like to know more, _please **read our [manifesto](/manifesto.md)**_.  
+ The short version is:
+"_**Treat others as you would like others to treat you**_" ~
+[**The Golden Rule**](/manifesto.md)
 
-**We simplify. We enable people to get through their _need-tos_ efficiently so they can get to their _want-tos_.**
+If you want to be part of the solution, join us: http://www.dwyl.io/
 
-If you'd like to know more, *please read* ***our [manifesto](/manifesto.md)***.
-
-And if you haven't read Simon Sinek's book,
-we *highly recommend* you watch his Ted Talk on ***Start with Why***:  
+> If you haven't read **Simon Sinek**'s book "***Start with Why***",
+we *highly recommend* taking a few minutes to watch his **Ted Talk**:
 http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
-
 
 ## Who?
 
-***Everyone*** should be doing on something they *love*.
+**dwyl** is a _**rapidly expanding community**_; here are a few
+of the familiar faces contributing to our projects:
 
-For now the people working on dwyl are just four people:
-[@iteles](https://twitter.com/iteles), [@nelsonic](https://twitter.com/nelsonic),
-[@edwardcodes](https://github.com/edwardcodes)
-and
-[@hyprstack](https://github.com/hyprstack)
+[![dwyl-people](https://cloud.githubusercontent.com/assets/194400/9920000/97649832-5cc8-11e5-972e-bb06f2abc237.png)](https://github.com/orgs/dwyl/people)
 
-***Join us*** in finding something you want to ***solve*** and will
-***love*** working on.
+[_**Join us**_](#how) in finding a problem you want to **solve** and will
+_**love**_ working on.
 
 
 ## What?
 
-We are building the tools we need to help us (and the people we care about) get things (*they love*) ***done***.
+**Q**: What is dwyl?  
+**A**: dwyl (pronounced "[Will](https://www.youtube.com/watch?v=0sxnonO3FXw)"
+but with a "D" infront of it) is a _community_ of people on a
+_**mission to change the world using technology**_.
 
-- Time [track any time based activity]
-+ Doing [track what you are working on ...]
-- Next [record, prioritise, share & collaborate on your ideas]
-- When? [sync calendars and selectively share availability with your work colleagues, friends & family to discover when the best time for an activity/event is]
-- Birthday/Special Event Reminder [*AKA* The Card & Gift App]
-- *What question do* ***you*** *want to answer...*?
+We are _starting_ by making the tools _we_ need to help us (and the people we care about) _get things we love **done**_.
+
+Our first App is [***Time***](https://github.com/dwyl/time) which helps people ***track any time based activity***.
+
+And we are making ***Everything Open Source*** along the way,
+so that you *too* can **D**o **W**hat **Y**ou **L**ove!   
+We have plans to build *many* other features and we'd *love* you to join us!
+
+Here are a few on the roadmap:
++ [**Tudo**](https://github.com/dwyl/tudo) (_pronounced to-do_) helps you and your team track what you are working on
++ **When?** syncs calendars and selectively share availability with others to discover when the best time for an activity/event is
+- Birthday/Special Event Helper [*AKA* The Card & Gift App]
+
+What question do _**you**_ want to answer?
 
 
-### Scratching Your *Own* Itch
+### Our Approach: Scratching Your *Own* Itch
 
-We believe in scratching our own itches.
-Scratching your own itch means solving a problem you (or someone *close* to you) *personally* have.
-If you (or someone close to you) don't have any personal experience in a field
+We believe in scratching our own itch.
+This means solving a problem you (or someone _close_ to you) _personally_ have.
+If you don't have any personal experience in a field
 you aren't going to do a good job of spotting/solving a problem in that area.
 
-Read:
+Taking the _"Business School"_ approach of finding a _"Big Market"_ and then identifying a problem to solve works for some companies,
+but we prefer the approach of solving something we are **personally passionate about** _regardless_ of the (size of the) "market".
+
+> Read:
 https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
+
+# How?
+
+If you want to get involved with building great tools people love, this section contains everything you need to know.
+
 
 ## What do I need?
 
-- [x] ***Curiosity*** - "I have no special talent. I am only passionately curious." ~ Albert Einstein
-- [x] ***Enthusiasm*** - "Enthusiasm spells the difference between mediocrity and accomplishment." ~ Norman Vincent Peale
-- [x] [***Shoshin***](http://en.wikipedia.org/wiki/Shoshin) (**Beginner's Mind**)
-  + "*I'm not young enough to know everything*" ~ [J. M. Barrie](http://en.wikiquote.org/wiki/J._M._Barrie)
-  + “*Your mind is like a parachute; it only works when it is open*.”  ~ Anthony D'Angelo
-- [x] ***Persistance*** - “If you wish to be out front, then act as if you were behind.” ~ Lao Tzu
-- [ ] Time (work [**super hard** ... ***every waking hour***](https://www.youtube.com/watch?v=NU7W7qe2R0A))
-- [x] **Awareness** of how you're spending your time and learning to work to your productive hours and habits
-+ [ ] ***Great Google Skills*** - the ability to formulate a good question (*so you can get a useful answer from Google*) is (*more than*) half the challenge in any coding task.
-- [ ] ***Self-reliance***: when you get stuck on a task, knowing when to ***ask for help*** and when to persevere through to find the answer yourself.
++ [ ] **Curiosity** - "I have **no special talent**. I am only _**passionately curious**_." - Albert Einstein
++ [ ] **Enthusiasm** - "Enthusiasm spells the _**difference between mediocrity and accomplishment**_." - Norman Vincent Peale
++ [ ] [**Shoshin**](http://en.wikipedia.org/wiki/Shoshin) (**Beginner's Mind**) - "I'm not young enough to know everything" - J. M. Barrie
++ [ ] **Persistance** - "If you wish to be out front, then act as if you were behind.” - Lao Tzu
++ [ ] **Work Ethic** - ["**work super hard** ... _**every waking hour**_"](https://www.youtube.com/watch?v=NU7W7qe2R0A) ~ Elon Musk
++ [ ] **Time** - if you only have _**1 minute**_ there's _something_ you can do _now_!
++ [ ] **Great Google Skills** - the ability to formulate a good question (so you can get a useful answer from Google) is (more than) half the challenge in any ~~coding~~ task
++ [ ] **Self-reliance**: when you get stuck on a task, knowing **when to ask for help** and when to _persevere_ through to find the answer yourself
+  + But don't worry, we're here to help! [![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)
 
 ### What *tools* will I need?
 
-- [x] ***A computer*** (preferably a *recent* one ... *Chromebooks are Great!*)
+**Access to a computer**, preferably a recent (but not expensive) one (Chromebooks are Great!).  
+That's it.
 
-#### Software
+### Do I need to Write *Code* to Contribute?
 
-*Installing* software is 100% optional. You can use Cloud9 to develop completely online: https://c9.io/
+No. _Everyone_ can contribute, from proposing and voting on ideas,
+to simplifying wording to helping people understand our apps.    
 
-If you prefer to develop offline or have a faster response, you will need:
-
-- [x] A text editor. e.g. [Atom](https://atom.io/)
-- [x] [Node.js](http://nodejs.org/download/) for building server-side apps.
+Please drop by and tell us what you think! [![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)
 
 
-## Web Development _Fun_damentals
+### Setup (_for Coders_)
 
-We have listed the skills you need to know in the order you need to learn them.
-Here is a checklist: https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md
+If you want to start writing `code` _now_ and don't already have your machine set up, see: https://github.com/dwyl/setup
+
+We also have a **new developer checklist** which  we _encourage_ you to review:  
+https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md
+
+
+## Web Development *Fun*damentals
+
+We have listed the skills you need to know in the _order_ you need to learn them.
 
 ### Basic Computer Skills
 
 ![have_you_tried_turning_it_off_and_on_again_tshirt-r15b877ba3b4142bba14c938377e7fed7_v9uic_1024](https://cloud.githubusercontent.com/assets/194400/8126653/74557e82-10e8-11e5-8e5d-4fe33d734d8f.jpg)
 
-If you don't feel *confident* using a computer, don't despair!
-We've all been there. There's no "*secret*" to becoming an expert, just *experiment*! If you get *stuck*, ***Google***, if you're still stuck after an hour, ***ask for help***! If all else fails, *restart* your PC and try again! (*that's what* ***everyone does***)
-
+If you don't feel _confident_ using a computer, don't despair!
+We've all been there.
+There's no "secret" to becoming an expert, just _experiment_! If you get stuck, _**Google**_.
+If you're still stuck after an hour, **ask for help**!
+If all else fails, *restart* your computer and try again (that's what _**everyone**_ **does**).
 
 
 ### Touch Typing
 
-***Before*** you dive into programming, learning how to touch-type on your
-computer is the *single* ***best investment*** you can make.
-All this means is *practising* typing with the "*correct* fingers" until you don't have to think about where the keys are. Some of the best programmers we know can type faster than *most* people can *think* ... take a moment for that to settle in.
+_**Before**_ you dive into programming, learning how to touch-type on your
+computer is the *single* _**best investment**_ you can make.
+All this means is _practising_ typing with the "correct fingers" until you don't have to think about where the keys are.
+Some of the best programmers we know can type faster than most people can _think_ ... take a moment for that to settle in.
 
 [![playing piano blindfolded](http://i.imgur.com/4dzAeSz.jpg)](https://www.youtube.com/watch?v=Z-iyiWHI2nA "playing piano blindfolded")
 
-You need to be able to *type* ***blindfolded*** to become a true maestro (*at anything computer-related*).
+You need to be able to **type blindfolded** to become a true maestro (at anything computer-related).
 
-A few touch-typing tutorials:
+A few touch-typing tutorials anyone can (_should_) do a few minutes per day:
 
 + Keybr: http://www.keybr.com/
 + Typing Club: http://www.typingclub.com/typing-qwerty-en.html
@@ -129,18 +151,18 @@ If you've never heard of Markdown, get started now: http://markdowntutorial.com/
 
 ### HTML5
 
-You can learn 90% of what you need to know in HTML in a couple of hours (*from scratch*):
+You can learn 90% of what you need to know in HTML in a couple of hours (from scratch):
 
 + HTML Tutorial for Beginners in 1 Hour: https://www.youtube.com/watch?v=5TBU_jLZuG4
 + Learn HTML**5** from Scratch in 1 Hour: Learn HTML5 in 1 Hour: https://www.youtube.com/watch?v=s37GTK6JFcI
 
-The *rest* of HTML5 you will learn [*just-in-time*](https://en.wikipedia.org/wiki/Just_in_Time_Teaching)
-(*as & when you need to know it*).
+The _rest_ of HTML5 you will learn [_just-in-time_](https://en.wikipedia.org/wiki/Just_in_Time_Teaching)
+(only when you **need to know** it).
 
 
 ### CSS
 
-**C**ascading **S**tyle **S**heets (***CSS***) is what makes the web attractive. If you want to see the power of CSS, visit ZenGarden:
+**C**ascading **S**tyle **S**heets (_**CSS**_) is what makes the web attractive. If you want to see the power of CSS, visit ZenGarden:
 http://www.csszengarden.com/
 
 Complete Beginner (*or refresher*) Tutorial:
@@ -149,114 +171,39 @@ Complete Beginner (*or refresher*) Tutorial:
 + CSS3 Tutorial (*in one hour*):
 https://www.youtube.com/watch?v=CUxH_rWSI1k
 
+#### Further CSS learning
+
++ Getting started with CSS: https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started
++ The CSS Almanac: https://css-tricks.com/almanac/
++ Shay's Learn to Code HTML & CSS: http://learn.shayhowe.com/html-css/
++ Code Academy CSS: http://www.codecademy.com/en/tracks/htmlcss
+
 ### JavaScript
 
 Love it or hate it, **JavaScript is** ***Ubiquitous***. Becoming a ***JS Ninja*** is ***essential***.
 [Ines](http://github.com/iteles) has prepared some great notes on
 [JavaScript The Good Parts](https://github.com/iteles/Javascript-the-Good-Parts/blob/master/Notes-on-Javascript-the-Good-Parts.md)
-Keep "**The Good Parts**" in mind while you are *writing* (*and reading*) JS.
+Keep "**The Good Parts**" in mind while you are writing (and reading) JS.
 
 Watch this 1 hour intro tutorial:
-https://www.youtube.com/watch?v=fCa7yTZV4tQ
+https://www.youtube.com/watch?v=fCa7yTZV4tQ (and tell us if you get stuck).
 
 ### Git + GitHub
 
-If you are completely new to Git (*Version Control*) and/or GitHub,
-we suggest you checkout [@NataliaLKB](https://github.com/NataliaLKB)'s Tutorial: https://github.com/NataliaLKB/learn-git-basics
+If you are completely new to Git (_Version Control_) and/or GitHub,
+we suggest you check out the following:
 
++ Beginners Guide to Git: https://guides.github.com/activities/hello-world/
++ Interactive Workshop: https://github.com/jlord/git-it
++ [@NataliaLKB](https://github.com/NataliaLKB)'s Tutorial: https://github.com/NataliaLKB/learn-git-basics
 
-### Server-Side = Node.js
+## Ready to Get Involved?
 
-+ What is Node.js and why is it useful? https://www.youtube.com/watch?v=pU9Q6oiQNd0
-- Download: http://nodejs.org/download/ (all platforms)
-- Beginners guide: http://www.nodebeginner.org/
-- Udemy Tutorial: https://www.udemy.com/nodejs-tutorial-from-scratch-by-examples
-- Node.js (books): https://github.com/Pana/node-books
-- Node.js style guide: https://github.com/felixge/node-style-guide
+If you want to help improve any aspect of the code, **star :star: this repo on GitHub** and _we will add you to the organisation_.
 
-> Investigate: http://tableflip.io/building-a-dnode-rpc-server-in-50-lines-of-code/
+## Curious about what technology we are using?
 
-### Testing
+If you want to know more about the **Technology** "_**Stack**_" we are using  
+see: https://github.com/dwyl/technology-stack
 
-Testing is often left as an afterthought or ommitted completely from
-"beginner" tutorials or books. That will not be the case here.
-You will learn *why* testing is not just a "nice-to-have".
-
-### Service Oriented Architecture with (REST) APIs
-
-We will be building our apps with RESTful
-[Service Oriented Architecture](http://en.wikipedia.org/wiki/Service-oriented_architecture)
-Backend. This has *several* advantages:
-
-1. Each piece of functionality is run as a service (so its easy to isolate, test and scale)
-2. The client we build (web app or mobile app) both (independently) "consume" the same service via REST API
-(which means that the font-end is completely decoupled from the backend of the app - easier to change/itterate)
-3. If our app/product gets popular we already have an API built and can allow 3rd party integration/extensions.
-
-
-I'm busy preparing a *detailed* tutorial for doing exactly this using Hapi.js
-at: https://github.com/nelsonic/learn-hapi
-You can already get started reading it and the supporting links
-And watch as the tutorial progresses.
-
-
-> Watch: https://www.youtube.com/watch?v=uDzME15UxVM (Share.js)
-
-
-### Which Client MVC Framework?
-
-- ~~Angular.js - Mature and full-featured~~
-- ~~Backbone.js - Well-structured and minimalist~~
-- Riot.js - Minimalist and Reactive (learn it in 2h)
-
-We are using Riot.js because its ***Tiny***
-and compares favorably to Polymer and React:
-https://muut.com/riotjs/compare.html
-
-Also it does ***server-side rendering*** out-of-the-box:
-https://muut.com/riotjs/guide/#server-side which we need
-for *progressive enhancement*.
-
-Ultimately we want to wrap our JS as PhoneGap app (see mobile below)
-so that the app can be run as a semi-native app (download from app store,
-local/offline storage, etc.) and it makes sense to keep it as small as possible.
-
-
-
-### Which Database?
-
-In the past we have used:
-
-- Postgres - The best relational dabase for
-- MongoDB  - Good balance of features, performance and ease of use.
-- CouchDB  - Great reliability, master-master replication and simplicity.
-+ RethinkDB - we *love* RethinkDB, but sadly there's no "free tier" on heroku...
-
-But for this project we are going to be using:
-
-+ ***Redis*** for its speed, flexibility and pub-sub
-+ ***ElasticSearch*** for full-text near-real-time search.
-
-If you are new to either of these please checkout our tutorials:
-
-+ Redis: https://github.com/docdis/learn-redis
-+ ElasticSearch: https://github.com/docdis/learn-elasticsearch
-
-
-## Mobile
-
-### Phonegap
-
-We are using PhoneGap to *rapidly prototype* "hybrid" mobile applications.
-
-- PhoneGap Tutorial: http://www.smashingmagazine.com/2014/02/11/four-ways-to-build-a-mobile-app-part3-phonegap/
-
-#### What is the Difference between Native and Hybrid Apps?
-
-- Jacob Nielson explains Native vs Hybrid:
-http://www.nngroup.com/articles/mobile-native-apps
-- Is Hybrid ready? http://venturebeat.com/2013/11/20/html5-vs-native-vs-hybrid-mobile-apps-3500-developers-say-all-three-please/ (the short answer is ***Yes***!)
-
-A good (but *long*) intro tutorial to PhoneGap V.3 was recorded
-[@LXJS](http://2013.lxjs.org/guide) in October 2013:
-http://phonegap.com/blog/2013/11/12/lxjs-workshop/
+[![HitCount](https://hitt.herokuapp.com/dwyl/start-here.svg)](https://github.com/dwyl/start-here)
