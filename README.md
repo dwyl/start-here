@@ -73,7 +73,14 @@ but we prefer the approach of solving something we are *personally passionate* a
 > Read:
 https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
 
+# How?
+
+If you want to get involved with building great tools people love,
+
+
 ## What do I need?
+
+Do you have the following:
 
 - [x] ***Curiosity*** - "I have **no special talent**. I am only ***passionately curious***." ~ Albert Einstein
 - [x] ***Enthusiasm*** - "Enthusiasm spells the ***difference between mediocrity and accomplishment***." ~ Norman Vincent Peale
@@ -87,17 +94,26 @@ https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
 
 ### What *tools* will I need?
 
-- [x] ***A computer*** (preferably a *recent* one ... *Chromebooks are Great!*)
+- [x] ***A computer*** (preferably a *recent* one ... *Chromebooks are Great!*) that's it.
 
-#### Setup
+### Do I need to Write *Code* to Contribute?
 
-> If you want to get started writing `code` *now* and don't already have your machine set up see: https://github.com/dwyl/setup
+No, *everyone* can contribute, from voting on ideas,
+to simplifying wording to help people understand our app,
+tell us what you think! [![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)
+
+
+### Setup (for *Coders*)
+
+If you want to get started writing `code` *now* and don't already have your machine set up see: https://github.com/dwyl/setup
+
+Also we have a *new developer* checklist we *encourage* you to review:  
+https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md
 
 
 ## Web Development *Fun*damentals
 
 We have listed the skills you need to know in the *order* you need to learn them.
-Here is a checklist: https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md
 
 ### Basic Computer Skills
 
@@ -105,7 +121,6 @@ Here is a checklist: https://github.com/dwyl/start-here/blob/master/new-develope
 
 If you don't feel *confident* using a computer, don't despair!
 We've all been there. There's no "*secret*" to becoming an expert, just *experiment*! If you get *stuck*, ***Google***, if you're still stuck after an hour, ***ask for help***! If all else fails, *restart* your PC and try again! (*that's what* ***everyone does***)
-
 
 
 ### Touch Typing
@@ -159,16 +174,21 @@ Love it or hate it, **JavaScript is** ***Ubiquitous***. Becoming a ***JS Ninja**
 Keep "**The Good Parts**" in mind while you are *writing* (*and reading*) JS.
 
 Watch this 1 hour intro tutorial:
-https://www.youtube.com/watch?v=fCa7yTZV4tQ
+https://www.youtube.com/watch?v=fCa7yTZV4tQ (*tell us if you get stuck*)
 
 ### Git + GitHub
 
 If you are completely new to Git (*Version Control*) and/or GitHub,
-we suggest you checkout [@NataliaLKB](https://github.com/NataliaLKB)'s Tutorial: https://github.com/NataliaLKB/learn-git-basics
+we suggest you checkout the follwing:
 
++ Beginners Guide to Git: https://guides.github.com/activities/hello-world/
++ Interactive Workshop: https://github.com/jlord/git-it
++ [@NataliaLKB](https://github.com/NataliaLKB)'s Tutorial: https://github.com/NataliaLKB/learn-git-basics
 
 ## Ready to Get Involved?
 
-Tweet us! https://twitter.com/dwylhq
+If you want to help improve any aspect of the code
+Star this repo on GitHub if you want to get started with writing code
+(*we will add you to the organisation*)
 
 [![HitCount](https://hitt.herokuapp.com/dwyl/start-here.svg)](https://github.com/dwyl/start-here)
