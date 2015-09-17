@@ -22,7 +22,11 @@ We have *all* felt the *frustration* of using products that had/have flaws
 (*and been unable to fix them*) <br/>
 The aim of dwyl is to address *both* of these "*bugs*" *symultaneously*.
 
-If you'd like to know more, *please read* ***our [manifesto](/manifesto.md)***.
+If you'd like to know more, *please read* ***our [manifesto](/manifesto.md)*** ... the short version is:
+"***treat others as one would like others to treat oneself***" ~
+[**The Golden Rule**]()
+
+
 
 *If* you want to be part of the solution, join us: http://www.dwyl.io/
 
