@@ -1,12 +1,12 @@
 Start Here [![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)  
 ==========
 
-A Quick-start Guide for people that want to build ***apps we all love*** using!
+A Quick-start Guide for people that want to **D**o **W**hat **Y**ou **L**ove!
 
 ![dwyl-logo-wide](https://cloud.githubusercontent.com/assets/194400/8141150/f4b4c854-115a-11e5-8c13-dc96a5f1e928.png)
 
-> Start where you are. Use what you have. Do what you can.
-> ~ [Arthur Ashe](http://en.wikipedia.org/wiki/Arthur_Ashe)
+> ***Start where you are. Use what you have. Do what you can***.
+> ~ [*Arthur Ashe*](http://en.wikipedia.org/wiki/Arthur_Ashe)
 
 
 ## Why?
@@ -42,9 +42,9 @@ of the familiar faces contributing to the projects:
 **Q**: What is dwyl?  
 **A**: dwyl (*pronounced like the name "[Will](https://www.youtube.com/watch?v=0sxnonO3FXw)"
 but with a "D" at the start*) is a *community* of people on a
-***mission to change the world using code***.
+***mission to change the world using technology***.
 
-We are *making* the tools *we* need to help us
+We are *starting* by *making* the tools *we* need to help us
 (and the people we care about) get things (*they love*) ***done***.
 
 Our first App is [***Time***](https://github.com/dwyl/time) which helps people ***track any time based activity***.
@@ -133,7 +133,7 @@ All this means is *practising* typing with the "*correct* fingers" until you don
 
 You need to be able to *type* ***blindfolded*** to become a true maestro (*at anything computer-related*).
 
-A few touch-typing tutorials:
+A few touch-typing tutorials anyone can (*should*) do a few minutes per day:
 
 + Keybr: http://www.keybr.com/
 + Typing Club: http://www.typingclub.com/typing-qwerty-en.html
@@ -152,7 +152,7 @@ You can learn 90% of what you need to know in HTML in a couple of hours (*from s
 + Learn HTML**5** from Scratch in 1 Hour: Learn HTML5 in 1 Hour: https://www.youtube.com/watch?v=s37GTK6JFcI
 
 The *rest* of HTML5 you will learn [*just-in-time*](https://en.wikipedia.org/wiki/Just_in_Time_Teaching)
-(*as & when you need to know it*).
+(*only when you* ***need to know*** *it*).
 
 
 ### CSS
