@@ -166,6 +166,13 @@ Complete Beginner (*or refresher*) Tutorial:
 + CSS3 Tutorial (*in one hour*):
 https://www.youtube.com/watch?v=CUxH_rWSI1k
 
+#### Further CSS learning
+
++ Getting started with CSS: https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started
++ The CSS Almanac: https://css-tricks.com/almanac/
++ Shay's Learn to Code HTML & CSS: http://learn.shayhowe.com/html-css/
++ Code Academy CSS: http://www.codecademy.com/en/tracks/htmlcss
+
 ### JavaScript
 
 Love it or hate it, **JavaScript is** ***Ubiquitous***. Becoming a ***JS Ninja*** is ***essential***.
