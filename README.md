@@ -182,7 +182,7 @@ https://www.youtube.com/watch?v=CUxH_rWSI1k
 
 Love it or hate it, **JavaScript is** ***Ubiquitous***. Becoming a ***JS Ninja*** is ***essential***.
 [Ines](http://github.com/iteles) has prepared some great notes on
-[JavaScript The Good Parts](https://github.com/iteles/Javascript-the-Good-Parts/blob/master/Notes-on-Javascript-the-Good-Parts.md)
+[JavaScript The Good Parts](https://github.com/iteles/Javascript-the-Good-Parts)
 Keep "**The Good Parts**" in mind while you are writing (and reading) JS.
 
 Watch this 1 hour intro tutorial:
