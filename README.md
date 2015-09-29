@@ -6,7 +6,7 @@ A Quick-start Guide for people that want to **D**o **W**hat **Y**ou **L**ove!
 ![dwyl-logo-wide](https://cloud.githubusercontent.com/assets/194400/8141150/f4b4c854-115a-11e5-8c13-dc96a5f1e928.png)
 
 > ***Start where you are. Use what you have. Do what you can***.
-> ~ [*Arthur Ashe*](http://en.wikipedia.org/wiki/Arthur_Ashe) 
+> ~ [*Arthur Ashe*](http://en.wikipedia.org/wiki/Arthur_Ashe)
 
 
 ## Why?
@@ -19,7 +19,7 @@ We have _all_ felt the _frustration_ of using products that have flaws
 If you'd like to know more, _please **read our [manifesto](/manifesto.md)**_.  
  The short version is:
 "_**Treat others as you would like others to treat you**_" ~
-[**The Golden Rule**](https://en.wikipedia.org/wiki/Golden_Rule)
+[**The Golden Rule**](/manifesto.md)
 
 If you want to be part of the solution, join us: http://www.dwyl.io/
 
@@ -65,7 +65,7 @@ What question do _**you**_ want to answer?
 
 We believe in scratching our own itch.
 This means solving a problem you (or someone _close_ to you) _personally_ have.
-If you don't have any personal experience in a field 
+If you don't have any personal experience in a field
 you aren't going to do a good job of spotting/solving a problem in that area.
 
 Taking the _"Business School"_ approach of finding a _"Big Market"_ and then identifying a problem to solve works for some companies,
@@ -122,7 +122,7 @@ We have listed the skills you need to know in the _order_ you need to learn them
 
 If you don't feel _confident_ using a computer, don't despair!
 We've all been there.
-There's no "secret" to becoming an expert, just _experiment_! If you get stuck, _**Google**_. 
+There's no "secret" to becoming an expert, just _experiment_! If you get stuck, _**Google**_.
 If you're still stuck after an hour, **ask for help**!
 If all else fails, *restart* your computer and try again (that's what _**everyone**_ **does**).
 
@@ -182,7 +182,7 @@ https://www.youtube.com/watch?v=CUxH_rWSI1k
 
 Love it or hate it, **JavaScript is** ***Ubiquitous***. Becoming a ***JS Ninja*** is ***essential***.
 [Ines](http://github.com/iteles) has prepared some great notes on
-[JavaScript The Good Parts](https://github.com/iteles/Javascript-the-Good-Parts/blob/master/Notes-on-Javascript-the-Good-Parts.md)
+[JavaScript The Good Parts](https://github.com/iteles/Javascript-the-Good-Parts)
 Keep "**The Good Parts**" in mind while you are writing (and reading) JS.
 
 Watch this 1 hour intro tutorial:
