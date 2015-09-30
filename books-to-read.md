@@ -13,8 +13,8 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
     "Date": "July 2015",
     "ISBN": "13DigitNumber",
     "SuggestedBy": "YourName",
-    "GitHubId": "yourghid",
-    "Subject": "either the oficial categorisation or your free-text",
+    "GitHubId": "yourGHid",
+    "Subject": "either the official categorisation or your free text",
     "WhyIChoseIt": "Brief reason why you chose to read this book",
     "WhyOthersShouldReadIt": "Sell it to them!",
     "WhatILearned": "After you have finished reading it, note down what you learned",
@@ -180,6 +180,22 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
   "WhatILearned": "HTML5 offers much in-built functionality than I realised in the form of various <tags>, such as <audio> & <video>. In order to write semantically correct HTML a wide array of tags such as <section> and <article> should be used instead of <div>s for each section of the document.",
   "Link": "http://html5forwebdesigners.com/",
   "VideoSummary": "http://code.tutsplus.com/articles/html5-for-web-designers-book-review--net-13474"
+}
+```
+#### I Know How She Does It
+```js
+{
+    "Title": "I Know How She Does It: How Successful Women Make the Most of Their Time",
+    "Author": "Laura Vanderkam",
+    "Date": "July 2015",
+    "ISBN": "978-0241199510",
+    "SuggestedBy": "Ines",
+    "GitHubId": "iteles",
+    "Subject": "Productivity",
+    "WhyIChoseIt": "For a little inspiration, a jump start on how to get on with things rather than thinking about doing them. The concept of analysing time logs also fascinates me slightly!",
+    "WhyOthersShouldReadIt": "I don't think they should, there were less practical tips and a more of an element of 'spending time with family' than I expected. Just read my notes instead: https://github.com/iteles/Book-notes/blob/master/I-know-how-she-does-it.md",
+    "WhatILearned": "It's all about attitude (know what actually matters - hint: dirty dishes is not one of these things - and learn to let go) and knowing what you're doing so that when you work you can hit the ground running",
+    "Link": "http://www.amazon.co.uk/Know-How-She-Does-Successful/dp/0241199514/"
 }
 ```
 

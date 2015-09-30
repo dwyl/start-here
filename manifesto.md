@@ -1,4 +1,4 @@
-#Manifesto
+# Manifesto
 
 ***Everyone*** *should* be doing something they *love*.
 
@@ -11,6 +11,7 @@ In *everything* we do, we follow [**The Golden Rule**](https://en.wikipedia.org/
 ### Your time should never be wasted.
 
  We believe everything *we* do should _Save. You. Time_ which you can then spend doing the things you love (you know, the ones you never have time for...).    
+
  
  <a name="simple"/>
 1. **Keep it simple**. Poor planning and lack of modularity are the mothers of bloated apps. If how you go about doing something in the app isn’t _obvious_, then it needs to be changed.
