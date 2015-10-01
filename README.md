@@ -138,13 +138,18 @@ Some of the best programmers we know can type faster than most people can _think
 
 You need to be able to **type blindfolded** to become a true maestro (at anything computer-related).
 
-A few touch-typing tutorials anyone can (_should_) do a few minutes per day:
+A few touch-typing tutorials anyone can (_should_) do a few minutes per day. You should choose a tutorial that's compatible with your keyboard layout:
 
-+ Keybr: [https://www.keybr.com/](https://www.keybr.com/) (🇺🇸, 🇬🇧, 🇵🇹, 🇩🇪, 🇫🇷, 🇨🇦, 🇨🇭, 🇮🇹, 🇷🇺)
-+ Typing Club: [https://www.typingclub.com/](https://www.typingclub.com/) (🇺🇸/🇬🇧 only)
-+ BBC - Dance Mat Typing: [http://www.bbc.co.uk/guides/z3c6tfr#zg8nsbk] (http://www.bbc.co.uk/guides/z3c6tfr#zg8nsbk) (🇺🇸/🇬🇧 only)
-+ typrX: [http://app.typrx.com](http://app.typrx.com) (🇺🇸/🇬🇧 only)
-+ Typing.com: [https://www.typing.com](https://www.typing.com) (🇺🇸, 🇬🇧, 🇵🇹, 🇩🇪, 🇨🇦, 🇪🇸, 🇫🇷, 🇮🇹, 🇳🇴, 🇮🇸, 🇩🇰, 🇸🇪, 🇨🇭, 🇯🇵, 🇰🇷, 🇪🇪, 🇬🇷, 🇫🇮, 🇹🇷)
++ Keybr: [https://www.keybr.com/](https://www.keybr.com/) 
+  + 🇺🇸, 🇬🇧, 🇵🇹, 🇩🇪, 🇫🇷, 🇨🇦, 🇨🇭, 🇮🇹, 🇷🇺
++ Typing Club: [https://www.typingclub.com/](https://www.typingclub.com/)
+  + 🇺🇸/🇬🇧 
++ BBC - Dance Mat Typing: [http://www.bbc.co.uk/guides/z3c6tfr#zg8nsbk] (http://www.bbc.co.uk/guides/z3c6tfr#zg8nsbk)
+  + 🇺🇸/🇬🇧
++ typrX: [http://app.typrx.com](http://app.typrx.com)
+  + 🇺🇸/🇬🇧
++ Typing.com: [https://www.typing.com](https://www.typing.com)
+  + 🇺🇸, 🇬🇧, 🇵🇹, 🇩🇪, 🇨🇦, 🇪🇸, 🇫🇷, 🇮🇹, 🇳🇴, 🇮🇸, 🇩🇰, 🇸🇪, 🇨🇭, 🇯🇵, 🇰🇷, 🇪🇪, 🇬🇷, 🇫🇮, 🇹🇷
 
 
 ### Markdown
