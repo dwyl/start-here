@@ -1,4 +1,4 @@
-Start Here [![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)  
+Start Here [![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)
 ==========
 
 A Quick-start Guide for people that want to **D**o **W**hat **Y**ou **L**ove!
@@ -10,13 +10,13 @@ A Quick-start Guide for people that want to **D**o **W**hat **Y**ou **L**ove!
 
 
 ## Why?
-The world is not perfect.  
+The world is not perfect.
 We have all worked somewhere we _didn't **love**_. <br />
 We have _all_ felt the _frustration_ of using products that have flaws
-(and been unable to fix them).   
+(and been unable to fix them).
 **The aim of _dwyl_ is to address *both* of these issues _simultaneously_.**
 
-If you'd like to know more, _please **read our [manifesto](/manifesto.md)**_.  
+If you'd like to know more, _please **read our [manifesto](/manifesto.md)**_.
  The short version is:
 "_**Treat others as you would like others to treat you**_" ~
 [**The Golden Rule**](/manifesto.md)
@@ -40,7 +40,7 @@ _**love**_ working on.
 
 ## What?
 
-**Q**: What is dwyl?  
+**Q**: What is dwyl?
 **A**: dwyl (pronounced "[Will](https://www.youtube.com/watch?v=0sxnonO3FXw)"
 but with a "D" infront of it) is a _community_ of people on a
 _**mission to change the world using technology**_.
@@ -50,7 +50,7 @@ We are _starting_ by making the tools _we_ need to help us (and the people we ca
 Our first App is [***Time***](https://github.com/dwyl/time) which helps people ***track any time based activity***.
 
 And we are making ***Everything Open Source*** along the way,
-so that you *too* can **D**o **W**hat **Y**ou **L**ove!   
+so that you *too* can **D**o **W**hat **Y**ou **L**ove!
 We have plans to build *many* other features and we'd *love* you to join us!
 
 Here are a few on the roadmap:
@@ -93,13 +93,13 @@ If you want to get involved with building great tools people love, this section 
 
 ### What *tools* will I need?
 
-**Access to a computer**, preferably a recent (but not expensive) one (Chromebooks are Great!).  
+**Access to a computer**, preferably a recent (but not expensive) one (Chromebooks are Great!).
 That's it.
 
 ### Do I need to Write *Code* to Contribute?
 
 No. _Everyone_ can contribute, from proposing and voting on ideas,
-to simplifying wording to helping people understand our apps.    
+to simplifying wording to helping people understand our apps.
 
 Please drop by and tell us what you think! [![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)
 
@@ -108,7 +108,7 @@ Please drop by and tell us what you think! [![Join the chat at https://gitter.im
 
 If you want to start writing `code` _now_ and don't already have your machine set up, see: https://github.com/dwyl/setup
 
-We also have a **new developer checklist** which  we _encourage_ you to review:  
+We also have a **new developer checklist** which  we _encourage_ you to review:
 https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md
 
 
@@ -140,9 +140,12 @@ You need to be able to **type blindfolded** to become a true maestro (at anythin
 
 A few touch-typing tutorials anyone can (_should_) do a few minutes per day:
 
-+ Keybr: http://www.keybr.com/
-+ Typing Club: http://www.typingclub.com/typing-qwerty-en.html
-+ BBC: http://www.bbc.co.uk/guides/z3c6tfr#zg8nsbk
++ Keybr: [https://www.keybr.com/](https://www.keybr.com/) (🇺🇸, 🇬🇧, 🇵🇹, 🇩🇪, 🇫🇷, 🇨🇦, 🇨🇭, 🇮🇹, 🇷🇺)
++ Typing Club: [https://www.typingclub.com/](https://www.typingclub.com/) (🇺🇸/🇬🇧 only)
++ BBC - Dance Mat Typing: [http://www.bbc.co.uk/guides/z3c6tfr#zg8nsbk] (http://www.bbc.co.uk/guides/z3c6tfr#zg8nsbk) (🇺🇸/🇬🇧 only)
++ typrX: [http://app.typrx.com](http://app.typrx.com) (🇺🇸/🇬🇧 only)
++ Typing.com: [https://www.typing.com](https://www.typing.com) (🇺🇸, 🇬🇧, 🇵🇹, 🇩🇪, 🇨🇦, 🇪🇸, 🇫🇷, 🇮🇹, 🇳🇴, 🇮🇸, 🇩🇰, 🇸🇪, 🇨🇭, 🇯🇵, 🇰🇷, 🇪🇪, 🇬🇷, 🇫🇮, 🇹🇷)
+
 
 ### Markdown
 
@@ -203,7 +206,7 @@ If you want to help improve any aspect of the code, **star :star: this repo on G
 
 ## Curious about what technology we are using?
 
-If you want to know more about the **Technology** "_**Stack**_" we are using  
+If you want to know more about the **Technology** "_**Stack**_" we are using
 see: https://github.com/dwyl/technology-stack
 
 [![HitCount](https://hitt.herokuapp.com/dwyl/start-here.svg)](https://github.com/dwyl/start-here)
