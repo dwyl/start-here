@@ -138,11 +138,18 @@ Some of the best programmers we know can type faster than most people can _think
 
 You need to be able to **type blindfolded** to become a true maestro (at anything computer-related).
 
-A few touch-typing tutorials anyone can (_should_) do a few minutes per day:
+A few touch-typing tutorials anyone can (_should_) do a few minutes per day. There are many variation on the classic [QWERTY layout](https://en.wikipedia.org/wiki/QWERTY). You should choose a tutorial that's compatible with your keyboard layout:
 
-+ Keybr: http://www.keybr.com/
-+ Typing Club: http://www.typingclub.com/typing-qwerty-en.html
-+ BBC: http://www.bbc.co.uk/guides/z3c6tfr#zg8nsbk
++ Keybr: [https://www.keybr.com/](https://www.keybr.com/) 
+  + English (US), English (UK), German (DE), German (CH), French (FR), French (CA), French (CH), Italian, Portuguese (BR), Cyrillic
++ Typing Club: [https://www.typingclub.com/](https://www.typingclub.com/)
+  + English/US
++ BBC - Dance Mat Typing: [http://www.bbc.co.uk/guides/z3c6tfr#zg8nsbk] (http://www.bbc.co.uk/guides/z3c6tfr#zg8nsbk)
+  + English/UK
++ typrX: [http://app.typrx.com](http://app.typrx.com)
+  + English/US
++ Typing.com: [https://www.typing.com](https://www.typing.com)
+  + English (US), English (UK), English (CA), Spanish, [AZERTY](https://en.wikipedia.org/wiki/AZERTY) (FR), Italian, Portuguese (PT), Portuguese (BR), Norwegian, Icelandic, Dansk, Swedish, Chinese, Japanese, and **many more** (by far the most thorough of the bunch)
 
 ### Markdown
 
