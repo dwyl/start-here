@@ -151,6 +151,16 @@ A few touch-typing tutorials anyone can (_should_) do a few minutes per day. The
 + Typing.com: [https://www.typing.com](https://www.typing.com)
   + English (US), English (UK), English (CA), Spanish, [AZERTY](https://en.wikipedia.org/wiki/AZERTY) (FR), Italian, Portuguese (PT), Portuguese (BR), Norwegian, Icelandic, Dansk, Swedish, Chinese, Japanese, and **many more** (by far the most thorough of the bunch)
 
+### How the internet works
+
+Before setting off to build for the web you may appreciate aquiring some context
+as to how it all comes together.  There is a fantastic Coursera course called
+[Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history)
+that offers just this. The course is put together by an enthusiastic instructor who walks
+you through the historic events that led to the design of the internet that you
+use everyday.  If is full of interviews with the folks who contributed many important
+bits along the way.
+
 ### Markdown
 
 If you've never heard of Markdown, get started now: http://markdowntutorial.com/
