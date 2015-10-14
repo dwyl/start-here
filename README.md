@@ -168,10 +168,9 @@ If you've never heard of Markdown, get started now: http://markdowntutorial.com/
 
 ### HTML5
 
-You can learn 90% of what you need to know in HTML in a couple of hours (from scratch):
+You can learn 90% of what you need to know in HTML in a couple of hours, including practice time (from scratch):
 
-+ HTML Tutorial for Beginners in 1 Hour: https://www.youtube.com/watch?v=5TBU_jLZuG4
-+ Learn HTML**5** from Scratch in 1 Hour: Learn HTML5 in 1 Hour: https://www.youtube.com/watch?v=s37GTK6JFcI
+_Learn HTML**5** in 1 Hour:_ https://www.youtube.com/watch?v=kDyJN7qQETA
 
 The _rest_ of HTML5 you will learn [_just-in-time_](https://en.wikipedia.org/wiki/Just_in_Time_Teaching)
 (only when you **need to know** it).
@@ -182,10 +181,7 @@ The _rest_ of HTML5 you will learn [_just-in-time_](https://en.wikipedia.org/wik
 **C**ascading **S**tyle **S**heets (_**CSS**_) is what makes the web attractive. If you want to see the power of CSS, visit ZenGarden:
 http://www.csszengarden.com/
 
-Complete Beginner (*or refresher*) Tutorial:
-
-+ CSS Tutorial for Beginners in 1 Hour: https://youtu.be/hChVrWENonE?t=9s
-+ CSS3 Tutorial (*in one hour*):
+CSS3 beginner (or _refresher_) Tutorial (_in one hour_):
 https://www.youtube.com/watch?v=CUxH_rWSI1k
 
 #### Further CSS learning
@@ -194,16 +190,18 @@ https://www.youtube.com/watch?v=CUxH_rWSI1k
 + The CSS Almanac: https://css-tricks.com/almanac/
 + Shay's Learn to Code HTML & CSS: http://learn.shayhowe.com/html-css/
 + Code Academy CSS: http://www.codecademy.com/en/tracks/htmlcss
++ And specifically for CSS layout techniques: http://learnlayout.com/
 
 ### JavaScript
 
-Love it or hate it, **JavaScript is** ***Ubiquitous***. Becoming a ***JS Ninja*** is ***essential***.
+Love it or hate it, **JavaScript is** ***Ubiquitous***. Becoming a ***JS Ninja*** is ***essential***.   
 [Ines](http://github.com/iteles) has prepared some great notes on
-[JavaScript The Good Parts](https://github.com/iteles/Javascript-the-Good-Parts)
+[JavaScript The Good Parts](https://github.com/iteles/Javascript-the-Good-Parts).
 Keep "**The Good Parts**" in mind while you are writing (and reading) JS.
 
-Watch this 1 hour intro tutorial:
-https://www.youtube.com/watch?v=fCa7yTZV4tQ (and tell us if you get stuck).
+Watch this 1 hour intro tutorial series: https://www.youtube.com/watch?v=fGdd9qNwQdQ&list=PLoYCgNOIyGACTDHuZtn0qoBdpzV9c327V   
+and this scan through this 1.5 hour tutorial to pick up some extra points:
+https://www.youtube.com/watch?v=fju9ii8YsGs (and tell us if you get stuck).
 
 ### Git + GitHub
 
