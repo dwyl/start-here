@@ -187,10 +187,10 @@ https://www.youtube.com/watch?v=CUxH_rWSI1k
 #### Further CSS learning
 
 + Getting started with CSS: https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started
-+ The CSS Almanac: https://css-tricks.com/almanac/
 + Shay's Learn to Code HTML & CSS: http://learn.shayhowe.com/html-css/
-+ Code Academy CSS: http://www.codecademy.com/en/tracks/htmlcss
 + And specifically for CSS layout techniques: http://learnlayout.com/
++ Code Academy CSS: http://www.codecademy.com/en/tracks/htmlcss
++ The CSS Almanac: https://css-tricks.com/almanac/
 
 ### JavaScript
 
@@ -209,7 +209,7 @@ If you are completely new to Git (_Version Control_) and/or GitHub,
 we suggest you check out the following:
 
 + Beginners Guide to Git: https://guides.github.com/activities/hello-world/
-+ Interactive Workshop: https://github.com/jlord/git-it
++ Interactive Workshop: https://github.com/jlord/git-it-electron
 + [@NataliaLKB](https://github.com/NataliaLKB)'s Tutorial: https://github.com/NataliaLKB/learn-git-basics
 
 ## Ready to Get Involved?
