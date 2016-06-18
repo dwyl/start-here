@@ -86,7 +86,8 @@ read: http://www.unixmages.com/ufbm.pdf
 
 ## Trello
 
-Trello is the easiest, most versatile (and "**free**") project/task
+Even though we use GitHub to manage our issue backlog, Trello is widely used by developers.
+It is one of the easiest, most versatile (and "**free**") project/task
 tracking tool. Take the tour, register and try it!
 
 Use your google account to sign up.

@@ -106,9 +106,9 @@ Please drop by and tell us what you think! [![Join the chat at https://gitter.im
 
 ### Setup (_for Coders_)
 
-If you want to start writing `code` _now_ and don't already have your machine set up, see: https://github.com/dwyl/setup
+If you want to start writing `code` _now_ and don't already have your machine set up, see: https://github.com/dwyl/dev-setup
 
-We also have a **new developer checklist** which  we _encourage_ you to review:  
+We also have a **new developer checklist** which  we _encourage_ you to review on the various online services you should know about and set yourself up on:  
 https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md
 
 
@@ -187,10 +187,10 @@ https://www.youtube.com/watch?v=CUxH_rWSI1k
 #### Further CSS learning
 
 + Getting started with CSS: https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started
-+ The CSS Almanac: https://css-tricks.com/almanac/
 + Shay's Learn to Code HTML & CSS: http://learn.shayhowe.com/html-css/
-+ Code Academy CSS: http://www.codecademy.com/en/tracks/htmlcss
 + And specifically for CSS layout techniques: http://learnlayout.com/
++ Code Academy CSS: http://www.codecademy.com/en/tracks/htmlcss
++ The CSS Almanac: https://css-tricks.com/almanac/
 
 ### JavaScript
 
@@ -209,7 +209,7 @@ If you are completely new to Git (_Version Control_) and/or GitHub,
 we suggest you check out the following:
 
 + Beginners Guide to Git: https://guides.github.com/activities/hello-world/
-+ Interactive Workshop: https://github.com/jlord/git-it
++ Interactive Workshop: https://github.com/jlord/git-it-electron
 + [@NataliaLKB](https://github.com/NataliaLKB)'s Tutorial: https://github.com/NataliaLKB/learn-git-basics
 
 ## Ready to Get Involved?
