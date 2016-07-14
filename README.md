@@ -19,7 +19,7 @@ We have _all_ felt the _frustration_ of using products that have flaws
 If you'd like to know more, _please **read our [manifesto](/manifesto.md)**_.  
  The short version is:
 "_**Treat others as you would like others to treat you**_" ~
-[**The Golden Rule**](/manifesto.md)
+[***The Golden Rule***](/manifesto.md)
 
 If you want to be part of the solution, join us: http://www.dwyl.io/
 
@@ -108,7 +108,7 @@ Please drop by and tell us what you think! [![Join the chat at https://gitter.im
 
 If you want to start writing `code` _now_ and don't already have your machine set up, see: https://github.com/dwyl/dev-setup
 
-We also have a **new developer checklist** which  we _encourage_ you to review on the various online services you should know about and set yourself up on:  
+We also have a [***new developer checklist***](https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md) which  we _encourage_ you to review on the various online services you should know about and set yourself up on:  
 https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md
 
 
@@ -140,7 +140,7 @@ You need to be able to **type blindfolded** to become a true maestro (at anythin
 
 A few touch-typing tutorials anyone can (_should_) do a few minutes per day. There are many variation on the classic [QWERTY layout](https://en.wikipedia.org/wiki/QWERTY). You should choose a tutorial that's compatible with your keyboard layout:
 
-+ Keybr: [https://www.keybr.com/](https://www.keybr.com/) 
++ Keybr: [https://www.keybr.com/](https://www.keybr.com/)
   + English (US), English (UK), German (DE), German (CH), French (FR), French (CA), French (CH), Italian, Portuguese (BR), Cyrillic
 + Typing Club: [https://www.typingclub.com/](https://www.typingclub.com/)
   + English/US

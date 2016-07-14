@@ -28,9 +28,7 @@ your password they will gain access to *everything* else. not good... :hankey:
 ## Twitter
 
 ~~While~~ having a twitter account is ~~not~~ essential, it helps you
-to stay up to date with news/updates in your chosen field.
-
-> https://twitter.com/
+to stay up to date with news/updates in your chosen field. https://twitter.com/
 
 Even if you don't become a Twitter "Power User", its good to follow
 what's going on in your the world of web/app development.
@@ -41,9 +39,41 @@ what's going on in your the world of web/app development.
 
 Not true.
 
-Sure, *most* short, single word or personal names are taken,
-but there are still plenty of two-word names you can pick from.
+Sure, *many* short, single word or personal names are taken,
+but there are still *plenty* of two-word or "_invented_" names
+you can pick from. *Get creative* with keeping your handle as short as possible.
+while making it easy to remember/type.
 
+### Follow
+
+Decide what you want to be good at (_known for_) and _follow_ all
+the people who are already doing (_good_) work in that area.
+
+Follow people you know in "real world" so you can keep in touch.
+
+### Favourite :heart:
+
+*Favourite* the tweets you find useful/interesting/insightful/informative,
+this serves multiple purposes:  
+(a) bookmark content so you can return to it later.  
+(b) the author of the tweet/content knows it was useful so they will make more!
+(c) your followers can see what you find like-worthy.
+
+### Re-Tweet :recycle:
+
+If you think a post someone has shared is good re-tweet it!
+This has *many* positive effects:  
+(a) the person who posted the content will
+get *positive reenforcement* (*i.e. they will make more content*),
+(b) the content author might follow you back (*if they don't already*)  
+(c) if you consistently re-tweet useful content you will become known
+for relevance in that area and more people will follow/re-tweet you!
+
+[![dan_abramov_retweeted](https://cloud.githubusercontent.com/assets/194400/12523324/0ee0ac2c-c14e-11e5-9e6c-de4717fa474c.png)](https://twitter.com/dwylhq/status/687703493264732160)
+
+> https://twitter.com/dwylhq/status/687703493264732160
+
+<br />
 
 ## GitHub
 
