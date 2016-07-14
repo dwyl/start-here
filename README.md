@@ -84,7 +84,7 @@ If you want to get involved with building great tools people love, this section 
 + [ ] **Curiosity** - "I have **no special talent**. I am only _**passionately curious**_." - Albert Einstein
 + [ ] **Enthusiasm** - "Enthusiasm spells the _**difference between mediocrity and accomplishment**_." - Norman Vincent Peale
 + [ ] [**Shoshin**](http://en.wikipedia.org/wiki/Shoshin) (**Beginner's Mind**) - "I'm not young enough to know everything" - J. M. Barrie
-+ [ ] **Persistance** - "If you wish to be out front, then act as if you were behind.” - Lao Tzu
++ [ ] **Persistence** - "If you wish to be out front, then act as if you were behind.” - Lao Tzu
 + [ ] **Work Ethic** - ["**work super hard** ... _**every waking hour**_"](https://www.youtube.com/watch?v=NU7W7qe2R0A) ~ Elon Musk
 + [ ] **Time** - if you only have _**1 minute**_ there's _something_ you can do _now_!
 + [ ] **Great Google Skills** - the ability to formulate a good question (so you can get a useful answer from Google) is (more than) half the challenge in any ~~coding~~ task
