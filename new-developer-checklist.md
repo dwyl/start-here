@@ -77,19 +77,50 @@ for relevance in that area and more people will follow/re-tweet you!
 
 ## GitHub
 
-Github.com is where people share the code they are working on,
+Github.com is where people share the projects/code they are working on,
 discover what others are building and collaborate on cool things!
 
-There are other alternatives for sharing code in a team,
+There are other _alternatives_ for sharing code in a team,
 but GitHub has become the gathering place for the Open Source community.
+
+### Register
+
+If you don't already have a GitHub account, get one today!
+(_try and match the username to the one you picked on Twitter for consistency_)
 
 > https://github.com/
 
-### Gravatar
+### Complete Your Profile
+
+Add some detail to your profile so you are less "_generic_".
+
+Especially the new "bio" section which lets you link
+to various places and add a bit of text describing yourself.
+
+#### Gravatar
 
 GitHub (and other services) use Gravatar to manage your **avatar image**.
 
 > https://gravatar.com
+
+### Follow People!
+
+If you find someone _interesting_ on GitHub, follow them!
+
+> You can spot a non-coder (*or ex-coder*) a mile away by how _few_
+people they follow on GitHub.
+
+### Star Projects!
+
+Star the repositories (project) you find _interesting/promising_,
+both so you can return to them later and to _encourage_ the
+authors to _continue_ in their quest!
+
+### Contribute!
+
+The easiest way to contribute to a project/repository is to read through
+the documentation (`README.md`) and if you _spot an improvement_, _**create an issue**_!
+
 
 ### Set Up SSH Keys for GitHub
 
@@ -113,23 +144,39 @@ Learn how to use the **Terminal**:
 Learn more about Unix (the Operating System of *most* Servers)
 read: http://www.unixmages.com/ufbm.pdf
 
-
-## Trello
-
-Even though we use GitHub to manage our issue backlog, Trello is widely used by developers.
-It is one of the easiest, most versatile (and "**free**") project/task
-tracking tool. Take the tour, register and try it!
-
-Use your google account to sign up.
-
-> https://trello.com/tour
-
 ## StackOverflow / StackExchange
 
 StackOverflow is where technology people ask & answer questions.
 Create an account and explore.
 
 > https://stackoverflow.com/users/signup
+
+Once you have registered, try _answering_ people's questions:
+http://stackoverflow.com/?tab=interesting
+
+When you get stuck on _anything_
+
+_Asking_ and _Answering_ questions on StackOverflow is an _easy_
+way of demonstrating your knowledge.
+
+> If you have trouble getting your first few points on "SO", don't worry
+you aren't alone, get in touch and we will give you some pointers.  
+See: https://medium.com/@johnslegers/the-decline-of-stack-overflow-7cb69faa575d
+
+
+<br />
+
+# *Optional* (*Recommended*)
+
+## Trello
+
+Even though we use GitHub to manage our issue backlog, Trello is widely used by developers.
+It is one of the easiest, most versatile (and "**free**") project/task
+tracking tools. Take the tour, register and try it!
+
+Use your Google account to sign up.
+
+> https://trello.com/tour
 
 
 ## Quora
@@ -142,6 +189,12 @@ Again, use your gmail to register/sign-in
 > http://www.quora.com/
 
 
-# JQuery
+## JQuery
 
-JavaScript & jQuery Tutorial for Beginners: http://www.youtube.com/watch?v=VRnQOcVclS8
+While we don't tend to use JQuery for *new* projects @dwyl
+(see: http://youmightnotneedjquery.com ),
+JQuery is still used on 65% of websites, so if you ever have
+to work on an _existing_ project, you will almost _inevitably_
+come across it.
+JavaScript & jQuery Tutorial for Beginners:
+https://youtu.be/VRnQOcVclS8
