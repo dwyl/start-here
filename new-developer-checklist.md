@@ -85,7 +85,7 @@ but GitHub has become the gathering place for the Open Source community.
 
 ### Register
 
-If you don't already have a GitHub account, get one today!
+If you don't already have a GitHub account, [get one today](https://github.com/dwyl/github-reference#how-to-sign-up)!
 (_try and match the username to the one you picked on Twitter for consistency_)
 
 > https://github.com/
