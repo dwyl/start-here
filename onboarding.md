@@ -38,12 +38,18 @@ People joining DWYL are `family` and want them to _feel_ like DWYL is their `hom
 
 ## How?
 
-1. Make the person feel welcome. As a guide we should aim to make them feel like it's their _Birthday_ and everyone is celebrating! :tada:
+The success of the new person (_and continued thriving of the existing team which new person has joined_) depends on several factors.
+
+![get_cape__wear_cape__fly](https://cloud.githubusercontent.com/assets/194400/20690549/3409a64c-b5c3-11e6-9df0-2150b191caed.jpg)
+
+1. Make the person feel welcome. Aim to make them feel like it's their _Birthday_ and everyone is celebrating! :tada:
 5. [**Understand**](https://www.youtube.com/watch?v=TpNbW9MAarQ) the person on a _personal_ level: what makes them "_tick_"?
-Only by understanding a person's _intrinsic motivations_ can you hope to work well with them in a team.
+Only by understanding a person's _intrinsic motivations_ can you hope to work well with them.
 4. **Contextualize** and give the "Brief History of ..." so they _know_ "where we came from".
 1. Introduce the person to all the relevant people in the org/team they are going to need to speak to and why.
-2. Give person the **tools** they need to get started without delay. see: https://github.com/dwyl/hq/issues/131
-3. Show the person the knowledge they will need before they can be productive: https://github.com/dwyl?utf8=%E2%9C%93&q=learn
+9. Reserve Time in the calendars of all necessary people (_preferably the week before the new person starts_) so that they can get the necessary 1:1 or team-time.
+2. Give the person the **tools** they need to get started without delay. see: https://github.com/dwyl/hq/issues/131
+3. Show the person the knowledge repository they will need before they can be productive: https://github.com/dwyl?utf8=%E2%9C%93&q=learn
 6. Ensure the person has a complete knowledge of our Why? What? and How?
 6. Help the person pick a task to start with from the backlog.
+10. Encourage the new person to ask as many questions as they need to by searching through existing knowledge base and posting fresh questions (_to which they did not find an adequate answer during thier initial search_) 
