@@ -14,7 +14,8 @@ In *everything* we do, we follow [**The Golden Rule**](https://en.wikipedia.org/
 
 
  <a name="simple"/>
-1. **Keep it simple**. Poor planning and lack of modularity are the mothers of bloated apps. If how you go about doing something in the that app isn’t _obvious_, then it needs to be changed.
+### Keep it simple
+ Poor planning and lack of modularity are the mothers of bloated apps. If how you go about doing something in the that app isn’t _obvious_, then it needs to be changed.
 <a name="no-selling-data"/>
 
 ### Community driven
