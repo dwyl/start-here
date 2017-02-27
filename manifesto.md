@@ -9,18 +9,16 @@ In *everything* we do, we follow [**The Golden Rule**](https://en.wikipedia.org/
 > "treat others as one would like others to treat oneself"
 
 ### Your time should never be wasted.
-
  We believe everything *we* do should _Save. You. Time_ which you can then spend doing the things you love (you know, the ones you never have time for...).    
-
 
  <a name="simple"/>
 ### Keep it simple
  Poor planning and lack of modularity are the mothers of bloated apps. If how you go about doing something in the that app isn’t _obvious_, then it needs to be changed.
-<a name="no-selling-data"/>
 
 ### Community driven
 We have a lot of ideas for great ways the app can help you track your time, become more productive and more organised (based on the latest science), but we don’t want to [give you something you don’t want](#noForcedUpdates) so we’ll be asking you for your thoughts before we start working on new features. Everything we put out into the world will be voted on by you, the people who use our app. And we hope that once you start using it, [you’ll have some great ideas](http://web.mit.edu/evhippel/www/democ1.htm) of things you’d like to see built into the app and we can vote on those as a community too.
 
+<a name="no-selling-data"/>
 ### Your data is yours
  Which means we don’t sell it. We [don’t use it to study you without your knowledge or consent](http://www.forbes.com/sites/kashmirhill/2014/06/28/facebook-manipulated-689003-users-emotions-for-science/). We don’t give it to your boss. It’s your information and you are in control of who sees any given portion of it and how it’s used ([simply and easily](#simple), not hidden behind a mass of complicated menus).
 <a name="community"/>
