@@ -8,6 +8,7 @@ In *everything* we do, we follow [**The Golden Rule**](https://en.wikipedia.org/
 
 > "treat others as one would like others to treat oneself"
 
+<a name="never-waste-time"/>
 ### Your time should never be wasted.
  We believe everything *we* do should _Save. You. Time_ which you can then spend doing the things you love (you know, the ones you never have time for...).    
 
@@ -31,11 +32,12 @@ Whilst we don’t know _exactly_ what this is going to look like yet, we’re co
 
 ### _Full_ transparency
 We’re aware this may seem crazy, but we want to be fully transparent about everything we do, from [making decisions](#community) to finances :open_mouth: We’re an open book :book:
-<a name="OS"/>
 
+<a name="OS"/>
 ### Open source, always
 We don’t hide our code away. If you want to contribute to it, please do. If you want to use it as the starting point for something else, that’s fine too - just please give us some kudos for the hard work we’ve put in :relieved:
 
+<a name="latest-science"/>
 ### The latest science
 We’ll draw on the most interesting, important and relevant scientific research to help you improve your productivity.
 
@@ -45,11 +47,13 @@ We want to grow organically, at the right pace for us and to be flexible enough 
 ### Simple API
 The most easy-to-use API means you can quickly integrate the _time app_ features into your own websites, apps and internal flows. If it makes you more productive, we’re [happy for you to use it](#OS)
 
+<a name="people-not-users"/>
 ### We do not have users, [we have _people_](https://github.com/ideaq/time/issues/33).
 
+<a name="loyalty-first"/>
 ### Reward loyalty, not sign ups
 If we're giving out puppies, we're giving them to the people who've been with us from the start. [We're _**not**_ giving them out to new people and charging existing people for the privilege](https://twitter.com/iteles/status/561589203272994818).
-<a name="noForcedUpdates"/>
 
+<a name="no-forced-updates"/>
 ### No forced updates
 I hate it when I love the way an app is now and then it forces me to update to a new version where they have ruined the experience by trying to get the app to do too much and bloated the UI. _Don't you?_ Our plan is to keep things modular enough that if you :heart: the way the app looks now, you can keep it just the way you want it but still access new features.
