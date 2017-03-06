@@ -158,7 +158,7 @@ as to how it all comes together.  There is a fantastic Coursera course called
 [Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history)
 that offers just this. The course is put together by an enthusiastic instructor who walks
 you through the historic events that led to the design of the internet that you
-use everyday.  If is full of interviews with the folks who contributed many important
+use everyday.  It is full of interviews with the folks who contributed many important
 bits along the way.
 
 ### Markdown
