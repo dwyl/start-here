@@ -1,5 +1,7 @@
 # Manifesto
 
+<!-- TESSSSSTINNNG -->
+
 ***Everyone*** *should* be doing something they *love*.
 
 ![golden-rule-way](https://cloud.githubusercontent.com/assets/194400/9929013/f3825e66-5d21-11e5-98eb-0d51b9094368.jpg)
