@@ -212,6 +212,12 @@ we suggest you check out the following:
 + Interactive Workshop: https://github.com/jlord/git-it-electron
 + [@NataliaLKB](https://github.com/NataliaLKB)'s Tutorial: https://github.com/NataliaLKB/learn-git-basics
 
+### Design
+
+Building something for _someone else_ is hard. You don't necessarily know that people. Worrying about someone else's _"experience"_ with your app can be a full-time job. However, it is an essential process for everyone involved in software to partake in. The very best pieces of software are differentiated by the quality of their **User Experience design**.
+
+ Experiences are, by nature, personal, contextual, ephemeral, and affected by things beyond our control. The job of designing one is essentially one of embodying the _real people_ that will be using your product and imagining what the experience would be like for them. You should try to take into account as much contextual information about your users state of mind, occupation, preference towards sans-serif fonts etc. These details will weave a picture of the real humans on the other end of your app and help you make decisions about site structure and navigation as other less obvious things like content hierarchy: _what should the user see first?_
+
 ## Ready to Get Involved?
 
 If you want to help improve any aspect of the code, **star :star: this repo on GitHub** and _we will add you to the organisation_.
