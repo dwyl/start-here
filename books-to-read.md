@@ -40,7 +40,22 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
   "VideoSummary": ""
 }
 ```
-
+###Clean Code
+```js
+{
+	"Title": "Clean Code",
+	"Author": "Robert Cecil Martin",
+	"Date": "2008",
+	"ISBN": " 978-0132350884",
+	"SuggestedBy": "Karina Kozarova",
+	"GitHubId": "karinakozarova",
+	"Subject": "How to write quality code and why it matters",
+	"WhyIChoseIt": "It made me a better programmer",
+	"WhyOthersShouldReadIt": "It will save you a lot of time and efforts in the future",
+	"WhatILearned": "How to write good code",
+	"Link": "https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882"
+}
+```
 #### Code, The Hidden Language of Computer Hardware and Software
 ```js
 {
