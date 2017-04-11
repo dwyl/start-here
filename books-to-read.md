@@ -213,6 +213,23 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
     "Link": "http://www.amazon.co.uk/Know-How-She-Does-Successful/dp/0241199514/"
 }
 ```
+#### The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution
+
+```js
+{
+	"Title": "The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution",
+	"Author": "Walter Isaacson",
+	"Date": "2014",
+	"ISBN": " 978-1476708706",
+	"SuggestedBy": "Karina Kozarova",
+	"GitHubId": "karinakozarova",
+	"Subject": "The creation of computers, electronics and innovations",
+	"WhyIChoseIt": "Best History of Innovation Book for Programmers",
+	"WhyOthersShouldReadIt": "Everypne in the industry shuld know what is written there",
+	"WhatILearned": "How great innovators worked,their inspirations and workflow",
+	"Link": "https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703"
+}
+```
 
 #### Javascript: The Good Parts
 ```js
