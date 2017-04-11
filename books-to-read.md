@@ -225,7 +225,7 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
 	"GitHubId": "karinakozarova",
 	"Subject": "The creation of computers, electronics and innovations",
 	"WhyIChoseIt": "Best History of Innovation Book for Programmers",
-	"WhyOthersShouldReadIt": "Everypne in the industry shuld know what is written there",
+	"WhyOthersShouldReadIt": "Everyone in the industry should know what is written there",
 	"WhatILearned": "How great innovators worked,their inspirations and workflow",
 	"Link": "https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703"
 }
