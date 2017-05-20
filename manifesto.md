@@ -69,3 +69,7 @@ If we're giving out puppies, we're giving them to the people who've been with us
 
 ### No forced updates
 I hate it when I love the way an app is now and then it forces me to update to a new version where they have ruined the experience by trying to get the app to do too much and bloated the UI. _Don't you?_ Our plan is to keep things modular enough that if you :heart: the way the app looks now, you can keep it just the way you want it but still access new features.
+
+### No 'exit strategy'
+[@nelsonic](https://github.com/nelsonic) wrote an _excellent_ summary of why we
+have no plans to _sell_ the organisation to anyone and why that is important to us: https://github.com/dwyl/hq/issues/189 .
