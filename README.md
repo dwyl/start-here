@@ -32,7 +32,7 @@ http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
 **dwyl** is a _**rapidly expanding community**_; here are a few
 of the familiar faces contributing to our projects:
 
-[![dwyl-people](https://cloud.githubusercontent.com/assets/194400/9920000/97649832-5cc8-11e5-972e-bb06f2abc237.png)](https://github.com/orgs/dwyl/people)
+[![dwyl-community](https://user-images.githubusercontent.com/194400/28011265-a95f52d4-6559-11e7-823e-6133d947921a.jpg)](https://github.com/dwyl/who)
 
 [_**Join us**_](#how) in finding a problem you want to **solve** and will
 _**love**_ working on.
