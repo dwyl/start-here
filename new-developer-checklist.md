@@ -178,6 +178,10 @@ Use your Google account to sign up.
 
 > https://trello.com/tour
 
+## Linux
+
+Most people use Windows but every developer should know how to use a **Linux OS**. There are dozens of Linux versions but the most suggested for beginners is _Ubuntu._ It's free and open source.
+>https://www.ubuntu.com
 
 ## Quora
 
