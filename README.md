@@ -209,6 +209,7 @@ If you are completely new to Git (_Version Control_) and/or GitHub,
 we suggest you check out the following:
 
 + Beginners Guide to Git: https://guides.github.com/activities/hello-world/
++ [First Contributions](https://github.com/roshanjossey/first-contributions): A project to help you get started with contributing to open source projects
 + Interactive Workshop: https://github.com/jlord/git-it-electron
 + [@NataliaLKB](https://github.com/NataliaLKB)'s Tutorial: https://github.com/NataliaLKB/learn-git-basics
 
