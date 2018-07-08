@@ -161,6 +161,17 @@ you through the historic events that led to the design of the internet that you
 use everyday.  It is full of interviews with the folks who contributed many important
 bits along the way.
 
+
+### Command Line
+
+The command line is the basic way to communicate with a computer. The following links provide an introduction:
+
++ Keyboards and Command Line Interfaces: https://www.youtube.com/watch?v=4RPtJ9UyHS0
++ Linux Back to Basics: https://www.youtube.com/watch?v=MmHcOPJEjGA&index=1&list=PLII6oL6B7q78PKy6_R6JTkkYjVXZBZcVq
++ Learn Enough Command Line to Be Dangerous: https://www.learnenough.com/command-line-tutorial
++ Command Line Crash Course: https://learnpythonthehardway.org/book/appendixa.html
+
+
 ### Markdown
 
 If you've never heard of Markdown, get started now: http://markdowntutorial.com/
