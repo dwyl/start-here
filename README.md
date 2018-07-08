@@ -200,7 +200,7 @@ Love it or hate it, **JavaScript is** ***Ubiquitous***. Becoming a ***JS Ninja**
 Keep "**The Good Parts**" in mind while you are writing (and reading) JS.
 
 Watch this 1 hour intro tutorial series: https://www.youtube.com/watch?v=fGdd9qNwQdQ&list=PLoYCgNOIyGACTDHuZtn0qoBdpzV9c327V   
-and this scan through this 1.5 hour tutorial to pick up some extra points:
+and then scan through this 1.5 hour tutorial to pick up some extra points:
 https://www.youtube.com/watch?v=fju9ii8YsGs (and tell us if you get stuck).
 
 ### Git + GitHub
