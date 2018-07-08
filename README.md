@@ -208,7 +208,7 @@ https://www.youtube.com/watch?v=fju9ii8YsGs (and tell us if you get stuck).
 If you are completely new to Git (_Version Control_) and/or GitHub,
 we suggest you check out the following:
 
-+ Git and Github for Poets: https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
++ Git and GitHub for Poets: https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 + Beginners Guide to Git: https://guides.github.com/activities/hello-world/
 + Interactive Workshop: https://github.com/jlord/git-it-electron
 + [@NataliaLKB](https://github.com/NataliaLKB)'s Tutorial: https://github.com/NataliaLKB/learn-git-basics
