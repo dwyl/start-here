@@ -161,6 +161,17 @@ you through the historic events that led to the design of the internet that you
 use everyday.  It is full of interviews with the folks who contributed many important
 bits along the way.
 
+
+### Command Line
+
+The command line is the basic way to communicate with a computer. The following links provide an introduction:
+
++ Keyboards and Command Line Interfaces: https://www.youtube.com/watch?v=4RPtJ9UyHS0
++ Linux Back to Basics: https://www.youtube.com/watch?v=MmHcOPJEjGA&index=1&list=PLII6oL6B7q78PKy6_R6JTkkYjVXZBZcVq
++ Learn Enough Command Line to Be Dangerous: https://www.learnenough.com/command-line-tutorial
++ Command Line Crash Course: https://learnpythonthehardway.org/book/appendixa.html
+
+
 ### Markdown
 
 If you've never heard of Markdown, get started now: http://markdowntutorial.com/
@@ -200,7 +211,7 @@ Love it or hate it, **JavaScript is** ***Ubiquitous***. Becoming a ***JS Ninja**
 Keep "**The Good Parts**" in mind while you are writing (and reading) JS.
 
 Watch this 1 hour intro tutorial series: https://www.youtube.com/watch?v=fGdd9qNwQdQ&list=PLoYCgNOIyGACTDHuZtn0qoBdpzV9c327V   
-and this scan through this 1.5 hour tutorial to pick up some extra points:
+and then scan through this 1.5 hour tutorial to pick up some extra points:
 https://www.youtube.com/watch?v=fju9ii8YsGs (and tell us if you get stuck).
 
 ### Git + GitHub
@@ -208,7 +219,7 @@ https://www.youtube.com/watch?v=fju9ii8YsGs (and tell us if you get stuck).
 If you are completely new to Git (_Version Control_) and/or GitHub,
 we suggest you check out the following:
 
-+ Git and Github for Poets: https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
++ Git and GitHub for Poets: https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 + Beginners Guide to Git: https://guides.github.com/activities/hello-world/
 + Interactive Workshop: https://github.com/jlord/git-it-electron
 + [@NataliaLKB](https://github.com/NataliaLKB)'s Tutorial: https://github.com/NataliaLKB/learn-git-basics
