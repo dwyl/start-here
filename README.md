@@ -171,6 +171,21 @@ The command line is the basic way to communicate with a computer. The following 
 + Learn Enough Command Line to Be Dangerous: https://www.learnenough.com/command-line-tutorial
 + Command Line Crash Course: https://learnpythonthehardway.org/book/appendixa.html
 
+### Text Editor
+
+A text editor is the basic tool a programmer uses. Perhaps your main experience is with a [WSYWIG](https://en.wikipedia.org/wiki/WYSIWYG) text editor such as Microsoft Word. If you need to become more familiar with programmer's text editors, we recommend the following links:
+
++ The Best Text Editor for Beginners: https://learn.onemonth.com/the-best-text-editors-for-beginners/
++ Learn Enough Text Editor to Be Dangerous: https://www.learnenough.com/text-editor-tutorial
+
+
+We use Atom, but Sublime is another popular text editor which is good for someone starting. Emacs and Vim are famous old text editors which have a *much* steeper learning curve. We include information about them for "culture", since they form such a basic part of the programming landscape ( see [holy war of the text editors](https://en.wikipedia.org/wiki/Editor_war)):
+
++ Atom: https://www.youtube.com/watch?v=EyG20hhON6E&index=2&list=PLYzJdSdNWNqwNWlxz7bvu-lOYR0CFWQ4I
++ Sublime: https://www.youtube.com/watch?v=SVkR1ZkNusI&list=PLpcSpRrAaOaqQMDlCzE_Y6IUUzaSfYocK
++ Emacs: https://www.youtube.com/watch?v=Iagbv974GlQ
++ Vim: https://www.youtube.com/watch?v=TwV_VYApysQ&index=2&list=PL13bz4SHGmRxlZVmWQ9DvXo1fEg4UdGkr
+
 
 ### Markdown
 
