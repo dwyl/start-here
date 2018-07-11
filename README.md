@@ -238,9 +238,6 @@ we suggest you check out the following:
 + [@NataliaLKB](https://github.com/NataliaLKB)'s Tutorial: https://github.com/NataliaLKB/learn-git-basics
 + [First Contributions](https://github.com/roshanjossey/first-contributions): A project to help you get started with contributing to open source projects
 
-
-### Open source
-
 ### Open Source
 
 By now, you know enough Git and GitHub to make a pull request on an open source project. Before making your first open source contributions, it is useful to gather some context.
