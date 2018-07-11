@@ -240,7 +240,7 @@ we suggest you check out the following:
 
 ### Open Source
 
-By now, you know enough Git and GitHub to make a pull request on an open source project. Before making your first open source contributions, it is useful to gather some context.
+You know enough Git and GitHub to make a pull request on an open source project. Before making your first open source contributions, it is useful to gather some context.
 
 #### What is Open Source
 
