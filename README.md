@@ -173,7 +173,7 @@ The command line is the basic way to communicate with a computer. The following 
 
 ### Text Editor
 
-A text editor is the basic tool a programmer uses. Perhaps your main experience is with a [WSYWIG](https://en.wikipedia.org/wiki/WYSIWYG) text editor such as Microsoft Word. If you need to become more familiar with programmer's text editors, we recommend the following links:
+A text editor is the basic tool a programmer uses. Perhaps your main experience is with a [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) text editor such as Microsoft Word. If you need to become more familiar with programmer's text editors, we recommend the following links:
 
 + The Best Text Editor for Beginners: https://learn.onemonth.com/the-best-text-editors-for-beginners/
 + Learn Enough Text Editor to Be Dangerous: https://www.learnenough.com/text-editor-tutorial
