@@ -161,7 +161,6 @@ you through the historic events that led to the design of the internet that you
 use everyday.  It is full of interviews with the folks who contributed many important
 bits along the way.
 
-
 ### Command Line
 
 The command line is the basic way to communicate with a computer. The following links provide an introduction:
@@ -173,7 +172,7 @@ The command line is the basic way to communicate with a computer. The following 
 
 ### Text Editor
 
-A text editor is the basic tool a programmer uses. Perhaps your main experience is with a [WSYWIG](https://en.wikipedia.org/wiki/WYSIWYG) text editor such as Microsoft Word. If you need to become more familiar with programmer's text editors, we recommend the following links:
+A text editor is the basic tool a programmer uses. Perhaps your main experience is with a [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) text editor such as Microsoft Word. If you need to become more familiar with programmer's text editors, we recommend the following links:
 
 + The Best Text Editor for Beginners: https://learn.onemonth.com/the-best-text-editors-for-beginners/
 + Learn Enough Text Editor to Be Dangerous: https://www.learnenough.com/text-editor-tutorial
@@ -186,11 +185,9 @@ We use Atom, but Sublime is another popular text editor which is good for someon
 + Emacs: https://www.youtube.com/watch?v=Iagbv974GlQ
 + Vim: https://www.youtube.com/watch?v=TwV_VYApysQ&index=2&list=PL13bz4SHGmRxlZVmWQ9DvXo1fEg4UdGkr
 
-
 ### Markdown
 
 If you've never heard of Markdown, get started now: http://markdowntutorial.com/
-
 
 ### HTML5
 
@@ -229,6 +226,7 @@ Watch this 1 hour intro tutorial series: https://www.youtube.com/watch?v=fGdd9qN
 and then scan through this 1.5 hour tutorial to pick up some extra points:
 https://www.youtube.com/watch?v=fju9ii8YsGs (and tell us if you get stuck).
 
+
 ### Git + GitHub
 
 If you are completely new to Git (_Version Control_) and/or GitHub,
@@ -239,6 +237,44 @@ we suggest you check out the following:
 + Interactive Workshop: https://github.com/jlord/git-it-electron
 + [@NataliaLKB](https://github.com/NataliaLKB)'s Tutorial: https://github.com/NataliaLKB/learn-git-basics
 + [First Contributions](https://github.com/roshanjossey/first-contributions): A project to help you get started with contributing to open source projects
+
+### Open Source
+
+You know enough Git and GitHub to make a pull request on an open source project. Before making your first open source contributions, it is useful to gather some context.
+
+#### What is Open Source
+
++ What is Open Source Explained in LEGO: https://www.youtube.com/watch?v=a8fHgx9mE5U
+
+#### History of Open Source
+
++ History of Gnu, Linux, Free and Open Source Software: https://www.youtube.com/watch?v=vjMZssWMweA
++ Free/Open Source Software: A Brief History And Concept: https://www.youtube.com/watch?v=pURPtwdBE1M
++ The Cathedral and the Bazaar: https://en.wikipedia.org/wiki/The_Cathedral_and_the_Bazaar
+
+#### Contributing to Open Source
+
++ How to Contribute to an Open Source Project on Github: https://egghead.io/courses/how-to-contribute-to-an-open-source-project-on-github
++ How to Contribute to Open Source: https://opensource.guide/how-to-contribute/
+
+#### Open Source Communities
+
++ Building Welcoming Communities: https://opensource.guide/building-community/
++ Open Source and You: https://www.youtube.com/watch?v=3NpeVabCIog&feature=youtu.be
+
+#### Where to Start on Open Source
+
++ dwyl: https://github.com/dwyl
++ First Timers Only: https://www.firsttimersonly.com/
++ 24 Pull Requests: https://24pullrequests.com/
++ Your First PR: https://yourfirstpr.github.io/
++ Awesome First PR Opportunities: https://github.com/MunGell/awesome-for-beginners
++ Awesome for Non-Programmers: https://github.com/szabgab/awesome-for-non-programmers
+
+#### General Resources
+
++  Open Source Guides: https://opensource.guide/
+
 
 ### Design
 
