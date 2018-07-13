@@ -151,6 +151,11 @@ A few touch-typing tutorials anyone can (_should_) do a few minutes per day. The
 + Typing.com: [https://www.typing.com](https://www.typing.com)
   + English (US), English (UK), English (CA), Spanish, [AZERTY](https://en.wikipedia.org/wiki/AZERTY) (FR), Italian, Portuguese (PT), Portuguese (BR), Norwegian, Icelandic, Dansk, Swedish, Chinese, Japanese, and **many more** (by far the most thorough of the bunch)
 
+At this stage in your learning, it is important to connect how and why your touch-typing practice relates to learning to code. How can we combine touch-typing practice with learning to code? Just use the code samples in your resources, as touch-typing exercises! Once you are familiar with all the letters, numbers, punctuation and other symbols on the keyboard, then the code you use to learn, is the code you practice typing with. If you have not quite mastered the left angle < and right angle brackets > then HTML will soon teach you.
+
+The second topic we need to discuss is muscle-memory. By learning to touch-type you can efficiently gain muscle memory for the code (Markdown, HTML, CSS, JavaScript, etc, etc) you write, since you will always be performing the same actions to type out the code. It will rapidly reduce the time needed to become comfortable with both reading and writing the code, since comparing what you have typed to what you should have typed is one of the fastest ways of training your eye to pay attention to details.
+
+
 ### How the internet works
 
 Before setting off to build for the web you may appreciate aquiring some context
