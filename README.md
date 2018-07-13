@@ -158,8 +158,6 @@ You can connect your touch-typing practice with learning to code, by using the c
 + The Value of Typing Code: https://www.johndcook.com/blog/2012/12/18/the-value-of-typing-code/
 + Don't Copy and Paste Other People's Code, Type it Out: https://shockoe.com/blog/typingcodeout/
 
-
-
 ### How the internet works
 
 Before setting off to build for the web you may appreciate aquiring some context
