@@ -155,6 +155,14 @@ At this stage in your learning, it is important to connect how and why your touc
 
 The second topic we need to discuss is muscle-memory. By learning to touch-type you can efficiently gain muscle memory for the code (Markdown, HTML, CSS, JavaScript, etc, etc) you write, since you will always be performing the same actions to type out the code. It will rapidly reduce the time needed to become comfortable with both reading and writing the code, since comparing what you have typed to what you should have typed is one of the fastest ways of training your eye to pay attention to details.
 
+We conclude this section with resources that explain just why it is important to actually type out code by hand while reading, and if they convince you of the importance of typing out code by hand, then you might as well do it right, and learn to touch-type:
+
++ [The Lost Art of Typing **** by Hand](https://daveceddia.com/the-lost-art-of-typing-shit-by-hand/): Ignoring the profanity in the title, and not reading the comments section, this article is very good at explaining why and how it is important to type by hand.
++ We Are Typists First, Programmers Second: https://blog.codinghorror.com/we-are-typists-first-programmers-second/
++ The Value of Typing Code: https://www.johndcook.com/blog/2012/12/18/the-value-of-typing-code/
++ Don't Copy and Paste Other People's Code, Type it Out: https://shockoe.com/blog/typingcodeout/
+
+
 
 ### How the internet works
 
