@@ -161,6 +161,14 @@ you through the historic events that led to the design of the internet that you
 use everyday.  It is full of interviews with the folks who contributed many important
 bits along the way.
 
+We consider the above course to be the most thorough general introduction to how the Internet works, and we recommend you eventually work your way through it. In case you cannot make the time commitment right now, the following links provide shorter introductions and other points of view:
+
++ How The Internet Works: https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7
++ How The Internet Works for Developers:
+   + https://www.youtube.com/watch?v=e4S8zfLdLgQ
+   + https://www.youtube.com/watch?v=FTAPjr7vgxE
+
+
 ### Command Line
 
 The command line is the basic way to communicate with a computer. The following links provide an introduction:
