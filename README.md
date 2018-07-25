@@ -151,6 +151,13 @@ A few touch-typing tutorials anyone can (_should_) do a few minutes per day. The
 + Typing.com: [https://www.typing.com](https://www.typing.com)
   + English (US), English (UK), English (CA), Spanish, [AZERTY](https://en.wikipedia.org/wiki/AZERTY) (FR), Italian, Portuguese (PT), Portuguese (BR), Norwegian, Icelandic, Dansk, Swedish, Chinese, Japanese, and **many more** (by far the most thorough of the bunch)
 
+You can connect your touch-typing practice with learning to code, by using the code samples in your learning resources to practice your typing. Learning to touch-type accurately is therefore important for creating the proper muscle-memory for the code (Markdown, HTML, CSS, Javascript, etc) that you are learning. Here are resources that explain the importance of typing out code by hand:
+
++ [The Lost Art of Typing **** by Hand](https://daveceddia.com/the-lost-art-of-typing-shit-by-hand/): Ignoring the profanity in the title, and not reading the comments section, this article is very good at explaining why and how it is important to type by hand.
++ We Are Typists First, Programmers Second: https://blog.codinghorror.com/we-are-typists-first-programmers-second/
++ The Value of Typing Code: https://www.johndcook.com/blog/2012/12/18/the-value-of-typing-code/
++ Don't Copy and Paste Other People's Code, Type it Out: https://shockoe.com/blog/typingcodeout/
+
 ### How the internet works
 
 Before setting off to build for the web you may appreciate aquiring some context
