@@ -158,6 +158,55 @@ You can connect your touch-typing practice with learning to code, by using the c
 + The Value of Typing Code: https://www.johndcook.com/blog/2012/12/18/the-value-of-typing-code/
 + Don't Copy and Paste Other People's Code, Type it Out: https://shockoe.com/blog/typingcodeout/
 
+### How to Learn How to Learn
+
+Software-development is constant learning, so it is useful to think consciously about how one learns.
+
+#### General Thoughts on How to Learn
+
+A popular course is [Learning How to Learn]( https://www.coursera.org/learn/learning-how-to-learn) on Coursera taught by [Barbara Oakely](https://en.wikipedia.org/wiki/Barbara_Oakley) and [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski). It serves as a general introduction to concepts about learning how to learn,  with a *slight* emphasis on neuroscience.
+
+The following articles by [Blaze Koz](https://agileleanlife.com/blaz-kos/) from AgileLeanLife well summarise a lot of the basic concepts on efficient learning:
+
++ [Top 10 ways to learn or improve any skill fast](https://agileleanlife.com/how-to-improve-any-skill/): are there better ways to learn or improve a skill?
++ [Optimizing your working memory is more important than your IQ](https://agileleanlife.com/working-memory/): an attention span is a programmer's best friend.
++ [How to study, learn & master things faster than people with the highest IQ](https://agileleanlife.com/how-to-study-and-learn/): not many have consciously thought about how they go about learning.
++ [Learning is useless, validated learning is everything](https://agileleanlife.com/validated-learning/): thinking of how to validate one's learning, improves the learning.
+
+We feel socially obligated to mention Richard Feynmann:
+
++ [The Feynman Technique: The Best Way to Learn Anything]: https://fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/
++ [The Feynmann Methd to Learn to Code Faster](https://medium.com/@benjaminlezama/the-feynman-method-to-learn-to-code-faster-69b628115be3)
+
+Learning to code has many a steep learning curve, but apparently so does becoming an astronaut!
+
++ [At Work: Chris Hadfield's lessons on loving your job](https://eu.usatoday.com/story/money/columnist/kay/2013/11/16/at-work-love-learning/3525013/): Chris Hadfield gives his own unique perspective on learning how to learn.
+
+#### How Learning to Code Benefits the Mind
+
+Learning to code will challenge you in all sorts of ways, and as long as you push through the challenge, that is good for you!
+
++ [Can Computer Programming Boost Your Brain Power?](http://blog.teamtreehouse.com/can-computer-programming-boost-brain-power): how will your mind change while learning to code? One of the rare instances where we recommend the comments section!
++ [Programming Literacy Why Every Kid Should Learn to Code](https://medium.com/javascript-scene/programming-literacy-7bc4ae154b91): Among other things, Eric Elliot describes how learning to code at a young stage accelerated his academic progress.
+
+
+#### How to Learn Applied to Programming
+
+Here we present more specific information about learning how to learn and your stuides in programming.
+
+
++ [Hacking Passion](http://www.kytrinyx.com/talks/hacking-passion/): Katrina Owen breaks down practice into drills, simulations, case studies, direct practice, and imitation. Which kinds of practice are you applying or not applying?
++ [Learning Fluency](https://www.youtube.com/watch?v=AZlOjCZlPLU): Sara Simon talks about learning to learn how to code from the point of view of her many interests such as Chinese, theatre,  and chess. Here is the [article](https://medium.com/@sarambsimon/learning-fluency-672988a7ae52)
++ [The myth of the "Real Javascript Developer"](https://www.youtube.com/watch?v=Xt5qpbiqw2g): Brenna O'Brien describes the constant learning journey that is learning to code.
+
+#### Specific Advice about Learning Programming
+
+Here we present specific advice on learning programming. Remember to type out code by hand!:
+
++ [How to quickly and effectively read other people’s code](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/): one of those strange things is almost no one speaks about *reading* code/
++ [The most effective technique for learning to code may surprise you](https://www.huffingtonpost.com/entry/the-most-effective-technique-for-learning-to-code-may_us_57c1d3e0e4b0b01630df54ac): Seperating the description of a solution from its implementation, with applications to pair programming, and programming alone.
++ [Learn Python the Methodical Way](https://realpython.com/learn-python-the-methodical-way/): how to get the most out of project-based tutorials.
+
 ### How the internet works
 
 Before setting off to build for the web you may appreciate aquiring some context
