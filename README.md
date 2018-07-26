@@ -173,7 +173,7 @@ The following articles by [Blaze Koz](https://agileleanlife.com/blaz-kos/) from 
 + [How to study, learn & master things faster than people with the highest IQ](https://agileleanlife.com/how-to-study-and-learn/): not many have consciously thought about how they go about learning.
 + [Learning is useless, validated learning is everything](https://agileleanlife.com/validated-learning/): thinking of how to validate one's learning, improves the learning.
 
-We feel socially obligated to mention Richard Feynmann:
+We feel socially obligated to mention Richard Feynman:
 
 + [The Feynman Technique: The Best Way to Learn Anything]( https://fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/)
 + [The Feynman Method to Learn to Code Faster](https://medium.com/@benjaminlezama/the-feynman-method-to-learn-to-code-faster-69b628115be3)
