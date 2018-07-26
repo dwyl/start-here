@@ -203,7 +203,7 @@ Here we present more specific information about learning how to learn and your s
 
 Here we present specific advice on learning programming. Remember to type out code by hand!:
 
-+ [How to quickly and effectively read other people’s code](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/): one of those strange things is almost no one speaks about *reading* code/
++ [How to quickly and effectively read other people’s code](https://selftaughtcoders.com/how-to-quickly-and-effectively-read-other-peoples-code/): one of those strange things is almost no one speaks about *reading* code.
 + [The most effective technique for learning to code may surprise you](https://www.huffingtonpost.com/entry/the-most-effective-technique-for-learning-to-code-may_us_57c1d3e0e4b0b01630df54ac): Seperating the description of a solution from its implementation, with applications to pair programming, and programming alone.
 + [Learn Python the Methodical Way](https://realpython.com/learn-python-the-methodical-way/): how to get the most out of project-based tutorials.
 
