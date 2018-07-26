@@ -175,8 +175,8 @@ The following articles by [Blaze Koz](https://agileleanlife.com/blaz-kos/) from 
 
 We feel socially obligated to mention Richard Feynmann:
 
-+ [The Feynman Technique: The Best Way to Learn Anything]: https://fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/
-+ [The Feynmann Methd to Learn to Code Faster](https://medium.com/@benjaminlezama/the-feynman-method-to-learn-to-code-faster-69b628115be3)
++ [The Feynman Technique: The Best Way to Learn Anything]( https://fs.blog/2012/04/learn-anything-faster-with-the-feynman-technique/)
++ [The Feynmann Method to Learn to Code Faster](https://medium.com/@benjaminlezama/the-feynman-method-to-learn-to-code-faster-69b628115be3)
 
 Learning to code has many a steep learning curve, but apparently so does becoming an astronaut!
 
