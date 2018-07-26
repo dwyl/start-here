@@ -187,7 +187,7 @@ Learning to code has many a steep learning curve, but apparently so does becomin
 Learning to code will challenge you in all sorts of ways, and as long as you push through the challenge, that is good for you!
 
 + [Can Computer Programming Boost Your Brain Power?](http://blog.teamtreehouse.com/can-computer-programming-boost-brain-power): how will your mind change while learning to code? One of the rare instances where we recommend the comments section!
-+ [Programming Literacy: Why Every Kid Should Learn to Code](https://medium.com/javascript-scene/programming-literacy-7bc4ae154b91): Among other things, Eric Elliot describes how learning to code at a young age accelerated his academic progress.
++ [Programming Literacy: Why Every Kid Should Learn to Code](https://medium.com/javascript-scene/programming-literacy-7bc4ae154b91): among other things, Eric Elliot describes how learning to code at a young age accelerated his academic progress.
 
 
 #### How to Learn Applied to Programming
