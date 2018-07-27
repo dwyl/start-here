@@ -40,7 +40,7 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
   "VideoSummary": ""
 }
 ```
-###Clean Code
+### Clean Code
 ```js
 {
 	"Title": "Clean Code",
