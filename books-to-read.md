@@ -282,6 +282,7 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
     "Link": "http://www.amazon.co.uk/dp/1449311652/"
 }
 ```
+
 #### The Life-Changing Magic of Tidying
 ```js
 {
