@@ -192,7 +192,7 @@ Learning to code will challenge you in all sorts of ways, and as long as you pus
 
 #### How to Learn Applied to Programming
 
-Here we present more specific information about learning how to learn and your stuides in programming.
+Here we present more specific information about learning how to learn and your studies in programming.
 
 
 + [Hacking Passion](http://www.kytrinyx.com/talks/hacking-passion/): Katrina Owen breaks down practice into drills, simulations, case studies, direct practice, and imitation. Which kinds of practice are you applying or not applying?
@@ -209,7 +209,7 @@ Here we present specific advice on learning programming. Remember to type out co
 
 ### How the internet works
 
-Before setting off to build for the web you may appreciate aquiring some context
+Before setting off to build for the web you may appreciate acquiring some context
 as to how it all comes together.  There is a fantastic Coursera course called
 [Internet History, Technology, and Security](https://www.coursera.org/learn/internet-history)
 that offers just this. The course is put together by an enthusiastic instructor who walks
