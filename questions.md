@@ -289,6 +289,10 @@ would have the _most_ impact on their life.
 
 ## 10. What was the most difficult decision or challenge you have faced?
 
+Describe an instance where you had to make a decision
+or faced a challenge
+that was particularly difficult.
+
 ```sh
 # my most difficult decision or challenge was:
 
@@ -297,6 +301,22 @@ would have the _most_ impact on their life.
 
 
 ```
+
+> **Meta**: coping with _extreme_ difficulty
+is character building and sharing
+_how_ you handle difficult decisions or challenges
+is insightful for yourself and others.  
+
+
+<hr />
+> "_The ultimate measure of a ~~man~~ person
+is not where ~~he~~ they stand~~s~~
+in moments of comfort and convenience,
+but where ~~he~~ they stand~~s~~
+at times of challenge and controversy_."
+~ Martin Luther King, Jr.
+
+<hr />
 
 
 ## 11. Have you ever failed to take advantage of an _amazing_ one-time opportunity?
@@ -356,14 +376,27 @@ If you did not have an answer for `#12`
 or if you have a criteria that would be grounds for an "instant elimination",
 what would that be:
 
-
-# Add your Questions here! `#help-wanted`
-
-
+```sh
+# My list of reasons why I would no longer speak to someone:
 
 
-## 20. "_What important truth do very few people agree with you on?_"
 
+
+
+```
+
+> **Meta**: if you are the type of person who always forgives people;
+that is admirable; You have achieved a "higher state".
+Most people have a "line" that if someone crosses,
+they will no longer be "welcome" in their lives.
+If you have such a "line", what is it?
+The _reason_ this question is relevant is to understand
+what ethics/morals/standards people hold
+without going a deep philosophical discussion.
+
+
+
+## 13. "_What important truth do very few people agree with you on?_"
 
 
 ```sh
@@ -376,3 +409,19 @@ what would that be:
 ```
 
 This leads neatly into what we are building in "Phase One" ...
+
+
+
+
+<br /><br /> <hr /> <br /><br />
+
+
+# Add your Insightful Questions here! `#help-wanted`
+
+Do you have insightful questions you have thought about
+in your own life or been asked by someone?
+
+Please share!
+
+
+<br /><br /> <hr /> <br /><br />
