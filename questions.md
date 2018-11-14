@@ -30,28 +30,32 @@ These are _personal_ questions we will be asking all our future
 "_core_" team members. It's ~~important~~ _essential_ to have answers.
 
 @dwyl We don't believe in having _formal interviews_
-with "_brainteaser_" questions like
+with "_brainteaser_" questions like <br />
 "How Many [Things] Are There in [Location]?" <br />
 e.g: "How many yoga teachers are there in the USA?" <br />
-or "How many taxi drivers are there in New York City?"
-These types of questions have their place and are useful thought exercises.
+or "How many taxi drivers are there in New York City?" <br />
+These types of questions have their place and are useful
+deductive reasoning exercises.
 They are insightful for understanding _how_ people think
 and systematically approach challenges they haven't encountered before.
 But they have limited relevance to understanding _why_ people think
 a certain way or _what_ people think about most often.
-We are _way_ more people's answers to the "Why?" questions than _how_
+We are _way_ more interested in people's
+answers to the "_Why?_" questions than _how_
 they implement a particular algorithm on a whiteboard.
-We feel that knowing _who_ you are as a _person_ is the most important thing.
+We feel that knowing _who_ you are as a _person_
+is the most important thing in a working and friendship relationship.
 
 With that in mind here are the 20 "intro" questions:
 (_the first question is "logistical"
-and helps us improve our efforts to find like-minded people._)
+and helps us improve our efforts to find like-minded people. Thanks!_)
 
 
-## 0. _How_ did you discover dwyl?
+## 0. _How_ did you discover dwyl?
 
 ```sh
 # I discovered dwyl:
+
 
 
 
@@ -78,7 +82,7 @@ It helps us know works in spreading our mission.
 motives for being here.
 
 
-## 2. Is there _anywhere_ you would _rather_ be or _anything_ you would rather be doing _right now_?
+## 2. Is there _anywhere_ you would _rather_ be or _anything_ you would prefer to be doing _right now_?
 
 Is there a ***place*** you would rather be,
 ***person*** you would prefer to be with,
@@ -141,7 +145,7 @@ list them in any order and then number them later.
 ```
 
 
-## 5. Do you feel you have a _personal_ "_mission_" in life?
+## 5. Do you feel you have a _personal_ "_mission_" in life?
 
 If you do, write it down.
 If you _don't_ feel that you have a _personal_ mission,
@@ -229,6 +233,21 @@ Just write what you feel/think you would do.
 Are you _already_ doing anything of the things you listed above?
 
 
+```sh
+# List the things you love doing, which you already do:
+
+
+
+
+
+
+
+
+```
+
+> **Meta**: This question might sound "cliché",
+but it's surprisingly insightful
+
 
 
 ## 8. Do you believe the statement: "_you only live once_"?
@@ -303,7 +322,7 @@ you won't know how to spot it when a "Golden Ticket" is offered to you.
 Again, there is no "wrong" answer here and it will depend a lot
 on what stage in life you are at.
 
-## 12. Is there a person you used to be close to who you no longer speak to? _Why_?
+## 12. Is there a person you used to be close to who you no longer speak to? _Why_?
 
 You don't need to write the name of the person, just write down the _reason_
 why you are no longer in contact with the person.
@@ -331,12 +350,14 @@ How you _deal_ with that is _far_ more insightful
 than how you solve "bubble-sort".
 
 
-### 12.a What would cause you to "cut out" someone from your life?
+### 12.a What would cause you to "cut out" someone from your life?
 
 If you did not have an answer for `#12`
 or if you have a criteria that would be grounds for an "instant elimination",
 what would that be:
 
+
+# Add your Questions here! `#help-wanted`
 
 
 
@@ -344,11 +365,14 @@ what would that be:
 ## 20. "_What important truth do very few people agree with you on?_"
 
 
+
 ```sh
-# an important truth, few people agree with is:
+# An important truth, few people agree with is:
 
 
 
 
 
 ```
+
+This leads neatly into what we are building in "Phase One" ...
