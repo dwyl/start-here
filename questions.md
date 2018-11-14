@@ -266,9 +266,11 @@ it's a matter of _understanding_ how you approach life.
 
 ```
 
+<br /> <hr /> <br />
 
 # “_Live as if you were to die tomorrow. Learn as if you were to live forever_.” ~ Mahatma Gandhi
 
+<br /> <hr /> <br />
 
 ## 9. What is the most _valuable_ lesson you have learned in life?
 
@@ -308,15 +310,16 @@ _how_ you handle difficult decisions or challenges
 is insightful for yourself and others.  
 
 
-<hr />
-> "_The ultimate measure of a ~~man~~ person
+<!--
+
+## "_The ultimate measure of a ~~man~~ person
 is not where ~~he~~ they stand~~s~~
 in moments of comfort and convenience,
 but where ~~he~~ they stand~~s~~
 at times of challenge and controversy_."
 ~ Martin Luther King, Jr.
 
-<hr />
+-->
 
 
 ## 11. Have you ever failed to take advantage of an _amazing_ one-time opportunity?
