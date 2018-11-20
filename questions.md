@@ -361,7 +361,7 @@ you won't know how to spot it when a "Golden Ticket" is offered to you.
 Again, there is no "wrong" answer here and it will depend a lot
 on what stage in life you are at.
 
-## 13. What have you made a conscious choice to say 'no' to
+## 12. What have you made a conscious choice to say 'no' to
 even though it was a great opportunity; and why?
 ```sh
 # I have said 'no' to:
@@ -408,7 +408,7 @@ than how you solve "bubble-sort".
 
 ### 13.a What would cause you to "cut out" someone from your life?
 
-If you did not have an answer for `#12`
+If you did not have an answer for `#13`
 or if you have a criteria that would be grounds for an "instant elimination",
 what would that be:
 
