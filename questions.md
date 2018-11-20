@@ -361,8 +361,11 @@ you won't know how to spot it when a "Golden Ticket" is offered to you.
 Again, there is no "wrong" answer here and it will depend a lot
 on what stage in life you are at.
 
-## 12. What have you made a conscious choice to say 'no' to
-even though it was a great opportunity; and why?
+## 12. What have you made a conscious choice to say 'no' to even though it was a great opportunity; and why?
+
+Saying "no" to _superficially_ great opportunities can be one of the most difficult things in life,
+give an example of where you have made this decision conciously and explain why if possible:
+
 ```sh
 # I have said 'no' to:
 
