@@ -361,7 +361,27 @@ you won't know how to spot it when a "Golden Ticket" is offered to you.
 Again, there is no "wrong" answer here and it will depend a lot
 on what stage in life you are at.
 
-## 12. Is there a person you used to be close to who you no longer speak to? _Why_?
+## 12. What have you made a conscious choice to say 'no' to even though it was a great opportunity; and why?
+
+Saying "no" to _superficially_ great opportunities can be one of the most difficult things in life,
+give an example of where you have made this decision conciously and explain why if possible:
+
+```sh
+# I have said 'no' to:
+
+
+
+
+
+```
+
+> **Meta**: Saying 'no' is hard, even to things you _don't_ want to do, but it's
+even harder to say no to things that you really want to say 'yes' to.
+This is about helping you recognise that ***everything you say 'yes' to
+has an opportunity cost*** and to think more critically about whether you need
+to be saying 'no' more in future.
+
+## 13. Is there a person you used to be close to who you no longer speak to? _Why_?
 
 You don't need to write the name of the person, just write down the _reason_
 why you are no longer in contact with the person.
@@ -389,9 +409,9 @@ How you _deal_ with that is _far_ more insightful
 than how you solve "bubble-sort".
 
 
-### 12.a What would cause you to "cut out" someone from your life?
+### 13.a What would cause you to "cut out" someone from your life?
 
-If you did not have an answer for `#12`
+If you did not have an answer for `#13`
 or if you have a criteria that would be grounds for an "instant elimination",
 what would that be:
 
@@ -414,8 +434,7 @@ what ethics/morals/standards people hold
 without going a deep philosophical discussion.
 
 
-
-## 13. "_What important truth do very few people agree with you on?_"
+## 14. "_What important truth do very few people agree with you on?_"
 
 
 ```sh
