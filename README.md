@@ -34,6 +34,8 @@ of the familiar faces contributing to our projects:
 
 [![dwyl-community](https://user-images.githubusercontent.com/194400/28011265-a95f52d4-6559-11e7-823e-6133d947921a.jpg)](https://github.com/dwyl/who)
 
+The core team operate commercially through http://www.dwyl.io/ - an IT Services Company based in the United Kingdom. The commercial activity funds us personally and shapes the structure of our efforts including contribution prioritisation as well as our primary [technology stack](https://github.com/dwyl/technology-stack). 
+
 [_**Join us**_](#how) in finding a problem you want to **solve** and will
 _**love**_ working on.
 
