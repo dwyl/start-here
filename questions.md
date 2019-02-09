@@ -461,5 +461,9 @@ in your own life or been asked by someone?
 
 Please share!
 
+<a href="https://twitter.com/home?status=https%3A//github.com/dwyl/start-here/blob/master/questions.md">Share on Twitter</a><br>
+<a href="https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/dwyl/start-here/blob/master/questions.md">Share on Facebook</a><br>
+<a href="https://plus.google.com/share?url=https%3A//github.com/dwyl/start-here/blob/master/questions.md">Share on Google+</a><br>
+<a href="https://www.linkedin.com/shareArticle?mini=true&url=https%3A//github.com/dwyl/start-here/blob/master/questions.md&title=Dwyl%20-%20Questions&summary=The%20questions%20are%20meant%20to%20make%20you%20think.%20Write%20down%20the%20first%20thing%20that%20comes%20into%20your%20mind,%20your%20first%20thought%20is%20usually%20the%20most%20accurate%20reflection%20of%20what%20you%20are%20truly%20feeling.&source=dwyl">Share on LinkedIn</a>
 
 <br /><br /> <hr /> <br /><br />
