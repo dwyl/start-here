@@ -1,6 +1,6 @@
 # Context
 
-Organisations with a clearly communicated `Mission`
+People with a clearly communicated `Mission`
 are more likely to achieve their aim. <br />
 
 There is an indisputable correlation
@@ -89,13 +89,16 @@ because people with access to information/knowledge/education
 can _dramatically_ improve their own lives
 without north-western aid (_handouts_).
 
-The point of mentioning Space exploration
+The point of mentioning Space exploration here
 is simply to highlight what is _possible_
 when a clear mission is combined with smart people.
 
+> "_It is possible for ordinary people
+to choose to be extraordinary.”
+~ [Elon Musk](https://www.goodreads.com/author/quotes/7221234.Elon_Musk)
 
 By comparison to launching reusable rockets,
-what _we_ do is a _lot easier_!
+what _we_ are building is a _lot easier_!
 Build web applications is _definitely_ not "rocket surgery".
 
 ![its-not-rocket-surgery-950x400px](https://user-images.githubusercontent.com/194400/65376085-c7173180-dc93-11e9-8e9b-aa6f9dfe31e9.png)
@@ -150,22 +153,37 @@ Our objective with defining a _single_ clear **`Mission`** for the organisation 
 + https://en.wikipedia.org/wiki/Mission_statement [6 min read]
 + https://www.entrepreneur.com/encyclopedia/mission-statement [2 min read]
 
+## Examples
 
-
-## Unicef
+### Unicef
 
 "_advocate for the protection of children's rights,
 help meet their basic needs and expand their opportunities
-to reach their full potential_". (21) ~ [UNICEF-Mission-Statement.doc](https://www.unicef.org/pathtraining/Documents/Session%201%20Introduction%20to%20Humanitarian%20Action/Participant%20Manual/1.1%20UNICEF%27s%20Mission%20Statement.doc)
-![image](https://user-images.githubusercontent.com/194400/52267504-17be6200-2931-11e9-8e29-280227ee7f9a.png)
-No idea why their mission statement is only available as a downloadable Microsoft Word `.doc` ...
-Would have thought it would make sense to have a web page.
+to reach their full potential_". (21) ~ https://www.unicef.org/about/who/index_mission.html
 
-## charity:water
+![unicef-mission-statement](https://user-images.githubusercontent.com/194400/65377978-0e102180-dcaa-11e9-8bc3-7766251aa9a2.png)
+
+### charity:water
 
 "_charity:water is a nonprofit organization bringing clean and safe drinking water to people in developing countries._" (16) ~ https://my.charitywater.org/about/mission
 
-![image](https://user-images.githubusercontent.com/194400/52267771-d5495500-2931-11e9-8c79-9b728c074d35.png)
+![charity:water-mission-statement](https://user-images.githubusercontent.com/194400/65378158-c0e17f00-dcac-11e9-9d27-ce4876a745e4.png)
+
+
+### Tesla
+
+"_Tesla’s mission is to accelerate the world’s transition to sustainable energy._"
+
+![tesla-mission-statement](https://user-images.githubusercontent.com/194400/65378132-752ed580-dcac-11e9-9cad-6d5619ad91f8.png)
+
+
+<hr />
+
+If you more find good examples of mission statements,
+please add them!
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat-square)](https://github.com/dwyl/start-here/issues)
+
+<hr />
 
 
 ## _Most_ People are Disengaged from the Work they Do ...
@@ -173,6 +191,9 @@ Would have thought it would make sense to have a web page.
 
 According to recent data, only 13% of employees (Worldwide)
 are engaged at work. A whopping **87%** are **_disengaged_**.
+People who are disengaged are _definitely_ not
+being _effective_ with their time
+or laser focussed on any mission.
 
 > [![employee-engagement](https://user-images.githubusercontent.com/194400/52519733-2457f880-2c58-11e9-8f4d-32f4328ccab1.png)](https://youtu.be/ydKcaIE6O1k)
 
@@ -191,13 +212,59 @@ are engaged at work. A whopping **87%** are **_disengaged_**.
 but a **right** we **all deserve**._"
 > ~ [Rutger Bregman](https://youtu.be/ydKcaIE6O1k?t=841)
 
+We need to attract people who _share_ our mission.
 
 
 
 # What is _@dwyl's_ `Mission`?
 
-> <sup>1</sup> Moon...? 🌔 Don't _worry_, @dwyl is not "pivoting" to become a "space exploration" company!
-We have neither the expertise nor the _desire_ to burn our time/effort on _leaving_ Earth when there is still so much to be _done_ for to help people and planet! We aren't _against_ space exploration, in fact we are _delighted_ that it exists! We are _grateful_ for [GPS](https://en.wikipedia.org/wiki/Global_Positioning_System), [Teflon](https://en.wikipedia.org/wiki/Polytetrafluoroethylene) and [Velcro](https://en.wikipedia.org/wiki/Hook-and-loop_fastener) all of which we have the ["space race"](https://en.wikipedia.org/wiki/Space_Race) to thank for enabling or popularising! Going to the Moon is a _good_ example of a clear mission which is both **_incredibly_ ambitious** and ***inspiring***. **`While`** we feel it's a _good_ thing certain [Billionaires](https://www.bbc.com/news/business-45919650) are re-investing some of their wealth into space exploration (_e.g: Elon Musk, Jeff Bezos and Richard Branson_), because they are advancing technology in many fields as a result and _inspiring_ a **`new`** generation of people into science and engineering, we _wish_ more of the "mega rich" would re-invest their hoards of cash into [poverty](https://youtu.be/ydKcaIE6O1k) alleviation _first_ instead of mega [_yachts_](https://en.wikipedia.org/wiki/List_of_motor_yachts_by_length) to [overcompensate](https://www.urbandictionary.com/define.php?term=overcompensating) for their [insecurities](https://en.wikipedia.org/wiki/Emotional_security).
+Empower people to maximise their personal effectiveness,
+creativity and happiness while learning
+to build a better future together.
+
+`#helpwanted` refining this.
+
+
+<br />
+<hr />
+
+# Notes
+
+> <sup>1</sup> Moon...? 🌔
+Don't _worry_, @dwyl is not "pivoting"
+to become a "space exploration" company!
+We have neither the expertise
+nor the _desire_ to burn our energy/time
+on _leaving_ Earth
+when there is still so much to be _done_
+for to help people and planet!
+We aren't _against_ space exploration,
+in fact we are _delighted_ that it exists!
+We are _grateful_ for
+[GPS](https://en.wikipedia.org/wiki/Global_Positioning_System),
+[Teflon](https://en.wikipedia.org/wiki/Polytetrafluoroethylene)
+and
+[Velcro](https://en.wikipedia.org/wiki/Hook-and-loop_fastener)
+all of which we have the
+["space race"](https://en.wikipedia.org/wiki/Space_Race)
+to thank for enabling or popularising!
+Going to the Moon is a _good_ example
+of a clear mission which is
+both **_incredibly_ ambitious** and ***inspiring***.
+**`While`** we feel it's a _good_ thing certain
+[Billionaires](https://www.bbc.com/news/business-45919650)
+are re-investing some of their wealth into space exploration
+(_e.g: Elon Musk, Jeff Bezos and Richard Branson_),
+because they are advancing technology in many fields
+as a result and _inspiring_ a **`new`** generation
+of people into science and engineering,
+we _wish_ more of the "mega rich"
+would re-invest their hoards of cash into
+[poverty](https://youtu.be/ydKcaIE6O1k) alleviation
+_first_ instead of
+mega [_yachts_](https://en.wikipedia.org/wiki/List_of_motor_yachts_by_length)
+to [overcompensate](https://www.urbandictionary.com/define.php?term=overcompensating)
+for their [insecurities](https://en.wikipedia.org/wiki/Emotional_security).
 
 > <sup>2</sup>A member of the team recently asked "_Has dwyl's name/ meaning changed?_" https://github.com/dwyl/hq/issues/519
 > (_we are **stoked** that the person had the **courage** to **ask** the **question**, because it helped **confirm** our **suspicion** that we were **not communicating** our **`Mission`** **effectively**..._)
