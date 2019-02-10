@@ -266,11 +266,30 @@ mega [_yachts_](https://en.wikipedia.org/wiki/List_of_motor_yachts_by_length)
 to [overcompensate](https://www.urbandictionary.com/define.php?term=overcompensating)
 for their [insecurities](https://en.wikipedia.org/wiki/Emotional_security).
 
-> <sup>2</sup>A member of the team recently asked "_Has dwyl's name/ meaning changed?_" https://github.com/dwyl/hq/issues/519
-> (_we are **stoked** that the person had the **courage** to **ask** the **question**, because it helped **confirm** our **suspicion** that we were **not communicating** our **`Mission`** **effectively**..._)
-> We have _attempted_ to capture our **`Mission`** **`before`**: https://github.com/dwyl/start-here/issues/116  but the issue was _closed_ without any _progress_ being made toward a conclusion, that was a _unfortunate_. 😕
-> Rather than re-open an issue that has a lot of "_baggage_", I'm opening a _fresh_ one. 🌱
-> There is also some insight into our mission in https://github.com/dwyl/start-here/issues/108 as noted by @newswim in https://github.com/dwyl/start-here/issues/116#issuecomment-280011877
-> Anyone interested in going through the old threads, go for it! 🔍 `#hypertransparency`
-> My goal in **`this`** issue is to ***summarise*** our quest to _define_ @dwyl's **`Mission`**
-> and _update_ the **`start-here/README.md`** in order to **clarify** it for **`new`** people.
+> <sup>2</sup>A member of the team recently asked
+"_Has dwyl's name/ meaning changed?_"
+https://github.com/dwyl/hq/issues/519
+(_we are **stoked** that the person had the
+**courage** to **ask** the **question**,
+because it helped **confirm** our **suspicion**
+that we were **not communicating**
+our **`Mission`** **effectively**..._)
+We have _attempted_ to capture our **`Mission`**
+**`before`**: https://github.com/dwyl/start-here/issues/116  
+but the issue was _closed_
+without any _progress_ being made toward a conclusion,
+that was a _unfortunate_. 😕
+Rather than re-open an issue
+that has a lot of "_baggage_",
+I'm opening a _fresh_ one. 🌱
+There is also some insight into our mission
+in https://github.com/dwyl/start-here/issues/108
+as noted by @newswim in
+https://github.com/dwyl/start-here/issues/116#issuecomment-280011877
+Anyone interested in going through the old threads,
+go for it! 🔍 `#hypertransparency`
+My goal here
+is to ***summarise*** our quest
+to _define_ @dwyl's **`Mission`**
+and _update_ the **`start-here/README.md`**
+in order to **clarify** it for **`new`** people.
