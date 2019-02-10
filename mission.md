@@ -11,6 +11,25 @@ focussed on acheiving it.
 In many cases feats which were previously considered "_impossible_"
 are achieved in hitherto _unbelievably_ short timelines.
 
+
+On May 25, 1961
+President John F. Kennedy stood before Congress,
+and proposed that the US
+"_should commit itself to achieving the goal,
+before this decade is out,
+of landing a man on the Moon
+and returning him safely to the Earth_."
+
+[![jfk-congress-moon-goal](https://user-images.githubusercontent.com/194400/65376387-06934d00-dc97-11e9-871a-c32340d061c2.png)](https://youtu.be/GmN1wO_24Ao "JFK Congress Speech")
+
+President John F. Kennedy
+_clearly_ defined the _mission_ to go to the Moon.
+Landing on the Moon was
+_far_ beyond the capability of the time.
+America had yet to successfully launch
+_anything_ into orbit.
+
+
 [![we-choose-to-go-to-the-moon](https://user-images.githubusercontent.com/194400/65367909-ef217900-dc30-11e9-803d-7bb9f77dfe1c.png)](https://youtu.be/WZyRbnpGyzQ "President Kennedy's Speech at Rice University")
 
 
@@ -26,7 +45,7 @@ and one **we intend to win**, and the others,
 too._" <br />
 ~ [John F. Kennedy](https://en.wikipedia.org/wiki/John_F._Kennedy)
 September 12, 1962
-[wikipedia.org/wiki/We_choose_to_go_to_the_Moon](https://en.wikipedia.org/wiki/We_choose_to_go_to_the_Moon)
+[wikipedia.org/wiki/We_choose_to_go_to_the_Moon](https://en.wikipedia.org/wiki/We_choose_to_go_to_the_Moon) <br />
 Watch speech (video) for full effect: https://youtu.be/th5A6ZQ28pE
 
 ![moon-landing-1969](https://user-images.githubusercontent.com/194400/65367640-3ce7b280-dc2c-11e9-83fe-0c08f732c49a.jpg)
@@ -35,8 +54,14 @@ Less than 7 years later, on 20 July 1969,
 Apollo 11 was the first manned mission to land on the Moon.
 https://en.wikipedia.org/wiki/Moon_landing <br />
 
-
-
+What is often overlooked is the fact that JFK was killed
+in November 22, 1963
+_long_ before the space program had acheived any meaningful success.
+Despite the demise of JFK,
+the mission to reach the Moon was still achieved.
+Over 400,000 people were involved in the
+The power of a good mission is that it
+transcends the leader who defined it.
 
 SpaceX has a similarly clear mission: https://www.spacex.com/about
 
@@ -50,8 +75,11 @@ is the key to affordable space travel.
 
 ![falcon-heavy-liftoff](https://user-images.githubusercontent.com/194400/65367584-7e2b9280-dc2b-11e9-8ef3-b3d222bd2429.jpg)
 
+> "_I'm trying to construct a world that maximises the probability that SpaceX continues its mission without me_". Elon Musk
+
 Even if you aren't interested in (_or are **against**_) space exploration,
-one thing is _undeniable_, they are _executing_ on their mission.
+one thing is _undeniable_:
+the people at SpaceX are _executing_ on their mission.
 SpaceX's [Starlink](https://www.starlink.com) project
 will bring cheap and high speed broadband internet access
 to the
@@ -61,6 +89,23 @@ because people with access to information/knowledge/education
 can _dramatically_ improve their own lives
 without north-western aid (_handouts_).
 
+The point of mentioning Space exploration
+is simply to highlight what is _possible_
+when a clear mission is combined with smart people.
+
+
+By comparison to launching reusable rockets,
+what _we_ do is a _lot easier_!
+Build web applications is _definitely_ not "rocket surgery".
+
+![its-not-rocket-surgery-950x400px](https://user-images.githubusercontent.com/194400/65376085-c7173180-dc93-11e9-8e9b-aa6f9dfe31e9.png)
+
+> For anyone who _still_ thinks
+that software development is _difficult_,
+we have several copies of Steve Krug's
+"Rocket Surgery Made Easy" in the library.
+https://www.amazon.com/Rocket-Surgery-Made-Easy/dp/0321657292
+
 
 # History
 
@@ -68,13 +113,20 @@ We have always had a ["_Why_?"](https://github.com/dwyl/start-here#why)
 goal (_or several goals depending on who you ask_) for @dwyl.
 
 _Long_ before we started @dwyl we had been working for charities
-and non-profit organisations on a variety of missions.
+and non-profit organisations on a variety of missions
+including poverty reduction, cancer research, fair trade and education.
+
+One of the things that became clear to us
+while we were working for several charities
+(_and for-profit businesses for that matter_)
+was that in _most_ cases time was not used effectively
+and communication channels were poor.
+Even though mission statements were clear,
+translating those words into the day-to-day actions
+that most _effectively_ achieved the mission
+was severely lacking in most cases.
 
 
-> [![image](https://user-images.githubusercontent.com/194400/52519733-2457f880-2c58-11e9-8f4d-32f4328ccab1.png)](https://youtu.be/ydKcaIE6O1k)
-> "_I believe in a future, where the **value** of your work is not determined by the size of your paycheque, but by the amount of **happiness** you **spread** and the amount of **meaning** you give.
-I believe in a future where the **point** of education is not to prepare you for another **useless job**,
-but for a **life well-lived**. I believe in a future where an **existence without poverty** is **not** a **privilege** but a **right** we **all deserve**._" ~ [Rutger Bregman](https://youtu.be/ydKcaIE6O1k?t=841)
 
 ## _However ..._
 
@@ -114,6 +166,32 @@ Would have thought it would make sense to have a web page.
 "_charity:water is a nonprofit organization bringing clean and safe drinking water to people in developing countries._" (16) ~ https://my.charitywater.org/about/mission
 
 ![image](https://user-images.githubusercontent.com/194400/52267771-d5495500-2931-11e9-8c79-9b728c074d35.png)
+
+
+## _Most_ People are Disengaged from the Work they Do ...
+
+
+According to recent data, only 13% of employees (Worldwide)
+are engaged at work. A whopping **87%** are **_disengaged_**.
+
+> [![employee-engagement](https://user-images.githubusercontent.com/194400/52519733-2457f880-2c58-11e9-8f4d-32f4328ccab1.png)](https://youtu.be/ydKcaIE6O1k)
+
+> "_I believe in a future,
+> where the **value** of your work
+> is not determined by the size of your paycheque,
+> but by the amount of **happiness** you **spread**
+> and the amount of **meaning** you give.
+> I believe in a future
+> where the **point** of education
+> is not to prepare you for another **useless job**,
+> but for a **life well-lived**.
+> I believe in a future
+> where an **existence without poverty**
+> is **not** a **privilege**
+but a **right** we **all deserve**._"
+> ~ [Rutger Bregman](https://youtu.be/ydKcaIE6O1k?t=841)
+
+
 
 
 # What is _@dwyl's_ `Mission`?
