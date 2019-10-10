@@ -254,6 +254,7 @@ We use Atom, but Sublime is another popular text editor which is good for someon
 ### Markdown
 
 If you've never heard of Markdown, get started now: http://markdowntutorial.com/
+You can refer this [book](https://www.markdownguide.org/book) for learning purposes.
 
 ### HTML5
 
