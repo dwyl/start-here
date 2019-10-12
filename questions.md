@@ -446,6 +446,22 @@ without going a deep philosophical discussion.
 
 ```
 
+## 15. When and where did you heard first time of the the word *open source software* ? 
+
+share your early memories about OSS. 
+Share everything how you came to know about FOSS and also if you want can share about your expeirience, did you liked this idea?
+Did you feel intrigued that you too want to contribute.
+
+```sh
+# I heard of about open source software when:
+
+
+
+
+
+
+```
+
 This leads neatly into what we are building in "Phase One" ...
 
 
