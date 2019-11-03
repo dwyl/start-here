@@ -50,7 +50,7 @@ Even though our **`start-here`** repo has been read and "_starred_" by _many_ pe
 (_evidence that there is **some clarity** in our **purpose**_)
 
 We still feel that we are doing a _poor_ job of _communicating_ the **`Mission`**
-to the extent that people have _asked_ us to clarify it.<sup>2</sup>
+to the extent that people have _asked_ us to clarify it.[<sup>2</sup>](#notes)
 
 Our objective with defining a _single_ clear **`Mission`** for the organisation is to help _everyone_ in the community/team _understand exactly_ what we are trying to achieve and how much _effort_ and _perseverance_ it will require along the way.
 
@@ -178,7 +178,7 @@ _anything_ into orbit.
 [![we-choose-to-go-to-the-moon](https://user-images.githubusercontent.com/194400/65367909-ef217900-dc30-11e9-803d-7bb9f77dfe1c.png)](https://youtu.be/WZyRbnpGyzQ "President Kennedy's Speech at Rice University")
 
 
-> _**We choose** to **go to** the **Moon**!_<sup>1</sup> <br />
+> _**We choose** to **go to** the **Moon**!_[<sup>1</sup>](#notes) <br />
 "_We choose to go to the Moon in this decade
 and do the other things, **not because** they are **easy**,
 **but because** they are **hard**;
