@@ -98,8 +98,7 @@ please add them!
 
 # What is _@dwyl's_ `Mission`?
 
-Empower people to maximise their personal effectiveness,
-creativity and happiness.
+### "_Empower people to maximise their personal effectiveness, creativity and happiness._"
 
 Our App and Community should help people
 to discover meaningful creative work.
