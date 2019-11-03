@@ -1,131 +1,41 @@
-# Context
+[![woman-on-a-mission-intro-image](https://user-images.githubusercontent.com/194400/68089526-a0871180-fe61-11e9-82b2-d4f63872428e.jpg
+  "credit: https://unsplash.com/photos/pPFZibBBLGc")](https://unsplash.com/photos/pPFZibBBLGc)
+<!-- if you can find a better intro image, please share! -->
+
+
+# Mission
 
 People with a clearly communicated `Mission`
 are more likely to achieve their aim. <br />
 
-There is an indisputable correlation
-between having a _concise_ and _understandable_ mission
-and the _succesful outcome_
+There is a clear correlation
+between having a _concise_ mission
+and the _successful outcome_
 of the people
-focussed on acheiving it.
-In many cases feats which were previously considered "_impossible_"
-are achieved in hitherto _unbelievably_ short timelines.
+focussed on achieving it.
+In many cases feats
+previously considered "_impossible_" are achieved
+in _unbelievably_ short timelines.
 
 
-On May 25, 1961
-President John F. Kennedy stood before Congress,
-and proposed that the US
-"_should commit itself to achieving the goal,
-before this decade is out,
-of landing a man on the Moon
-and returning him safely to the Earth_."
+## Context
 
-[![jfk-congress-moon-goal](https://user-images.githubusercontent.com/194400/65376387-06934d00-dc97-11e9-871a-c32340d061c2.png)](https://youtu.be/GmN1wO_24Ao "JFK Congress Speech")
-
-President John F. Kennedy
-_clearly_ defined the _mission_ to go to the Moon.
-Landing on the Moon was
-_far_ beyond the capability of the time.
-America had yet to successfully launch
-_anything_ into orbit.
-
-
-[![we-choose-to-go-to-the-moon](https://user-images.githubusercontent.com/194400/65367909-ef217900-dc30-11e9-803d-7bb9f77dfe1c.png)](https://youtu.be/WZyRbnpGyzQ "President Kennedy's Speech at Rice University")
-
-
-> _**We choose** to **go to** the **Moon**!_<sup>1</sup> <br />
-"_We choose to go to the Moon in this decade
-and do the other things, **not because** they are **easy**,
-**but because** they are **hard**;
-because that **goal** will serve to **organize** and **measure**
-the **best** of our **energies** and **skills**, because that **challenge**
-is one that we are willing to **accept**,
-one we are **unwilling** to **postpone**,
-and one **we intend to win**, and the others,
-too._" <br />
-~ [John F. Kennedy](https://en.wikipedia.org/wiki/John_F._Kennedy)
-September 12, 1962
-[wikipedia.org/wiki/We_choose_to_go_to_the_Moon](https://en.wikipedia.org/wiki/We_choose_to_go_to_the_Moon) <br />
-Watch speech (video) for full effect: https://youtu.be/th5A6ZQ28pE
-
-![moon-landing-1969](https://user-images.githubusercontent.com/194400/65367640-3ce7b280-dc2c-11e9-83fe-0c08f732c49a.jpg)
-
-Less than 7 years later, on 20 July 1969,
-Apollo 11 was the first manned mission to land on the Moon.
-https://en.wikipedia.org/wiki/Moon_landing <br />
-
-What is often overlooked is the fact that JFK was killed
-in November 22, 1963
-_long_ before the space program had acheived any meaningful success.
-Despite the demise of JFK,
-the mission to reach the Moon was still achieved.
-Over 400,000 people were involved in the
-The power of a good mission is that it
-transcends the leader who defined it.
-
-SpaceX has a similarly clear mission: https://www.spacex.com/about
-
-![spacex-mission-statement](https://user-images.githubusercontent.com/194400/65367652-8fc16a00-dc2c-11e9-89b8-63d43d401a38.png)
-
-They too have managed feats most experts thought were impossible
-including many records for a privately developed liquid-fueled rocket.
-Booster landing and
-[reusability](https://www.spacex.com/reusability-key-making-human-life-multi-planetary)
-is the key to affordable space travel.
-
-![falcon-heavy-liftoff](https://user-images.githubusercontent.com/194400/65367584-7e2b9280-dc2b-11e9-8ef3-b3d222bd2429.jpg)
-
-> "_I'm trying to construct a world that maximises the probability that SpaceX continues its mission without me_". Elon Musk
-
-Even if you aren't interested in (_or are **against**_) space exploration,
-one thing is _undeniable_:
-the people at SpaceX are _executing_ on their mission.
-SpaceX's [Starlink](https://www.starlink.com) project
-will bring cheap and high speed broadband internet access
-to the
-[next billion people](https://www.hup.harvard.edu/catalog.php?isbn=9780674983786).
-This will be _game changing_ to global development
-because people with access to information/knowledge/education
-can _dramatically_ improve their own lives
-without north-western aid (_handouts_).
-
-The point of mentioning Space exploration here
-is simply to highlight what is _possible_
-when a clear mission is combined with smart people.
-
-> "_It is possible for ordinary people
-to choose to be extraordinary.”
-~ [Elon Musk](https://www.goodreads.com/author/quotes/7221234.Elon_Musk)
-
-By comparison to launching reusable rockets,
-what _we_ are building is a _lot easier_!
-Build web applications is _definitely_ not "rocket surgery".
-
-![its-not-rocket-surgery-950x400px](https://user-images.githubusercontent.com/194400/65376085-c7173180-dc93-11e9-8e9b-aa6f9dfe31e9.png)
-
-> For anyone who _still_ thinks
-that software development is _difficult_,
-we have several copies of Steve Krug's
-"Rocket Surgery Made Easy" in the library.
-https://www.amazon.com/Rocket-Surgery-Made-Easy/dp/0321657292
-
-
-# History
-
-We have always had a ["_Why_?"](https://github.com/dwyl/start-here#why)
+We have always had a
+["_Why_?"](https://github.com/dwyl/start-here#why)
 goal (_or several goals depending on who you ask_) for @dwyl.
 
 _Long_ before we started @dwyl we had been working for charities
 and non-profit organisations on a variety of missions
-including poverty reduction, cancer research, fair trade and education.
+including poverty reduction, cancer research, homelessness,
+fair trade and education.
 
 One of the things that became clear to us
-while we were working for several charities
-(_and for-profit businesses for that matter_)
+while we were working for various charities
+and for-profit businesses
 was that in _most_ cases time was not used effectively
 and communication channels were poor.
 Even though mission statements were clear,
-translating those words into the day-to-day actions
+_translating_ those words into the day-to-day actions
 that most _effectively_ achieved the mission
 was severely lacking in most cases.
 
@@ -186,6 +96,25 @@ please add them!
 <hr />
 
 
+# What is _@dwyl's_ `Mission`?
+
+Empower people to maximise their personal effectiveness,
+creativity and happiness.
+
+Our App and Community should help people
+to discover meaningful creative work.
+We should proactively share all our learning and knowledge
+and encourage everyone else to do the same
+so that we can accelerate progress
+and build a better future together.
+
+
+
+<!--
+`#helpwanted` refining this.
+-->
+
+
 ## _Most_ People are Disengaged from the Work they Do ...
 
 
@@ -212,23 +141,122 @@ or laser focussed on any mission.
 but a **right** we **all deserve**._"
 > ~ [Rutger Bregman](https://youtu.be/ydKcaIE6O1k?t=841)
 
+We feel this is a huge problem
+because the lives of _hundreds of millions_ of people
+are being wasted doing meaningless jobs.
+We want to help people find
+and focus their time
+on highly meaningful creative work.
+
 We need to attract people who _share_ our mission.
-
-
-
-# What is _@dwyl's_ `Mission`?
-
-Empower people to maximise their personal effectiveness,
-creativity and happiness while learning
-to build a better future together.
-
-`#helpwanted` refining this.
 
 
 <br />
 <hr />
 
-# Notes
+## A Clear Mission: Moon Landing
+
+On May 25, 1961
+President John F. Kennedy stood before Congress,
+and proposed that the US
+"_should commit itself to achieving the goal,
+before this decade is out,
+of landing a man on the Moon
+and returning him safely to the Earth_".
+
+[![jfk-congress-moon-goal](https://user-images.githubusercontent.com/194400/65376387-06934d00-dc97-11e9-871a-c32340d061c2.png)](https://youtu.be/GmN1wO_24Ao "JFK Congress Speech")
+
+President John F. Kennedy
+_clearly_ defined the _mission_ to go to the Moon.
+Landing on the Moon was
+_far_ beyond the capability of the time.
+America had yet to successfully launch
+_anything_ into orbit.
+
+
+[![we-choose-to-go-to-the-moon](https://user-images.githubusercontent.com/194400/65367909-ef217900-dc30-11e9-803d-7bb9f77dfe1c.png)](https://youtu.be/WZyRbnpGyzQ "President Kennedy's Speech at Rice University")
+
+
+> _**We choose** to **go to** the **Moon**!_<sup>1</sup> <br />
+"_We choose to go to the Moon in this decade
+and do the other things, **not because** they are **easy**,
+**but because** they are **hard**;
+because that **goal** will serve to **organize** and **measure**
+the **best** of our **energies** and **skills**, because that **challenge**
+is one that we are willing to **accept**,
+one we are **unwilling** to **postpone**,
+and one **we intend to win**, and the others,
+too._" <br />
+~ [John F. Kennedy](https://en.wikipedia.org/wiki/John_F._Kennedy)
+September 12, 1962
+[wikipedia.org/wiki/We_choose_to_go_to_the_Moon](https://en.wikipedia.org/wiki/We_choose_to_go_to_the_Moon) <br />
+Watch speech (video) for full effect: https://youtu.be/th5A6ZQ28pE
+
+![moon-landing-1969](https://user-images.githubusercontent.com/194400/65367640-3ce7b280-dc2c-11e9-83fe-0c08f732c49a.jpg)
+
+Less than 7 years later, on 20 July 1969,
+Apollo 11 was the first manned mission to land on the Moon.
+https://en.wikipedia.org/wiki/Moon_landing <br />
+
+What is often overlooked is the fact that JFK was killed
+in November 22, 1963
+_long_ before the space program
+had achieved any meaningful progress.
+Despite the demise of JFK,
+the mission to reach the Moon was still achieved.
+Over 400,000 people were involved in the
+The power of a good mission is that it
+transcends the leader who defined it.
+
+SpaceX has a similarly clear mission: https://www.spacex.com/about
+
+![spacex-mission-statement](https://user-images.githubusercontent.com/194400/65367652-8fc16a00-dc2c-11e9-89b8-63d43d401a38.png)
+
+They too have managed feats most experts thought were impossible
+including many records for a privately developed liquid-fueled rocket.
+Booster landing and
+[reusability](https://www.spacex.com/reusability-key-making-human-life-multi-planetary)
+is the key to affordable space travel.
+
+![falcon-heavy-liftoff](https://user-images.githubusercontent.com/194400/68089458-edb6b380-fe60-11e9-90bd-b49c43e2a273.png)
+
+> "_I'm trying to construct a world that maximises the probability that SpaceX continues its mission without me_". Elon Musk
+
+Even if you aren't interested in (_or are **against**_) space exploration,
+one thing is _undeniable_:
+the people at SpaceX are _executing_ on their mission.
+SpaceX's [Starlink](https://www.starlink.com) project
+will bring cheap and high speed broadband internet access
+to the
+[next billion people](https://www.hup.harvard.edu/catalog.php?isbn=9780674983786).
+This will be _game changing_ to global development
+because people with access to information/knowledge/education
+can _dramatically_ improve their own lives
+without north-western aid (_handouts_).
+
+The point of mentioning Space exploration here
+is simply to highlight what is _possible_ <br />
+when a clear mission is combined with smart people.
+
+> "_It is possible for ordinary people
+to choose to be extraordinary_.”
+~ [Elon Musk](https://www.goodreads.com/author/quotes/7221234.Elon_Musk)
+
+By comparison to launching reusable rockets,
+what _we_ are building is a _lot easier_! <br />
+Building web applications is _definitely_ not "rocket surgery".
+
+![its-not-rocket-surgery-950x400px](https://user-images.githubusercontent.com/194400/65376085-c7173180-dc93-11e9-8e9b-aa6f9dfe31e9.png)
+
+> Anyone who _still_ feels
+that software development is _difficult_,
+you are almost certainly over-thinking it;
+we have several copies of Steve Krug's
+"Rocket Surgery Made Easy" in the library.
+https://www.amazon.com/Rocket-Surgery-Made-Easy/dp/0321657292 😉
+
+
+## Notes
 
 > <sup>1</sup> Moon...? 🌔
 Don't _worry_, @dwyl is not "pivoting"
@@ -268,24 +296,27 @@ for their [insecurities](https://en.wikipedia.org/wiki/Emotional_security).
 
 > <sup>2</sup>A member of the team recently asked
 "_Has dwyl's name/ meaning changed?_"
-https://github.com/dwyl/hq/issues/519
+[hq/issues/519](https://github.com/dwyl/hq/issues/519)
 (_we are **stoked** that the person had the
 **courage** to **ask** the **question**,
 because it helped **confirm** our **suspicion**
 that we were **not communicating**
-our **`Mission`** **effectively**..._)
-We have _attempted_ to capture our **`Mission`**
-**`before`**: https://github.com/dwyl/start-here/issues/116  
-but the issue was _closed_
-without any _progress_ being made toward a conclusion,
-that was a _unfortunate_. 😕
+our **`Mission`** **effectively**..._) <br />
+We've _attempted_ to capture our **`Mission`**
+**`before`**:
+[issues/116](https://github.com/dwyl/start-here/issues/116)
+but sadly there was a miscommunication
+that lead to the issue being _closed_
+without any _progress_,
+that was a _unfortunate_. 😕 <br />
 Rather than re-open an issue
 that has a lot of "_baggage_",
-I'm opening a _fresh_ one. 🌱
+we are capturing our thoughts directly in this file. 🌱
 There is also some insight into our mission
-in https://github.com/dwyl/start-here/issues/108
+in
+[issues/108](https://github.com/dwyl/start-here/issues/108)
 as noted by @newswim in
-https://github.com/dwyl/start-here/issues/116#issuecomment-280011877
+[issues/116](https://github.com/dwyl/start-here/issues/116#issuecomment-280011877)
 Anyone interested in going through the old threads,
 go for it! 🔍 `#hypertransparency`
 My goal here
@@ -293,3 +324,9 @@ is to ***summarise*** our quest
 to _define_ @dwyl's **`Mission`**
 and _update_ the **`start-here/README.md`**
 in order to **clarify** it for **`new`** people.
+
+
+<br />
+<hr />
+
+[![HitCount](http://hits.dwyl.io/dwyl/start-here-mission.svg)](http://hits.dwyl.io/dwyl/start-here-mission)
