@@ -80,7 +80,7 @@ to reach their full potential_". (21) ~ https://www.unicef.org/about/who/index_m
 ![charity:water-mission-statement](https://user-images.githubusercontent.com/194400/65378158-c0e17f00-dcac-11e9-9d27-ce4876a745e4.png)
 
 
-### Tesla
+### Tesla
 
 "_Tesla’s mission is to accelerate the world’s transition to sustainable energy._"
 
