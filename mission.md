@@ -148,7 +148,8 @@ We want to help people find
 and focus their time
 on highly meaningful creative work.
 
-We need to attract people who _share_ our mission.
+We need to find people who _share_ our mission
+and collaborate on work that we _love_.
 
 
 <br />
