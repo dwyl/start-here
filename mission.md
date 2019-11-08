@@ -98,7 +98,7 @@ please add them!
 
 # What is _@dwyl's_ `Mission`?
 
-### "_Empower people to maximise their personal effectiveness, creativity and happiness._"
+### "_Empower people to maximise effectiveness, creativity and happiness._"
 
 Our App and Community should help people
 to discover meaningful creative work.
@@ -110,7 +110,7 @@ and build a better future together.
 
 
 <!--
-`#helpwanted` refining this.
+`#helpwanted` refining this. See https://github.com/dwyl/start-here/issues/189
 -->
 
 
