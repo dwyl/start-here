@@ -304,6 +304,7 @@ we suggest you check out the following:
 + Interactive Workshop: https://github.com/jlord/git-it-electron
 + [@NataliaLKB](https://github.com/NataliaLKB)'s Tutorial: https://github.com/NataliaLKB/learn-git-basics
 + [First Contributions](https://github.com/roshanjossey/first-contributions): A project to help you get started with contributing to open source projects
++ Pro Git Book: https://git-scm.com/book/en/v2
 
 ### Open Source
 
