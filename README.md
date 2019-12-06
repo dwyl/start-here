@@ -8,7 +8,6 @@ A Quick-start Guide for people that want to **D**o **W**hat **Y**ou **L**ove!
 > ***Start where you are. Use what you have. Do what you can***.
 > ~ [*Arthur Ashe*](http://en.wikipedia.org/wiki/Arthur_Ashe)
 
-
 ## Why?
 The world is not perfect.  
 We have all worked somewhere we _didn't **love**_. <br />
@@ -39,13 +38,10 @@ The core team operate commercially through http://www.dwyl.io/ - an IT Services 
 [_**Join us**_](#how) in finding a problem you want to **solve** and will
 _**love**_ working on.
 
-
 ## What?
 
 **Q**: What is dwyl?  
-**A**: dwyl (pronounced "[Will](https://www.youtube.com/watch?v=0sxnonO3FXw)"
-but with a "D" infront of it) is a _community_ of people on a
-_**mission to change the world using technology**_.
+**A**: dwyl (pronounced "[Will](https://www.youtube.com/watch?v=0sxnonO3FXw)" but with a "D" in front of it) is a _community_ of people on a _**mission to change the world using technology**_.
 
 We are _starting_ by making the tools _we_ need to help us (and the people we care about) _get things we love **done**_.
 
@@ -57,11 +53,10 @@ We have plans to build *many* other features and we'd *love* you to join us!
 
 Here are a few on the roadmap:
 + [**Tudo**](https://github.com/dwyl/tudo) (_pronounced to-do_) helps you and your team track what you are working on
-+ **When?** syncs calendars and selectively share availability with others to discover when the best time for an activity/event is
++ **When?** syncs calendars and selectively shares availability with others to discover the best time for an activity/event
 - Birthday/Special Event Helper [*AKA* The Card & Gift App]
 
 What question do _**you**_ want to answer?
-
 
 ### Our Approach: Scratching Your *Own* Itch
 
@@ -79,7 +74,6 @@ https://gettingreal.37signals.com/ch02_Whats_Your_Problem.php
 # How?
 
 If you want to get involved with building great tools people love, this section contains everything you need to know.
-
 
 ## What do I need?
 
@@ -105,14 +99,12 @@ to simplifying wording to helping people understand our apps.
 
 Please drop by and tell us what you think! [![Join the chat at https://gitter.im/dwyl/chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/dwyl/chat/)
 
-
 ### Setup (_for Coders_)
 
 If you want to start writing `code` _now_ and don't already have your machine set up, see: https://github.com/dwyl/dev-setup
 
 We also have a [***new developer checklist***](https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md) which  we _encourage_ you to review on the various online services you should know about and set yourself up on:  
 https://github.com/dwyl/start-here/blob/master/new-developer-checklist.md
-
 
 ## Web Development *Fun*damentals
 
@@ -128,7 +120,6 @@ There's no "secret" to becoming an expert, just _experiment_! If you get stuck, 
 If you're still stuck after an hour, **ask for help**!
 If all else fails, *restart* your computer and try again (that's what _**everyone**_ **does**).
 
-
 ### Touch Typing
 
 _**Before**_ you dive into programming, learning how to touch-type on your
@@ -140,7 +131,7 @@ Some of the best programmers we know can type faster than most people can _think
 
 You need to be able to **type blindfolded** to become a true maestro (at anything computer-related).
 
-A few touch-typing tutorials anyone can (_should_) do a few minutes per day. There are many variation on the classic [QWERTY layout](https://en.wikipedia.org/wiki/QWERTY). You should choose a tutorial that's compatible with your keyboard layout:
+A few touch-typing tutorials anyone can (_should_) do a few minutes per day. There are many variations on the classic [QWERTY layout](https://en.wikipedia.org/wiki/QWERTY). You should choose a tutorial that's compatible with your keyboard layout:
 
 + Keybr: [https://www.keybr.com/](https://www.keybr.com/)
   + English (US), English (UK), German (DE), German (CH), French (FR), French (CA), French (CH), Italian, Portuguese (BR), Cyrillic
@@ -166,9 +157,9 @@ Software-development is constant learning, so it is useful to think consciously 
 
 #### General Thoughts on How to Learn
 
-A popular course is [Learning How to Learn]( https://www.coursera.org/learn/learning-how-to-learn) on Coursera taught by [Barbara Oakely](https://en.wikipedia.org/wiki/Barbara_Oakley) and [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski). It serves as a general introduction to concepts about learning how to learn,  with a *slight* emphasis on neuroscience.
+A popular course is [Learning How to Learn]( https://www.coursera.org/learn/learning-how-to-learn) on Coursera taught by [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley) and [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski). It serves as a general introduction to concepts about learning how to learn,  with a *slight* emphasis on neuroscience.
 
-The following articles by [Blaze Koz](https://agileleanlife.com/blaz-kos/) from AgileLeanLife well summarise a lot of the basic concepts on efficient learning:
+The following articles by [Blaz Kos](https://agileleanlife.com/blaz-kos/) from AgileLeanLife well summarise a lot of the basic concepts on efficient learning:
 
 + [Top 10 ways to learn or improve any skill fast](https://agileleanlife.com/how-to-improve-any-skill/): are there better ways to learn or improve a skill?
 + [Optimizing your working memory is more important than your IQ](https://agileleanlife.com/working-memory/): an attention span is a programmer's best friend.
@@ -191,11 +182,9 @@ Learning to code will challenge you in all sorts of ways, and as long as you pus
 + [Can Computer Programming Boost Your Brain Power?](http://blog.teamtreehouse.com/can-computer-programming-boost-brain-power): how will your mind change while learning to code? One of the rare instances where we recommend the comments section!
 + [Programming Literacy: Why Every Kid Should Learn to Code](https://medium.com/javascript-scene/programming-literacy-7bc4ae154b91): among other things, Eric Elliot describes how learning to code at a young age accelerated his academic progress.
 
-
 #### How to Learn Applied to Programming
 
 Here we present more specific information about learning how to learn and your studies in programming.
-
 
 + [Hacking Passion](http://www.kytrinyx.com/talks/hacking-passion/): Katrina Owen breaks down practice into drills, simulations, case studies, direct practice, and imitation. Which kinds of practice are you applying or not applying?
 + [Learning Fluency](https://www.youtube.com/watch?v=AZlOjCZlPLU): Sara Simon talks about learning to learn how to code from the point of view of her many interests such as Chinese, theatre,  and chess. Here is the [article](https://medium.com/@sarambsimon/learning-fluency-672988a7ae52)
@@ -240,9 +229,8 @@ The command line is the basic way to communicate with a computer. The following 
 
 A text editor is the basic tool a programmer uses. Perhaps your main experience is with a [WYSIWYG](https://en.wikipedia.org/wiki/WYSIWYG) text editor such as Microsoft Word. If you need to become more familiar with programmer's text editors, we recommend the following links:
 
-+ The Best Text Editor for Beginners: https://learn.onemonth.com/the-best-text-editors-for-beginners/
++ The Best Text Editors for Beginners: https://learn.onemonth.com/the-best-text-editors-for-beginners/
 + Learn Enough Text Editor to Be Dangerous: https://www.learnenough.com/text-editor-tutorial
-
 
 We use Atom, but Sublime is another popular text editor which is good for someone starting. Emacs and Vim are famous old text editors which have a *much* steeper learning curve. We include information about them for "culture", since they form such a basic part of the programming landscape ( see [holy war of the text editors](https://en.wikipedia.org/wiki/Editor_war)):
 
@@ -254,7 +242,7 @@ We use Atom, but Sublime is another popular text editor which is good for someon
 ### Markdown
 
 If you've never heard of Markdown, get started now: http://markdowntutorial.com/    
-You can refer this [book](https://www.markdownguide.org/book) for learning purposes.
+You can refer to this [book](https://www.markdownguide.org/book) for learning purposes.
 
 ### HTML5
 
@@ -279,7 +267,7 @@ https://www.youtube.com/watch?v=CUxH_rWSI1k
 + Getting started with CSS: https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started
 + Shay's Learn to Code HTML & CSS: http://learn.shayhowe.com/html-css/
 + And specifically for CSS layout techniques: http://learnlayout.com/
-+ Code Academy CSS: http://www.codecademy.com/en/tracks/htmlcss
++ Codecademy CSS: http://www.codecademy.com/en/tracks/htmlcss
 + The CSS Almanac: https://css-tricks.com/almanac/
 
 ### JavaScript
@@ -343,7 +331,6 @@ You know enough Git and GitHub to make a pull request on an open source project.
 
 +  Open Source Guides: https://opensource.guide/
 
-
 ### Design
 
 Building something for _someone else_ is hard.
@@ -352,12 +339,7 @@ And worrying about someone else's _"experience"_ with your app can be a full-tim
 However, it is an essential process for everyone involved in software to partake in.
 The very best pieces of software are differentiated by the quality of their **User Experience design**.
 
- Experiences are, by nature, personal, contextual, ephemeral, and affected by things beyond your control.
- The job of designing one is essentially one of embodying the _real people_ that will be using your product
- and imagining what the experience would be like for them.
- You should try to take into account as much contextual information about your users state of mind, occupation, preference towards sans-serif fonts etc.
- These details will weave a picture of the real humans on the other end of your app
- and help you make decisions about site structure and navigation as well as other less obvious things like content hierarchy: _what should the user see first?_
+Experiences are, by nature, personal, contextual, ephemeral, and affected by things beyond your control. The job of designing one is essentially one of embodying the _real people_ that will be using your product and imagining what the experience would be like for them. You should try to take into account as much contextual information about your users state of mind, occupation, preference towards sans-serif fonts, etc. These details will weave a picture of the real humans on the other end of your app and help you make decisions about site structure and navigation as well as other less obvious things like content hierarchy: _what should the user see first?_
 
  #### Further Reading on Software Design
 
