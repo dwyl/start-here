@@ -202,3 +202,9 @@ to work on an _existing_ project, you will almost _inevitably_
 come across it.
 JavaScript & jQuery Tutorial for Beginners:
 https://youtu.be/VRnQOcVclS8
+
+
+## Read.Read.Read
+
+Never skip a day without reading a good book, be it of any kind of book.
+*Read as much as you can!!*
