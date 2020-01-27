@@ -16,7 +16,9 @@ that _we_ were unable to fix ourselves.
 We have all experienced being in an environment that
 _didn't support us_ in doing all we can do in the world.
 **The aim of _dwyl_ is to address *all* of these issues _simultaneously_:**
-https://github.com/dwyl/start-here/blob/master/mission.md
+please read our [**mission**](https://github.com/dwyl/start-here/blob/master/mission.md)
+to understand our focus on personal effectiveness
+as the starting point for all positive change.
 
 If you'd like to know more about what we value,
 _please **read our [manifesto](https://github.com/dwyl/start-here/blob/master/manifesto.md)**_.  
