@@ -13,7 +13,7 @@ The world is not perfect.
 We have all worked somewhere we _didn't **love**_. <br />
 We have _all_ felt the _frustration_ of using products that have flaws
 that _we_ were unable to fix ourselves.   
-We have all experiened being in an environment that
+We have all experienced being in an environment that
 _didn't support us_ in doing all we can do in the world.
 **The aim of _dwyl_ is to address *all* of these issues _simultaneously_:**
 https://github.com/dwyl/start-here/blob/master/mission.md
