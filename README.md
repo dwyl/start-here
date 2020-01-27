@@ -12,15 +12,22 @@ A Quick-start Guide for people that want to **D**o **W**hat **Y**ou **L**ove!
 The world is not perfect.  
 We have all worked somewhere we _didn't **love**_. <br />
 We have _all_ felt the _frustration_ of using products that have flaws
-(and been unable to fix them).   
-**The aim of _dwyl_ is to address *both* of these issues _simultaneously_.**
+that _we_ were unable to fix ourselves.   
+We have all experienced being in an environment that
+_didn't support us_ in doing all we can do in the world.
+**The aim of _dwyl_ is to address *all* of these issues _simultaneously_:**
+please read our [**mission**](https://github.com/dwyl/start-here/blob/master/mission.md#what-is-dwyls-mission)
+to understand our focus on personal effectiveness
+as the starting point for all positive change.
 
-If you'd like to know more, _please **read our [manifesto](/manifesto.md)**_.  
+If you'd like to know more about what we value,
+_please **read our [manifesto](https://github.com/dwyl/start-here/blob/master/manifesto.md)**_.  
  The short version is:
 "_**Treat others as you would like others to treat you**_" ~
-[***The Golden Rule***](/manifesto.md)
+[***The Golden Rule***](https://github.com/dwyl/start-here/blob/master/manifesto.md)
 
-If you want to be part of the solution, join us: http://www.dwyl.io/
+If you want to be part of the solution, join us:
+http://www.dwyl.com
 
 > If you haven't read **Simon Sinek**'s book "***Start with Why***",
 we *highly recommend* taking a few minutes to watch his **Ted Talk**:
@@ -32,8 +39,6 @@ http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
 of the familiar faces contributing to our projects:
 
 [![dwyl-community](https://user-images.githubusercontent.com/194400/28011265-a95f52d4-6559-11e7-823e-6133d947921a.jpg)](https://github.com/dwyl/who)
-
-The core team operate commercially through http://www.dwyl.io/ - an IT Services Company based in the United Kingdom. The commercial activity funds us personally and shapes the structure of our efforts including contribution prioritisation as well as our primary [technology stack](https://github.com/dwyl/technology-stack). 
 
 [_**Join us**_](#how) in finding a problem you want to **solve** and will
 _**love**_ working on.
