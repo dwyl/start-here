@@ -33,7 +33,7 @@ to stay up to date with news/updates in your chosen field. https://twitter.com/
 Even if you don't become a Twitter "Power User", its good to follow
 what's going on in your the world of web/app development.
 
-### Chosing a good Twitter "Handle"
+### Choosing a good Twitter "Handle"
 
 > "All of the *good* names are taken..."
 

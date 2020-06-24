@@ -52,4 +52,4 @@ Only by understanding a person's _intrinsic motivations_ can you hope to work we
 3. Show the person the knowledge repository they will need before they can be productive: https://github.com/dwyl?utf8=%E2%9C%93&q=learn
 6. Ensure the person has a complete knowledge of our Why? What? and How?
 6. Help the person pick a task to start with from the backlog.
-10. Encourage the new person to ask as many questions as they need to by searching through existing knowledge base and posting fresh questions (_to which they did not find an adequate answer during thier initial search_) 
+10. Encourage the new person to ask as many questions as they need to by searching through existing knowledge base and posting fresh questions (_to which they did not find an adequate answer during their initial search_) 
