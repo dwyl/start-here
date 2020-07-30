@@ -148,6 +148,8 @@ A few touch-typing tutorials anyone can (_should_) do a few minutes per day. The
   + English/US
 + Typing.com: [https://www.typing.com](https://www.typing.com)
   + English (US), English (UK), English (CA), Spanish, [AZERTY](https://en.wikipedia.org/wiki/AZERTY) (FR), Italian, Portuguese (PT), Portuguese (BR), Norwegian, Icelandic, Dansk, Swedish, Chinese, Japanese, and **many more** (by far the most thorough of the bunch)
++ Typing.io: [https://typing.io/](https://typing.io/)
+  + English/US, focuses on **typing code specifically** with emphasis not only on letters but also special characters
 
 You can connect your touch-typing practice with learning to code, by using the code samples in your learning resources to practice your typing. Learning to touch-type accurately is therefore important for creating the proper muscle-memory for the code (Markdown, HTML, CSS, Javascript, etc) that you are learning. Here are resources that explain the importance of typing out code by hand:
 
