@@ -439,3 +439,20 @@ Please _validate_ your JSON using http://jsonlint.com/ _thanks_!
 }
 ```
 
+
+#### Cracking the Coding Interview, 6th Edition: 189 Programming Questions and Solutions 
+```js
+{
+    "Title": "Cracking the Coding Interview, 6th Edition: 189 Programming Questions and Solutions",
+    "Author": "Gayle Laakmann McDowell",
+    "Date": "2015",
+    "ISBN": "978-0984782857",
+    "SuggestedBy": "Ankush",
+    "GitHubId": "An-prog-hub",
+    "Subject": "Coding Interview",
+    "WhyIChoseIt": "Learn how to uncover the hints and hidden details in a question, discover how to break down a problem into manageable chunks, develop techniques to unstick yourself when stuck, learn (or re-learn) core computer science concepts, and practice on 189 interview questions and solutions.",
+    "WhyOthersShouldReadIt": "Highly praised by many top programmers in the industry",
+    "WhatILearned": "Extensive coverage of essential topics, such as big O time, data structures, and core algorithms.",
+    "Link": "https://www.amazon.co.uk/Cracking-Coding-Interview-6th-Programming/dp/0984782850/"
+}
+```
