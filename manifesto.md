@@ -20,12 +20,12 @@ In *everything* we do, we follow [**The Golden Rule**](https://en.wikipedia.org/
 
 ### Community driven
 
-We have a lot of ideas for great ways the app can help you track your time, become more productive and more organised (based on the [latest science](#latest-science)), but we don’t want to [give you something you don’t want](#no-forced-updates) so we’ll be asking you for your thoughts before we start working on new features. Everything we put out into the world will be voted on by you, the people who use our app. And we hope that once you start using it, [you’ll have some great ideas](http://web.mit.edu/evhippel/www/democ1.htm) of things you’d like to see built into the app and we can vote on those as a community too.
+We have a lot of ideas for great ways the app can help you track your time, become more productive and more organised (based on the [latest science](#latest-science)), but we don’t want to [give you something you don’t want](#no-forced-updates) so we’ll be asking you for your thoughts before we start working on new features. Everything we put out into the world will be voted on by you, the people who use our app. And we hope that once you start using it, [you’ll have some great ideas](https://web.mit.edu/evhippel/www/democ1.htm) of things you’d like to see built into the app and we can vote on those as a community too.
 
 <a name="no-selling-data"/>
 
 ### Your data is yours
- Which means we don’t sell it. We [don’t use it to study you without your knowledge or consent](http://www.forbes.com/sites/kashmirhill/2014/06/28/facebook-manipulated-689003-users-emotions-for-science/). We don’t give it to your boss. It’s your information and you are in control of who sees any given portion of it and how it’s used ([simply and easily](#simple), not hidden behind a mass of complicated menus).
+ Which means we don’t sell it. We [don’t use it to study you without your knowledge or consent](https://www.forbes.com/sites/kashmirhill/2014/06/28/facebook-manipulated-689003-users-emotions-for-science/). We don’t give it to your boss. It’s your information and you are in control of who sees any given portion of it and how it’s used ([simply and easily](#simple), not hidden behind a mass of complicated menus).
 <a name="community"/>
 
 ### Environmental love

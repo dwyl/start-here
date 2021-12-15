@@ -8,8 +8,8 @@ If you don't already have one, create a Gmail (Google) Account
 ### Why?
 
 Your email address says a lot about you.
-read: http://theoatmeal.com/comics/email_address
-or http://www.telegraph.co.uk/technology/news/10605176/What-does-your-email-address-say-about-you.html
+read: https://theoatmeal.com/comics/email_address
+or https://www.telegraph.co.uk/technology/news/10605176/What-does-your-email-address-say-about-you.html
 
 Gmail is the best ("free") email service (we are aware of).
 They take security seriously and have *many* great features
@@ -139,10 +139,10 @@ and: https://www.youtube.com/watch?v=U8GBXvdmHT4 (The Basics of Git and GitHub)
 
 Learn how to use the **Terminal**:
 
-> [Build Podcast - Terminal](http://vimeo.com/43649618)
+> [Build Podcast - Terminal](https://vimeo.com/43649618)
 
 Learn more about Unix (the Operating System of *most* Servers)
-read: http://www.unixmages.com/ufbm.pdf
+read: https://www.unixmages.com/ufbm.pdf
 
 ## StackOverflow / StackExchange
 
@@ -152,7 +152,7 @@ Create an account and explore.
 > https://stackoverflow.com/users/signup
 
 Once you have registered, try _answering_ people's questions:
-http://stackoverflow.com/?tab=interesting
+https://stackoverflow.com/?tab=interesting
 
 When you get stuck on _anything_
 
@@ -190,13 +190,13 @@ you ask *specific* people in the industry a question.
 
 Again, use your gmail to register/sign-in
 
-> http://www.quora.com/
+> https://www.quora.com/
 
 
 ## JQuery
 
 While we don't tend to use JQuery for *new* projects @dwyl
-(see: http://youmightnotneedjquery.com ),
+(see: https://youmightnotneedjquery.com ),
 JQuery is still used on 65% of websites, so if you ever have
 to work on an _existing_ project, you will almost _inevitably_
 come across it.
