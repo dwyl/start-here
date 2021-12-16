@@ -329,4 +329,4 @@ in order to **clarify** it for **`new`** people.
 <br />
 <hr />
 
-[![HitCount](http://hits.dwyl.io/dwyl/start-here-mission.svg)](http://hits.dwyl.io/dwyl/start-here-mission)
+[![HitCount](https://hits.dwyl.com/dwyl/start-here-mission.svg)](https://hits.dwyl.com/dwyl/start-here-mission)

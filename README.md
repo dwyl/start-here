@@ -6,7 +6,7 @@ A Quick-start Guide for people that want to **D**o **W**hat **Y**ou **L**ove!
 ![dwyl-logo-wide](https://cloud.githubusercontent.com/assets/194400/8141150/f4b4c854-115a-11e5-8c13-dc96a5f1e928.png)
 
 > ***Start where you are. Use what you have. Do what you can***.
-> ~ [*Arthur Ashe*](http://en.wikipedia.org/wiki/Arthur_Ashe)
+> ~ [*Arthur Ashe*](https://en.wikipedia.org/wiki/Arthur_Ashe)
 
 ## Why?
 The world is not perfect.  
@@ -27,11 +27,11 @@ _please **read our [manifesto](https://github.com/dwyl/start-here/blob/master/ma
 [***The Golden Rule***](https://github.com/dwyl/start-here/blob/master/manifesto.md)
 
 If you want to be part of the solution, join us:
-http://www.dwyl.com
+https://www.dwyl.com
 
 > If you haven't read **Simon Sinek**'s book "***Start with Why***",
 we *highly recommend* taking a few minutes to watch his **Ted Talk**:
-http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
+https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action
 
 ## Who?
 
@@ -84,7 +84,7 @@ If you want to get involved with building great tools people love, this section 
 
 + [ ] **Curiosity** - "I have **no special talent**. I am only _**passionately curious**_." - Albert Einstein
 + [ ] **Enthusiasm** - "Enthusiasm spells the _**difference between mediocrity and accomplishment**_." - Norman Vincent Peale
-+ [ ] [**Shoshin**](http://en.wikipedia.org/wiki/Shoshin) (**Beginner's Mind**) - "I'm not young enough to know everything" - J. M. Barrie
++ [ ] [**Shoshin**](https://en.wikipedia.org/wiki/Shoshin) (**Beginner's Mind**) - "I'm not young enough to know everything" - J. M. Barrie
 + [ ] **Persistence** - "If you wish to be out front, then act as if you were behind.” - Lao Tzu
 + [ ] **Work Ethic** - ["**work super hard** ... _**every waking hour**_"](https://www.youtube.com/watch?v=NU7W7qe2R0A) ~ Elon Musk
 + [ ] **Time** - if you only have _**1 minute**_ there's _something_ you can do _now_!
@@ -132,7 +132,7 @@ computer is the *single* _**best investment**_ you can make.
 All this means is _practising_ typing with the "correct fingers" until you don't have to think about where the keys are.
 Some of the best programmers we know can type faster than most people can _think_ ... take a moment for that to settle in.
 
-[![playing piano blindfolded](http://i.imgur.com/4dzAeSz.jpg)](https://www.youtube.com/watch?v=Z-iyiWHI2nA "playing piano blindfolded")
+[![playing piano blindfolded](https://i.imgur.com/4dzAeSz.jpg)](https://www.youtube.com/watch?v=Z-iyiWHI2nA "playing piano blindfolded")
 
 You need to be able to **type blindfolded** to become a true maestro (at anything computer-related).
 
@@ -142,9 +142,9 @@ A few touch-typing tutorials anyone can (_should_) do a few minutes per day. The
   + English (US), English (UK), German (DE), German (CH), French (FR), French (CA), French (CH), Italian, Portuguese (BR), Cyrillic
 + Typing Club: [https://www.typingclub.com/](https://www.typingclub.com/)
   + English/US
-+ BBC - Dance Mat Typing: [http://www.bbc.co.uk/guides/z3c6tfr#zg8nsbk] (http://www.bbc.co.uk/guides/z3c6tfr#zg8nsbk)
++ BBC - Dance Mat Typing: [https://www.bbc.co.uk/guides/z3c6tfr#zg8nsbk] (https://www.bbc.co.uk/guides/z3c6tfr#zg8nsbk)
   + English/UK
-+ typrX: [http://app.typrx.com](http://app.typrx.com)
++ typrX: [https://app.typrx.com](https://app.typrx.com)
   + English/US
 + Typing.com: [https://www.typing.com](https://www.typing.com)
   + English (US), English (UK), English (CA), Spanish, [AZERTY](https://en.wikipedia.org/wiki/AZERTY) (FR), Italian, Portuguese (PT), Portuguese (BR), Norwegian, Icelandic, Dansk, Swedish, Chinese, Japanese, and **many more** (by far the most thorough of the bunch)
@@ -186,14 +186,14 @@ Learning to code has many a steep learning curve, but apparently so does becomin
 
 Learning to code will challenge you in all sorts of ways, and as long as you push through the challenge, that is good for you!
 
-+ [Can Computer Programming Boost Your Brain Power?](http://blog.teamtreehouse.com/can-computer-programming-boost-brain-power): how will your mind change while learning to code? One of the rare instances where we recommend the comments section!
++ [Can Computer Programming Boost Your Brain Power?](https://blog.teamtreehouse.com/can-computer-programming-boost-brain-power): how will your mind change while learning to code? One of the rare instances where we recommend the comments section!
 + [Programming Literacy: Why Every Kid Should Learn to Code](https://medium.com/javascript-scene/programming-literacy-7bc4ae154b91): among other things, Eric Elliot describes how learning to code at a young age accelerated his academic progress.
 
 #### How to Learn Applied to Programming
 
 Here we present more specific information about learning how to learn and your studies in programming.
 
-+ [Hacking Passion](http://www.kytrinyx.com/talks/hacking-passion/): Katrina Owen breaks down practice into drills, simulations, case studies, direct practice, and imitation. Which kinds of practice are you applying or not applying?
++ [Hacking Passion](https://www.kytrinyx.com/talks/hacking-passion/): Katrina Owen breaks down practice into drills, simulations, case studies, direct practice, and imitation. Which kinds of practice are you applying or not applying?
 + [Learning Fluency](https://www.youtube.com/watch?v=AZlOjCZlPLU): Sara Simon talks about learning to learn how to code from the point of view of her many interests such as Chinese, theatre,  and chess. Here is the [article](https://medium.com/@sarambsimon/learning-fluency-672988a7ae52)
 + [The myth of the "Real Javascript Developer"](https://www.youtube.com/watch?v=Xt5qpbiqw2g): Brenna O'Brien describes the constant learning journey that is learning to code.
 
@@ -248,7 +248,7 @@ We use Atom, but Sublime is another popular text editor which is good for someon
 
 ### Markdown
 
-If you've never heard of Markdown, get started now: http://markdowntutorial.com/    
+If you've never heard of Markdown, get started now: https://markdowntutorial.com/    
 You can refer to this [book](https://www.markdownguide.org/book) for learning purposes.
 
 ### HTML5
@@ -264,7 +264,7 @@ The _rest_ of HTML5 you will learn [_just-in-time_](https://en.wikipedia.org/wik
 ### CSS
 
 **C**ascading **S**tyle **S**heets (_**CSS**_) is what makes the web attractive. If you want to see the power of CSS, visit ZenGarden:
-http://www.csszengarden.com/
+https://www.csszengarden.com/
 
 CSS3 beginner (or _refresher_) Tutorial (_in one hour_):
 https://www.youtube.com/watch?v=CUxH_rWSI1k
@@ -272,15 +272,15 @@ https://www.youtube.com/watch?v=CUxH_rWSI1k
 #### Further CSS learning
 
 + Getting started with CSS: https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Getting_started
-+ Shay's Learn to Code HTML & CSS: http://learn.shayhowe.com/html-css/
-+ And specifically for CSS layout techniques: http://learnlayout.com/
-+ Codecademy CSS: http://www.codecademy.com/en/tracks/htmlcss
++ Shay's Learn to Code HTML & CSS: https://learn.shayhowe.com/html-css/
++ And specifically for CSS layout techniques: https://learnlayout.com/
++ Codecademy CSS: https://www.codecademy.com/en/tracks/htmlcss
 + The CSS Almanac: https://css-tricks.com/almanac/
 
 ### JavaScript
 
 Love it or hate it, **JavaScript is** ***Ubiquitous***. Becoming a ***JS Ninja*** is ***essential***.   
-[Ines](http://github.com/iteles) has prepared some great notes on
+[Ines](https://github.com/iteles) has prepared some great notes on
 [JavaScript The Good Parts](https://github.com/iteles/Javascript-the-Good-Parts).
 Keep "**The Good Parts**" in mind while you are writing (and reading) JS.
 
@@ -353,10 +353,10 @@ Experiences are, by nature, personal, contextual, ephemeral, and affected by thi
  _We are in the process of developing our own reading materials to help you learn about UX and UI design.
  In the meantime, here are some recommended links:_
 
- - [Principles of User "Onboarding" through critiques](http://www.useronboard.com/onboarding-teardowns/)
+ - [Principles of User "Onboarding" through critiques](https://www.useronboard.com/onboarding-teardowns/)
  - [125 Tips for Improving UX/UI](https://www.nickkolenda.com/user-experience/)
  - [The 9 States of Design](https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85?ref=uxhandy)
- - [Find a Great Font Pair](http://fontpair.co/#five)
+ - [Find a Great Font Pair](https://fontpair.co/#five)
  - [Make a lovely Colour Palette](https://coolors.co/)
 
 ## Ready to Get Involved?
