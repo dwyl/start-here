@@ -368,4 +368,4 @@ If you want to help improve any aspect of the code, **star :star: this repo on G
 If you want to know more about the **Technology** "_**Stack**_" we are using  
 see: https://github.com/dwyl/technology-stack
 
-[![HitCount](https://hitt.herokuapp.com/dwyl/start-here.svg)](https://github.com/dwyl/start-here)
+[![HitCount](https://hits.dwyl.com/dwyl/start-here.svg?style=flat-square)](https://hits.dwyl.com/dwyl/start-here)
