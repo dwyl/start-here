@@ -86,7 +86,7 @@ If you want to get involved with building great tools people love, this section 
 + [ ] **Enthusiasm** - "Enthusiasm spells the _**difference between mediocrity and accomplishment**_." - Norman Vincent Peale
 + [ ] [**Shoshin**](https://en.wikipedia.org/wiki/Shoshin) (**Beginner's Mind**) - "I'm not young enough to know everything" - J. M. Barrie
 + [ ] **Persistence** - "If you wish to be out front, then act as if you were behind.” - Lao Tzu
-+ [ ] **Work Ethic** - ["**work super hard** ... _**every waking hour**_"](https://www.youtube.com/watch?v=NU7W7qe2R0A) ~ Elon Musk
++ [ ] **Work Ethic** - ["**work super hard** ... _**every waking hour**_"](https://www.youtube.com/watch?v=gpioK1kIRg4) ~ Elon Musk
 + [ ] **Time** - if you only have _**1 minute**_ there's _something_ you can do _now_!
 + [ ] **Great Google Skills** - the ability to formulate a good question (so you can get a useful answer from Google) is (more than) half the challenge in any ~~coding~~ task
 + [ ] **Self-reliance**: when you get stuck on a task, knowing **when to ask for help** and when to _persevere_ through to find the answer yourself
