@@ -1,0 +1,4 @@
+# This document allows GitHub to identify Markdown as a language and add them to GitHub Repository's language statistics.
+# https://gist.github.com/TitanRGB/5c7d35afb0999bfc7a3e03adab99438b
+*.md linguist-detectable=true
+*.md linguist-documentation=false
