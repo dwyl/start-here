@@ -9,7 +9,7 @@ A Quick-start Guide for people that want to **D**o **W**hat **Y**ou **L**ove!
 > ~ [*Arthur Ashe*](https://en.wikipedia.org/wiki/Arthur_Ashe)
 
 ## Why?
-The world is not perfect.  
+The world is not [perfect](https://wkwklotery.id).  
 We have all worked somewhere we _didn't **love**_. <br />
 We have _all_ felt the _frustration_ of using products that have flaws
 that _we_ were unable to fix ourselves.   
