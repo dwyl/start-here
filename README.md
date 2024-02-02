@@ -166,12 +166,12 @@ Software-development is constant learning, so it is useful to think consciously 
 
 A popular course is [Learning How to Learn]( https://www.coursera.org/learn/learning-how-to-learn) on Coursera taught by [Barbara Oakley](https://en.wikipedia.org/wiki/Barbara_Oakley) and [Terry Sejnowski](https://en.wikipedia.org/wiki/Terry_Sejnowski). It serves as a general introduction to concepts about learning how to learn,  with a *slight* emphasis on neuroscience.
 
-The following articles by [Blaz Kos](https://agileleanlife.com/blaz-kos/) from AgileLeanLife well summarise a lot of the basic concepts on efficient learning:
+The following articles by [Blaz Kos](https://agileleanlife.org/blaz-kos/) from AgileLeanLife well summarise a lot of the basic concepts on efficient learning:
 
-+ [Top 10 ways to learn or improve any skill fast](https://agileleanlife.com/how-to-improve-any-skill/): are there better ways to learn or improve a skill?
-+ [Optimizing your working memory is more important than your IQ](https://agileleanlife.com/working-memory/): an attention span is a programmer's best friend.
-+ [How to study, learn & master things faster than people with the highest IQ](https://agileleanlife.com/how-to-study-and-learn/): not many have consciously thought about how they go about learning.
-+ [Learning is useless, validated learning is everything](https://agileleanlife.com/validated-learning/): thinking of how to validate one's learning, improves the learning.
++ [Top 10 ways to learn or improve any skill fast](https://agileleanlife.org/how-to-improve-any-skill/): are there better ways to learn or improve a skill?
++ [Optimizing your working memory is more important than your IQ](https://agileleanlife.org/working-memory/): an attention span is a programmer's best friend.
++ [How to study, learn & master things faster than people with the highest IQ](https://agileleanlife.org/how-to-study-and-learn/): not many have consciously thought about how they go about learning.
++ [Learning is useless, validated learning is everything](https://agileleanlife.org/validated-learning/): thinking of how to validate one's learning, improves the learning.
 
 We feel socially obligated to mention Richard Feynman:
 
